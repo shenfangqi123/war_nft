@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "move-n-5",
+    "texture": "4c4354a2-d87d-400c-b508-443dc025a0b2",
+    "atlas": "cfa62e54-9a08-44bd-ac34-dd049911b418",
+    "rect": [
+      452,
+      93,
+      82,
+      89
+    ],
+    "offset": [
+      15,
+      -12
+    ],
+    "originalSize": [
+      176,
+      155
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "packedTextures": [
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-2.png",
+      "name": "AutoAtlas-2.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-3.png",
+      "name": "AutoAtlas-3.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-4.png",
+      "name": "AutoAtlas-4.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-5.png",
+      "name": "AutoAtlas-5.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-6.png",
+      "name": "AutoAtlas-6.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-7.png",
+      "name": "AutoAtlas-7.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-8.png",
+      "name": "AutoAtlas-8.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-9.png",
+      "name": "AutoAtlas-9.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-10.png",
+      "name": "AutoAtlas-10.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-11.png",
+      "name": "AutoAtlas-11.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-12.png",
+      "name": "AutoAtlas-12.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-13.png",
+      "name": "AutoAtlas-13.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-14.png",
+      "name": "AutoAtlas-14.png",
+      "size": "1024x512"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/AutoAtlas.pac/AutoAtlas-15.png",
+      "name": "AutoAtlas-15.png",
+      "size": "1024x512"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/eb/eb069100-3e2b-405b-a92b-fe7e80bc6def.png",
+      "name": "archer.png",
+      "size": "1664x132"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/32/32a54249-eab8-4090-b6e8-73da8275a6ed.png",
+      "name": "arena3.png",
+      "size": "604x963"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/b2/b258344e-ec29-4ee0-87ae-ef8c8183e6c1.png",
+      "name": "bd-explore.png",
+      "size": "1661x1014"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/4c/4c4354a2-d87d-400c-b508-443dc025a0b2.png",
+      "name": "hero.png",
+      "size": "1553x254"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/96/96321edf-d338-4b6c-8e2a-3ea35f342203.png",
+      "name": "iron.png",
+      "size": "254x1550"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/22/22d2925e-c6d1-440b-9cb2-c8c4d71721c7.png",
+      "name": "lightEffect.png",
+      "size": "1083x510"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/bf/bfd677a4-42bd-4033-bbab-ed878918fb1c.png",
+      "name": "rockMan.png",
+      "size": "256x1662"
+    },
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/6f/6fc03589-8d9c-4f8e-8f45-2e3f389bfcf2.png",
+      "name": "wiz.png",
+      "size": "1888x128"
+    }
+  ]
+}

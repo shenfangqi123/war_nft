@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hrGroupAttack",
+    "texture": "a8d02fca-1346-4c40-9fc2-745d8fc1d797",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      598,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      602,
+      103
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

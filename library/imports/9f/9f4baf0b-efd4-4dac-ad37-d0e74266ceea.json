@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "magicFire",
+    "texture": "a49f290d-1a36-49df-b42b-0e641f2b9033",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      546,
+      128
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      548,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

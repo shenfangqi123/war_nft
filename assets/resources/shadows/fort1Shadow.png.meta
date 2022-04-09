@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "24a4b487-7733-4df7-8a98-294a430ab7e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 63,
+  "height": 35,
+  "platformSettings": {},
+  "subMetas": {
+    "fort1Shadow": {
+      "ver": "1.0.4",
+      "uuid": "4da24608-3234-4fb1-9175-da80e8f90662",
+      "rawTextureUuid": "24a4b487-7733-4df7-8a98-294a430ab7e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 63,
+      "height": 35,
+      "rawWidth": 63,
+      "rawHeight": 35,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

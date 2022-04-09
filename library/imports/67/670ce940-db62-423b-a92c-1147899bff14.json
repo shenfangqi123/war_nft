@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ironman",
+    "texture": "dd75b4ef-bc26-457e-ac7a-04f459663ee2",
+    "atlas": "",
+    "rect": [
+      51,
+      42,
+      48,
+      70
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      150,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

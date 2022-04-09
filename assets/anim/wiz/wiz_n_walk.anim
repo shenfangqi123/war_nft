@@ -1,0 +1,108 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wiz_n_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 80,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e8fd9dde-8c10-453a-9e9e-50c5ea9b2979"
+            }
+          },
+          {
+            "frame": 0.0125,
+            "value": {
+              "__uuid__": "2ca3da20-f8ac-4776-8cb0-8acbec7a8d8f"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "be0ef4e1-c970-4f8d-8f76-2dbea2afbe62"
+            }
+          },
+          {
+            "frame": 0.0375,
+            "value": {
+              "__uuid__": "28cb3b72-3a3c-4e5b-a82a-2a4b10c51dc3"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "47975716-db9f-4c16-b52a-0e170824dc3b"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "812b6a67-21cb-42a8-ba24-34060488aed1"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "3097f09e-fb33-4c05-bd10-1bf97f8ae3b5"
+            }
+          },
+          {
+            "frame": 0.0875,
+            "value": {
+              "__uuid__": "13347870-f338-4f55-898f-482902e65f35"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "frame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0125,
+      "func": "frame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.025,
+      "func": "frame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0375,
+      "func": "frame4Evt",
+      "params": []
+    },
+    {
+      "frame": 0.05,
+      "func": "frame5Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0625,
+      "func": "frame6Evt",
+      "params": []
+    },
+    {
+      "frame": 0.075,
+      "func": "frame7Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0875,
+      "func": "frame8Evt",
+      "params": []
+    }
+  ]
+}

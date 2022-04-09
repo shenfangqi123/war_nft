@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nft_layout",
+    "texture": "81b3122a-6f7f-4212-be8b-53bfd0289791",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1330,
+      608
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1330,
+      608
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

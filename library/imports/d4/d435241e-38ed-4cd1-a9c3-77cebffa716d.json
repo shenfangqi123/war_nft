@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske_walk_s5",
+    "texture": "c646fd4c-e4ed-43b6-a529-99325c75e001",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fortA",
+    "texture": "3cfa45f3-8121-477d-acdb-61f935b9952a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      88
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

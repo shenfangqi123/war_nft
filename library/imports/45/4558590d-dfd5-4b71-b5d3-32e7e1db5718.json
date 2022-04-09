@@ -1,0 +1,190 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lightEff",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.32,
+  "sample": 50,
+  "speed": 0.5,
+  "wrapMode": "0",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d3726698-ac06-45ed-85dc-839dae149be0"
+            }
+          },
+          {
+            "frame": 0.02,
+            "value": {
+              "__uuid__": "efe87188-14a9-4c02-8473-cf7116aebd19"
+            }
+          },
+          {
+            "frame": 0.04,
+            "value": {
+              "__uuid__": "c067c33a-e158-4e2c-b50e-70bbfe6288a6"
+            }
+          },
+          {
+            "frame": 0.06,
+            "value": {
+              "__uuid__": "a4ca9e98-eb24-47d4-add6-ef4c72abb76d"
+            }
+          },
+          {
+            "frame": 0.08,
+            "value": {
+              "__uuid__": "57a6ee0b-bb24-42b8-8f51-97a10da8924b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d3726698-ac06-45ed-85dc-839dae149be0"
+            }
+          },
+          {
+            "frame": 0.12,
+            "value": {
+              "__uuid__": "efe87188-14a9-4c02-8473-cf7116aebd19"
+            }
+          },
+          {
+            "frame": 0.14,
+            "value": {
+              "__uuid__": "c067c33a-e158-4e2c-b50e-70bbfe6288a6"
+            }
+          },
+          {
+            "frame": 0.16,
+            "value": {
+              "__uuid__": "a4ca9e98-eb24-47d4-add6-ef4c72abb76d"
+            }
+          },
+          {
+            "frame": 0.18,
+            "value": {
+              "__uuid__": "57a6ee0b-bb24-42b8-8f51-97a10da8924b"
+            }
+          },
+          {
+            "frame": 0.22,
+            "value": {
+              "__uuid__": "d3726698-ac06-45ed-85dc-839dae149be0"
+            }
+          },
+          {
+            "frame": 0.24,
+            "value": {
+              "__uuid__": "efe87188-14a9-4c02-8473-cf7116aebd19"
+            }
+          },
+          {
+            "frame": 0.26,
+            "value": {
+              "__uuid__": "c067c33a-e158-4e2c-b50e-70bbfe6288a6"
+            }
+          },
+          {
+            "frame": 0.28,
+            "value": {
+              "__uuid__": "a4ca9e98-eb24-47d4-add6-ef4c72abb76d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "57a6ee0b-bb24-42b8-8f51-97a10da8924b"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "curve": "linear"
+        },
+        {
+          "frame": 0.08,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          },
+          "curve": "constant"
+        },
+        {
+          "frame": 0.1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.18,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "frame": 0.22,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.5,
+            "y": 0.5
+          },
+          "curve": "linear"
+        },
+        {
+          "frame": 0.3,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.1,
+          "value": -30
+        },
+        {
+          "frame": 0.22,
+          "value": -220
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "lightEffectStartEvt",
+      "params": []
+    },
+    {
+      "frame": 0.3,
+      "func": "lightEffectEndEvt",
+      "params": []
+    }
+  ]
+}

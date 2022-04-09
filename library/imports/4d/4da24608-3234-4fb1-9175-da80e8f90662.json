@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fort1Shadow",
+    "texture": "24a4b487-7733-4df7-8a98-294a430ab7e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      63,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      63,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

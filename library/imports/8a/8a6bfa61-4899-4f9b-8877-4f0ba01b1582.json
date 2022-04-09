@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "magicBarJuice",
+    "texture": "2290b811-56ed-4859-ab73-7a8cf6ee3059",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      10,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      10,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

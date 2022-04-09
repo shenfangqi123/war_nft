@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lieren",
+    "texture": "b928aa34-efda-4c25-888c-f306d40f1ce9",
+    "atlas": "",
+    "rect": [
+      15,
+      22,
+      45,
+      58
+    ],
+    "offset": [
+      -2.5,
+      -11
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

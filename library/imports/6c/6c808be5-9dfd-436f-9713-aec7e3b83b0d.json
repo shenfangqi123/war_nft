@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logShadow",
+    "texture": "82a550e1-c8cb-43e8-9e16-b5ed06946948",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

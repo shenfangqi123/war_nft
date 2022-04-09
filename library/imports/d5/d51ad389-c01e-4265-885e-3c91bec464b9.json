@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "relay",
+    "texture": "79676ee4-1654-4120-bfe3-69396a788c8f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      77,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      77,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

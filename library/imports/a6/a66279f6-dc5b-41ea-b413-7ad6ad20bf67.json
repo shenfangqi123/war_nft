@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "magicFire.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "0": {
+      "__uuid__": "97e36c1a-0d1f-41e4-b0c6-5251d3c5e8bb"
+    },
+    "1": {
+      "__uuid__": "81f1cbd8-ccb6-4586-a839-e9818c29d332"
+    },
+    "2": {
+      "__uuid__": "846a955c-0810-4eb7-9892-e131183384e5"
+    },
+    "3": {
+      "__uuid__": "5b8252b3-e265-4393-b221-6279269a14d4"
+    },
+    "4": {
+      "__uuid__": "24ddccaa-11c8-4d77-8e69-acc6587157b1"
+    }
+  }
+}

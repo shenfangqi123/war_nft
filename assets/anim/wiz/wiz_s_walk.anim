@@ -1,0 +1,177 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wiz_s_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 80,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c23d4339-cfe8-40d7-9413-1d4b72091413"
+            }
+          },
+          {
+            "frame": 0.0125,
+            "value": {
+              "__uuid__": "606c22dc-f888-4595-a12b-4d931f1f4233"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "233bf84d-a60d-412e-be44-12a46a3c73e6"
+            }
+          },
+          {
+            "frame": 0.0375,
+            "value": {
+              "__uuid__": "d9717197-5248-4c43-a76a-7ad202418521"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "186dd35b-04d4-479b-a00e-683a4da709f8"
+            }
+          },
+          {
+            "frame": 0.0625,
+            "value": {
+              "__uuid__": "29cc9c98-aed4-4fe2-b2b6-9187bffb9b13"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "cca55052-e7cf-48d2-bbe0-4c0e389e5599"
+            }
+          },
+          {
+            "frame": 0.0875,
+            "value": {
+              "__uuid__": "b41dccec-cd4d-4734-ba95-c3add6cd6e74"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.025,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.0375,
+          "value": 0.51,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.075,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.0875,
+          "value": 0.48
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.0125,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.025,
+          "value": 0.06,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.0375,
+          "value": 0.12,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05,
+          "value": 0.08,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.0625,
+          "value": 0.16,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.075,
+          "value": 0.07,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.0875,
+          "value": 0.14
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "frame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0125,
+      "func": "frame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.025,
+      "func": "frame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0375,
+      "func": "frame4Evt",
+      "params": []
+    },
+    {
+      "frame": 0.05,
+      "func": "frame5Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0625,
+      "func": "frame6Evt",
+      "params": []
+    },
+    {
+      "frame": 0.075,
+      "func": "frame7Evt",
+      "params": []
+    },
+    {
+      "frame": 0.0875,
+      "func": "frame8Evt",
+      "params": []
+    }
+  ]
+}

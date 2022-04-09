@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wiz_s_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 50,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "61c3274c-bf55-47e1-9ae3-78c43b4ec567"
+            }
+          },
+          {
+            "frame": 0.02,
+            "value": {
+              "__uuid__": "3b4f4ed0-efae-4b21-a46e-5e0b11f8a2f4"
+            }
+          },
+          {
+            "frame": 0.04,
+            "value": {
+              "__uuid__": "5fa2b886-b7f5-4125-ae1d-c960c6834013"
+            }
+          },
+          {
+            "frame": 0.06,
+            "value": {
+              "__uuid__": "d36d6d36-db22-4f19-af43-f89dbb6a8b10"
+            }
+          },
+          {
+            "frame": 0.08,
+            "value": {
+              "__uuid__": "81d1681c-1946-4a9a-86e5-9981b68cd1c4"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.4,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.04,
+          "value": 0.6,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06,
+          "value": 0.55,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08,
+          "value": 0.52
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.04,
+          "value": 0.28,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06,
+          "value": 0.22,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08,
+          "value": 0.14
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "aFrame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.02,
+      "func": "aFrame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.04,
+      "func": "aFrame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.06,
+      "func": "aFrame4Evt",
+      "params": []
+    },
+    {
+      "frame": 0.08,
+      "func": "aFrame5Evt",
+      "params": []
+    }
+  ]
+}

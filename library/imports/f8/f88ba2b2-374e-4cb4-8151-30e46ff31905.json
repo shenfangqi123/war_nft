@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "startBut",
+    "texture": "dc6e8d4b-1f7b-45fc-b076-deae9546a01c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      378,
+      98
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      378,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

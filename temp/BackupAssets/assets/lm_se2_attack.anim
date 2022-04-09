@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lm_se2_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 70,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f2103685-6af3-4000-8a01-af7e8e05a98e"
+            }
+          },
+          {
+            "frame": 0.014285714285714285,
+            "value": {
+              "__uuid__": "1dad1a67-a5f3-4675-9b53-d6f5d669ca69"
+            }
+          },
+          {
+            "frame": 0.02857142857142857,
+            "value": {
+              "__uuid__": "a1aaee68-c68e-4dc1-8c30-eea38981633f"
+            }
+          },
+          {
+            "frame": 0.04285714285714286,
+            "value": {
+              "__uuid__": "ba6ccd13-9fa7-485f-8395-1821ef14a790"
+            }
+          },
+          {
+            "frame": 0.05714285714285714,
+            "value": {
+              "__uuid__": "219b4459-5c6e-4b61-89d2-055afc5ee7d5"
+            }
+          },
+          {
+            "frame": 0.07142857142857142,
+            "value": {
+              "__uuid__": "369376c9-132c-4b79-8802-c7e07e13e2d6"
+            }
+          },
+          {
+            "frame": 0.08571428571428572,
+            "value": {
+              "__uuid__": "20b87e02-9763-494f-8faf-89aabba95a24"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.37,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.014285714285714285,
+          "value": 0.25,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.02857142857142857,
+          "value": 0.6
+        },
+        {
+          "frame": 0.04285714285714286,
+          "value": 0.6,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05714285714285714,
+          "value": 0.27,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.07142857142857142,
+          "value": 0.15,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08571428571428572,
+          "value": 0.1
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0.04285714285714286,
+          "value": 0.05,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05714285714285714,
+          "value": 0.25,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.07142857142857142,
+          "value": 0.15,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08571428571428572,
+          "value": 0.05
+        }
+      ]
+    }
+  },
+  "events": []
+}

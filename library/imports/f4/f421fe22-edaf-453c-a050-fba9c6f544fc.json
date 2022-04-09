@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lightEffect.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "d3726698-ac06-45ed-85dc-839dae149be0"
+    },
+    "2": {
+      "__uuid__": "efe87188-14a9-4c02-8473-cf7116aebd19"
+    },
+    "3": {
+      "__uuid__": "c067c33a-e158-4e2c-b50e-70bbfe6288a6"
+    },
+    "4": {
+      "__uuid__": "a4ca9e98-eb24-47d4-add6-ef4c72abb76d"
+    },
+    "5": {
+      "__uuid__": "57a6ee0b-bb24-42b8-8f51-97a10da8924b"
+    }
+  }
+}

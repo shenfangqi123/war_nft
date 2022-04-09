@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thunder",
+    "texture": "2748c32e-ccc1-433f-9eb5-a86e6930c7e8",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      88,
+      76
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      90,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

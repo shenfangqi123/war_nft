@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "lightEff1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "cb46ec3f-d561-4c6e-99dd-75863a71ce94"
+    },
+    "2": {
+      "__uuid__": "5bdc0d72-5ddd-4ca8-b996-0f8dca12cdeb"
+    },
+    "3": {
+      "__uuid__": "ab4829df-e2dd-4a91-b150-513110fe2a50"
+    },
+    "4": {
+      "__uuid__": "b8f31ab9-55a1-4f25-ae7b-de040ee8df9f"
+    },
+    "5": {
+      "__uuid__": "a5f89d7a-857f-4bf0-8c27-30b961ff697a"
+    },
+    "6": {
+      "__uuid__": "cac1e93d-ce30-4961-90dd-cac841411698"
+    },
+    "7": {
+      "__uuid__": "42f82acf-fd05-4709-bea9-1aa09d2cc224"
+    },
+    "8": {
+      "__uuid__": "a3104b0e-9386-42ae-badc-622f831999e3"
+    },
+    "9": {
+      "__uuid__": "1d660919-059c-4c93-8687-ce6f001df83c"
+    }
+  }
+}

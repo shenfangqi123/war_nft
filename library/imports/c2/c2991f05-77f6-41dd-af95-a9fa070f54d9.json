@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mBarBg",
+    "texture": "e72b63ac-59b6-469e-83b0-eaaf272b5e59",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      717,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      717,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lr_n_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "cf8f7465-e802-404e-8d4f-6f47eda762f3"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "c5c04b0a-0288-416f-848b-d58ba81c3a8f"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5fb98fbc-0c14-492c-90a8-622563940544"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "bcf8c589-fa46-4030-a532-3d6cf455fedf"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "4a1ecc61-61cd-44e8-9450-3b13e27364da"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "7e6cbe15-9014-42bc-b0c6-5926ddd9cce8"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

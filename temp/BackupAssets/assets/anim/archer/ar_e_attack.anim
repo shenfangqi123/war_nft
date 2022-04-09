@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ar_e_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 0.8,
+  "wrapMode": "0",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d6d84075-87f3-4511-bb64-3fa441f8deee"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "861d0bde-8426-4db7-bf0c-71a6f6bb812e"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "cfc0e4ff-73de-4f0d-a8a6-7775a6235214"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "3fc0a91d-b8d6-41e3-b139-c3d5dc3551a9"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "f0573306-a80e-4c9e-bea7-20654975558f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "aFrame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.2,
+      "func": "aFrame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.4,
+      "func": "aFrame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.6,
+      "func": "aFrame4Evt",
+      "params": []
+    },
+    {
+      "frame": 0.8,
+      "func": "aFrame5Evt",
+      "params": []
+    }
+  ]
+}

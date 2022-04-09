@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dr_n_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1419d2c8-9613-4125-9560-45da7afc21a0"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e1144afa-2f55-4abb-9453-e3945f527b5f"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "6efb8ccd-3920-42fa-b0e8-057e373acd83"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b1c120b4-8a41-4b5c-bf56-b8f55e1f7472"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "c77d7624-8d61-45b5-b4ab-fc2efdf1466f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "3d1547c1-c385-480a-979e-8fdb1dc2774f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

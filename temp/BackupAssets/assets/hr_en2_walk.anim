@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hr_en2_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e3b64602-9530-494c-9947-cf984efbdb2e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "079cba6b-132d-4a7f-8deb-f7f72f2f376f"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5d8330f9-7c01-428a-9757-4354ce98f765"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8711ffad-d220-4fee-a1b8-b93d547ec6d1"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "ca3bc178-ac03-4f1b-b303-e66ac9ce95d2"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "a4818382-8171-4ace-ad27-2e3927b88196"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0.8333333333333334,
+          "value": 0.4
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.1
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.5,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.15,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

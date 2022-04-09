@@ -1,0 +1,81 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ske_s_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 3,
+  "speed": 1.2,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "da71d097-2565-47af-9dca-43331adb08fc"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "623257f6-b69b-4aea-8577-2917d7b28345"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "adb168ea-8bc1-4b50-929e-a4481373a662"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0.3333333333333333,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "aFrame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.3333333333333333,
+      "func": "aFrame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.6666666666666666,
+      "func": "aFrame3Evt",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boardword",
+    "texture": "1f7dc37d-fbd4-4f8e-b8c5-54742e6c6da1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      451,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      451,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

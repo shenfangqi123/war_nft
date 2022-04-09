@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "walk_shadow_4",
+    "texture": "45ac7b49-6403-48b7-8bdc-8571612b9f3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      36,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

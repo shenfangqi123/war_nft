@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "agentFrame",
+    "texture": "87dcf848-36d8-4a80-8ce8-fd2f80e1f4b4",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      94,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      94,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gi_se1_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 0.5,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "524fcd92-6a20-4b4a-a418-eef11ca76194"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9af348e0-1597-4336-b75d-b35d94c676c2"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "a47db050-72b5-49be-b162-7bc13ddd2fbe"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "087f2fb1-8cf3-4007-b9ee-be4f6d84d6c3"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "0c578374-b086-4ce3-a617-007824dff65f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "cb98dc2a-22e0-4283-ab34-6bbdc8d695a6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "aFrame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.16666666666666666,
+      "func": "aFrame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.3333333333333333,
+      "func": "aFrame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "aFrame4Evt",
+      "params": []
+    },
+    {
+      "frame": 0.6666666666666666,
+      "func": "aFrame5Evt",
+      "params": []
+    },
+    {
+      "frame": 0.8333333333333334,
+      "func": "aFrame6Evt",
+      "params": []
+    }
+  ]
+}

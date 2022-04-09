@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "spinEffect",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": "0",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": []
+      }
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.6
+        },
+        {
+          "frame": 0.05,
+          "value": 1.8
+        },
+        {
+          "frame": 0.1,
+          "value": 1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.6
+        },
+        {
+          "frame": 0.05,
+          "value": 1.8
+        },
+        {
+          "frame": 0.1,
+          "value": 1
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.05,
+          "value": -360
+        },
+        {
+          "frame": 0.1,
+          "value": -20
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.1,
+      "func": "spinEffectEndEvt",
+      "params": []
+    }
+  ]
+}

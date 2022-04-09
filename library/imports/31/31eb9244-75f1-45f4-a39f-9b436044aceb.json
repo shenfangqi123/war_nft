@@ -1,0 +1,190 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "SkeSprite",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SkeSprite",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": false,
+    "_level": 3,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 46,
+      "height": 51
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0
+    },
+    "_quat": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_zIndex": 0,
+    "groupIndex": 0,
+    "_id": "",
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        370,
+        351,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": null,
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_state": 0,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": {
+      "__uuid__": "2de953ec-84c0-4372-be23-7f4693ff200b"
+    },
+    "_clips": [
+      {
+        "__uuid__": "293baed5-7281-46f4-8549-81e63d087d41"
+      },
+      {
+        "__uuid__": "f11b64ea-ec46-43dd-b8dd-1d376eb8ed9f"
+      },
+      {
+        "__uuid__": "a3524bb3-78c5-4512-8113-a95a40a37ea4"
+      },
+      {
+        "__uuid__": "f4388721-9a5b-4ac6-80e7-a70887d16219"
+      },
+      {
+        "__uuid__": "1eb630cd-2204-4b50-9de3-95f74771688d"
+      },
+      {
+        "__uuid__": "3f66d133-08bc-4981-ad75-da45a2ceb3bf"
+      },
+      {
+        "__uuid__": "750cb879-0446-4a82-bd2e-f76dc993bbe2"
+      },
+      {
+        "__uuid__": "2de953ec-84c0-4372-be23-7f4693ff200b"
+      },
+      {
+        "__uuid__": "134be5b7-a0ab-4380-939f-41687ac9e2d2"
+      },
+      {
+        "__uuid__": "e83c7106-fe00-4705-94dc-f15b07ea9017"
+      },
+      {
+        "__uuid__": "a9a7c24a-5fc1-48ed-9029-a1fdf3ae81a2"
+      },
+      {
+        "__uuid__": "8d4625fa-5286-4e4e-a7dd-0a914647a9de"
+      }
+    ],
+    "playOnLoad": true,
+    "_id": ""
+  },
+  {
+    "__type__": "7d74bHhVUFHDLwoV20mklSC",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "sprAtlas": null,
+    "wrapMode": 2,
+    "routes": [],
+    "lastAct": null,
+    "lastAngle": -1,
+    "life": -1,
+    "eid": -1,
+    "role": "ske",
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "11i4525ENCK61jdwVwhcgd",
+    "sync": false
+  }
+]

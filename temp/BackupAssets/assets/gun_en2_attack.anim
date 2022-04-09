@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gun_en2_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": "0",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8bf32597-c1c8-4479-8be2-5da0cd2aaa1e"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "43d478af-be78-48ec-9211-7a58a5166377"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "80268040-ca09-4332-a911-00603c935924"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "4fbb4eb9-dd7a-4e4a-b798-098ee2d5ec00"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "8bf32597-c1c8-4479-8be2-5da0cd2aaa1e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

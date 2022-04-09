@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "crownPt",
+    "texture": "ce636a66-a502-4af1-86ad-86bcaa34a642",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      17,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      17,
+      20
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

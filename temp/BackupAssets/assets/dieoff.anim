@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dieoff",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a065ab00-d979-4821-af85-05c4ff725c35"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a1c611df-d791-4139-a99d-7a52903d3ce1"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "8b90525e-e3fb-46c8-bcfa-315cb44feddd"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9131e044-f209-45fb-89b6-465a7302a0f1"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "91c579a3-c445-4b7b-b0b2-e5561dd692f9"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "261ed3ed-c756-4eb3-9d94-a409b1de2d27"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

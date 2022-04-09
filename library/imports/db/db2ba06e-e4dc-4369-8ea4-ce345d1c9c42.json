@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "butbg",
+    "texture": "8ebb6eec-f9ce-4295-b36d-c7b2ac7841ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      112,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      112,
+      31
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

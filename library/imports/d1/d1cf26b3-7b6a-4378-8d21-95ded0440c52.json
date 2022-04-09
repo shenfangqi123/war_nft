@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "goldStar",
+    "texture": "f330dfa8-6ad2-4749-815e-7918947e2091",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

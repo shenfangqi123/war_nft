@@ -1,0 +1,141 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 128,
+      "y": 25,
+      "width": 1291,
+      "height": 734,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ],
+            "height": 644.5,
+            "type": "panel",
+            "width": 253
+          },
+          {
+            "active": 0,
+            "children": [
+              "assets",
+              "cloud-function"
+            ],
+            "height": 644.5,
+            "type": "panel",
+            "width": 222
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 644.5,
+            "type": "panel",
+            "width": 271
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector",
+              "console",
+              "timeline",
+              "node-library",
+              "builder"
+            ],
+            "height": 644.5,
+            "type": "panel",
+            "width": 536
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "cloud-function",
+        "scene",
+        "inspector",
+        "console",
+        "timeline",
+        "node-library",
+        "builder"
+      ]
+    }
+  },
+  "panels": {
+    "sprite-editor": {
+      "x": 1806,
+      "y": 521,
+      "width": 1044,
+      "height": 406
+    },
+    "timeline": {
+      "x": 2384,
+      "y": 269,
+      "width": 1049,
+      "height": 518
+    },
+    "builder": {
+      "x": 738,
+      "y": 267,
+      "width": 500,
+      "height": 709
+    },
+    "preferences": {
+      "x": 519,
+      "y": 123,
+      "width": 584,
+      "height": 554
+    },
+    "console": {
+      "x": 2582,
+      "y": 653,
+      "width": 404,
+      "height": 322
+    },
+    "project-settings": {
+      "x": 622,
+      "y": 125,
+      "width": 609,
+      "height": 682
+    },
+    "store": {
+      "x": 152,
+      "y": 61,
+      "width": 800,
+      "height": 622
+    },
+    "package-asset.export": {
+      "x": 678,
+      "y": 152,
+      "width": 404,
+      "height": 528
+    },
+    "hierarchy": {
+      "x": 122,
+      "y": 196,
+      "width": 204,
+      "height": 422
+    },
+    "assets": {
+      "x": 146,
+      "y": 142,
+      "width": 204,
+      "height": 422
+    }
+  },
+  "panelLabelWidth.inspector": null,
+  "panelLabelWidth": {
+    "inspector": null,
+    "builder": null,
+    "preferences": null
+  },
+  "panelLabelWidth.builder": null,
+  "panelLabelWidth.preferences": null
+}

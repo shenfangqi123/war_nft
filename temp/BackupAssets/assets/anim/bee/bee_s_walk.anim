@@ -1,0 +1,78 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bee_s_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "19dfc2f7-25f2-47b6-ae80-46c6b228a5e5"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "26f4e6b8-479b-428b-91fc-e0d3f32c7966"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "27421e91-0a6a-44aa-95f0-2e1d5341e016"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "6ecf77cb-9a64-45e8-b23a-f37e014dabb0"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.5
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "frame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.025,
+      "func": "frame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.05,
+      "func": "frame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.075,
+      "func": "frame4Evt",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wiz",
+    "texture": "18f9484b-17d7-4f2a-856f-f48773a1cf42",
+    "atlas": "",
+    "rect": [
+      41,
+      28,
+      42,
+      64
+    ],
+    "offset": [
+      -2,
+      4
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yellow_wordbg",
+    "texture": "d6293296-5931-4e14-90a2-e5306565d1f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      23
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

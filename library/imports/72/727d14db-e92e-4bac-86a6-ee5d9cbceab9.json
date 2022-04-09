@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lm_n_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d34a8ab6-57e8-4b17-9180-181daffd7c4a"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "efb58806-54fa-4b72-91cf-8e800f986d9a"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "d9085456-11bb-4b22-bbab-48da5b5440ad"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "57a43753-3f34-4742-a5cf-9b25379b04d4"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "f4ad5a39-519f-4fb9-9334-bafd8222b14d"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "ae1f4236-7106-4720-8097-4e52ed8a6279"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.42,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 0.45,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05,
+          "value": 0.47,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 0.42,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 0.4
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 0.08,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": 0.03,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05,
+          "value": 0.02,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 0.05
+        }
+      ]
+    }
+  },
+  "events": []
+}

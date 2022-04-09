@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fort",
+    "texture": "7d1af8af-6523-4d46-86e6-03e2f872b5eb",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      53,
+      90
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      54,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

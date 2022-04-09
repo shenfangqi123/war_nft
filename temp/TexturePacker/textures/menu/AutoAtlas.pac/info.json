@@ -1,0 +1,16 @@
+{
+  "packedTextures": [
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/menu/AutoAtlas.pac/AutoAtlas-1.png",
+      "name": "AutoAtlas-1.png",
+      "size": "1024x1024"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/library/imports/bd/bd80d6c7-e282-4ddc-8fc1-328cb13c615e.png",
+      "name": "wordbg.png",
+      "size": "1045x62"
+    }
+  ]
+}

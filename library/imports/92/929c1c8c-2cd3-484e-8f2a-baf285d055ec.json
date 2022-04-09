@@ -1,0 +1,129 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wiz_n_attack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 50,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "10fa3e46-1a1f-4ac8-aeb9-53dcd9d46f70"
+            }
+          },
+          {
+            "frame": 0.02,
+            "value": {
+              "__uuid__": "c917f477-a07d-42b5-9d5d-4a6d865a470c"
+            }
+          },
+          {
+            "frame": 0.04,
+            "value": {
+              "__uuid__": "3c8f9b3b-fad2-4ccc-8e02-112a6c8e07ac"
+            }
+          },
+          {
+            "frame": 0.06,
+            "value": {
+              "__uuid__": "2c712607-5e73-4834-a899-17d9acdcd05e"
+            }
+          },
+          {
+            "frame": 0.08,
+            "value": {
+              "__uuid__": "4689b6b8-4ceb-4169-8c53-a1ba5ebcc3cc"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.7,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.02,
+          "value": 0.55,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.04,
+          "value": 0.25,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06,
+          "value": 0.28,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08,
+          "value": 0.38
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.05,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.02,
+          "value": 0.07,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.04,
+          "value": 0,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.06,
+          "value": 0.02,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.08,
+          "value": 0.08
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "aFrame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.02,
+      "func": "aFrame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.04,
+      "func": "aFrame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.06,
+      "func": "aFrame4Evt",
+      "params": []
+    },
+    {
+      "frame": 0.08,
+      "func": "aFrame5Evt",
+      "params": []
+    }
+  ]
+}

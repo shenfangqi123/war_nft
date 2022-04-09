@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lightman",
+    "texture": "2b24a6b0-ac15-4496-83fb-7e620aa0e5ba",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      82,
+      100
+    ],
+    "offset": [
+      -15.5,
+      6.5
+    ],
+    "originalSize": [
+      115,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

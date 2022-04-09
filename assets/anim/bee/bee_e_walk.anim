@@ -1,0 +1,108 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bee_e_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1,
+  "sample": 40,
+  "speed": 0.1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "448c5589-f0b3-47a0-962c-e0da7863c2f2"
+            }
+          },
+          {
+            "frame": 0.025,
+            "value": {
+              "__uuid__": "2cba98a6-6564-4e84-8add-8e74f1472ab2"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "4b2c54a3-6d50-459f-a49d-1442827d9927"
+            }
+          },
+          {
+            "frame": 0.075,
+            "value": {
+              "__uuid__": "1b5be662-e34e-4b4c-9330-9bad4e35dadb"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorX": [
+        {
+          "frame": 0,
+          "value": 0.65,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.025,
+          "value": 0.58,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05,
+          "value": 0.5,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.075,
+          "value": 0.7
+        }
+      ],
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.025,
+          "value": 0.1,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.05,
+          "value": 0.05,
+          "curve": "constant"
+        },
+        {
+          "frame": 0.075,
+          "value": 0.15
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "frame1Evt",
+      "params": []
+    },
+    {
+      "frame": 0.025,
+      "func": "frame2Evt",
+      "params": []
+    },
+    {
+      "frame": 0.05,
+      "func": "frame3Evt",
+      "params": []
+    },
+    {
+      "frame": 0.075,
+      "func": "frame4Evt",
+      "params": []
+    }
+  ]
+}

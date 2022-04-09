@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fireAttack",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1.5,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bc23137d-4cb7-4829-a024-7a1538de9530"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "fc95bb86-67ca-4f24-8240-8c15ea7c3a58"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "c4be399c-83f2-49ef-a115-fe048f0f217c"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "255926f5-61dd-4962-944a-f5b713daa7a4"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "6f04a510-c068-4def-9088-b09165d596e1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

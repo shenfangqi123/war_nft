@@ -1,0 +1,26 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "hrGroupAttack.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "2": {
+      "__uuid__": "e1e62735-950e-4d00-8a8b-4f25263e90ff"
+    },
+    "3": {
+      "__uuid__": "45b732fd-7c9d-4e84-bef6-876521fbbc2e"
+    },
+    "4": {
+      "__uuid__": "4f535569-1d94-44bf-b624-786fbf352a90"
+    },
+    "5": {
+      "__uuid__": "c1bf1005-f286-443a-aa31-25c1f3401811"
+    },
+    "6": {
+      "__uuid__": "25b967dc-46ad-446f-8e1d-ba97ef7a738f"
+    },
+    "7": {
+      "__uuid__": "016185a7-3647-484a-b78c-d4781a156aea"
+    }
+  }
+}

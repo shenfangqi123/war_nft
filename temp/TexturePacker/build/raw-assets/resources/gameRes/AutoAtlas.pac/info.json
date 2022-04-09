@@ -1,0 +1,3546 @@
+{
+  "projectPath": "/Users/shenfangqi/cocosPrj/war3_project",
+  "mtimes": {
+    "d8d4dad0-1bd9-41e9-b6ac-85ffa293e7f5": {
+      "assetMtime": 1586194927450,
+      "metaMtime": 1586503013722
+    },
+    "002184f1-8e8c-4ce9-b6ba-a9a41f7da6ef": {
+      "assetMtime": 1585995494582,
+      "metaMtime": 1586503014992
+    },
+    "c8b9c2c8-6b82-4c79-b17d-8bb5ff5fa7d8": {
+      "assetMtime": 1585995494582,
+      "metaMtime": 1586503014992
+    },
+    "04ab2659-c3f5-4f04-bf0e-94dfe65fb034": {
+      "assetMtime": 1585995706454,
+      "metaMtime": 1586503015298
+    },
+    "ed9b6998-8a4b-4b09-a1a8-873b1188529a": {
+      "assetMtime": 1585995706454,
+      "metaMtime": 1586503015298
+    },
+    "067a1ba9-8c55-474d-a7fc-36a1ca0b4db0": {
+      "assetMtime": 1585995029327,
+      "metaMtime": 1586503014658
+    },
+    "ebd32c0f-6d31-4759-a226-8bbfaeeed690": {
+      "assetMtime": 1585995029327,
+      "metaMtime": 1586503014658
+    },
+    "0a27472b-acdb-4491-8c2f-102176ed9c31": {
+      "assetMtime": 1585994798154,
+      "metaMtime": 1586503014505
+    },
+    "db0eb888-e37f-40d9-853a-f66b1042f769": {
+      "assetMtime": 1585994798154,
+      "metaMtime": 1586503014505
+    },
+    "17b31b43-1e48-4a0e-9055-7fe4b14c6fae": {
+      "assetMtime": 1585994398520,
+      "metaMtime": 1586503014341
+    },
+    "a2bd5b04-f0fc-4045-a9ad-991474ba9018": {
+      "assetMtime": 1585994398520,
+      "metaMtime": 1586503014341
+    },
+    "1969aae2-6a1e-4383-9458-3c184641dc27": {
+      "assetMtime": 1585994803042,
+      "metaMtime": 1586503014516
+    },
+    "05487188-b7ce-4c55-b7c0-556238718c68": {
+      "assetMtime": 1585994803042,
+      "metaMtime": 1586503014516
+    },
+    "1a5979cc-ea28-4070-b40b-9041631d32da": {
+      "assetMtime": 1576218871276,
+      "metaMtime": 1586503015353
+    },
+    "2ab4fd2b-0abb-44e9-916c-ff0d33aad984": {
+      "assetMtime": 1576218871276,
+      "metaMtime": 1586503015353
+    },
+    "1aa57252-4e8a-40bb-a92b-3fd2998cb920": {
+      "assetMtime": 1585995613252,
+      "metaMtime": 1586503015184
+    },
+    "07e87eaf-4e0a-4299-a390-cb05ad4fa277": {
+      "assetMtime": 1585995613252,
+      "metaMtime": 1586503015184
+    },
+    "1bc10198-4321-4599-95b8-9be67f29af0e": {
+      "assetMtime": 1585994408340,
+      "metaMtime": 1586503014353
+    },
+    "91c99166-7ac1-424d-9d9d-f787ab73a635": {
+      "assetMtime": 1585994408340,
+      "metaMtime": 1586503014353
+    },
+    "2176c209-818e-43b2-9667-5b8604fc7ec7": {
+      "assetMtime": 1585994743694,
+      "metaMtime": 1586503014463
+    },
+    "129d68a3-8e59-4315-aa23-4343d73a6a88": {
+      "assetMtime": 1585994743694,
+      "metaMtime": 1586503014463
+    },
+    "225b48f3-7d43-4bb0-ae17-6da3e71c65e9": {
+      "assetMtime": 1585995684824,
+      "metaMtime": 1586503015219
+    },
+    "cbddc91d-2c28-481d-a0c9-4d9dfa1eecd1": {
+      "assetMtime": 1585995684824,
+      "metaMtime": 1586503015219
+    },
+    "255926f5-61dd-4962-944a-f5b713daa7a4": {
+      "assetMtime": 1585996212764,
+      "metaMtime": 1586503014266
+    },
+    "b18b63fc-cdea-4151-b7db-7ac8ef9e112f": {
+      "assetMtime": 1585996212764,
+      "metaMtime": 1586503014266
+    },
+    "25e53d30-1062-4d74-9474-928cb9be8dcf": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014019
+    },
+    "3be814c6-af36-4c60-9e55-d1e4f443fa54": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014019
+    },
+    "2cbd3d62-198a-4861-b288-98730f6578f9": {
+      "assetMtime": 1577448539358,
+      "metaMtime": 1586503015400
+    },
+    "ad4a88b7-b9f7-4747-be2e-dfd2cfbb8bca": {
+      "assetMtime": 1577448539358,
+      "metaMtime": 1586503015400
+    },
+    "2e676336-a83b-4625-90e6-faa73f80db31": {
+      "assetMtime": 1585995290012,
+      "metaMtime": 1586503014839
+    },
+    "b3e42d1e-f860-4bdb-9bd3-aa8950628771": {
+      "assetMtime": 1585995290012,
+      "metaMtime": 1586503014839
+    },
+    "3185b51b-79b5-44b4-8867-3569b7f5e0cb": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014139
+    },
+    "74cdf2ff-5959-4e0a-8251-a5603303feb0": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014139
+    },
+    "31b77a5e-0a2c-4c1b-9619-30d2fef30918": {
+      "assetMtime": 1585994610401,
+      "metaMtime": 1586503014396
+    },
+    "0aa62486-9c90-4682-902a-96a5e855a0cd": {
+      "assetMtime": 1585994610401,
+      "metaMtime": 1586503014396
+    },
+    "33de8333-80ba-40fb-9e7d-7b0b11bb23ec": {
+      "assetMtime": 1585994979729,
+      "metaMtime": 1586503014635
+    },
+    "c2a68a2c-45da-4919-b714-bf07e491d23e": {
+      "assetMtime": 1585994979729,
+      "metaMtime": 1586503014635
+    },
+    "33fe6e02-509d-4204-af06-fbf3cf4570e9": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014044
+    },
+    "f843d53f-03e2-47e5-927f-be4c6ca30022": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014044
+    },
+    "35283d2c-091b-4c22-8cd5-da8d3283ff4c": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013948
+    },
+    "3bc515d4-2189-42a4-8634-3060d45be156": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013948
+    },
+    "38c0b6ca-e8a7-4afa-aa77-74a8545ce239": {
+      "assetMtime": 1585994985042,
+      "metaMtime": 1586503014651
+    },
+    "c96dd786-f8f6-45ac-8c24-59d964c6c182": {
+      "assetMtime": 1585994985042,
+      "metaMtime": 1586503014651
+    },
+    "3eaa8cce-dc6e-426d-b9db-603bc8c1848d": {
+      "assetMtime": 1579873744779,
+      "metaMtime": 1586503015457
+    },
+    "7d44a3c1-ad1f-4862-b4b2-dfe8d7065aa1": {
+      "assetMtime": 1579873744779,
+      "metaMtime": 1586503015457
+    },
+    "41c42617-026c-4047-9c70-c79d37da89b2": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014181
+    },
+    "f393207a-5329-40b3-8775-e2f93ac450f8": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014181
+    },
+    "42f8036e-662d-4678-8d53-52def6fc772e": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013698
+    },
+    "ef7a1af9-3caf-44a0-80b3-68f4e6640358": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013698
+    },
+    "46533509-eeab-4375-a6b8-0e4c7194ed0a": {
+      "assetMtime": 1585995388867,
+      "metaMtime": 1586503014841
+    },
+    "fe476a6d-3a9f-44c6-8a5d-3e8ee28cabf5": {
+      "assetMtime": 1585995388867,
+      "metaMtime": 1586503014841
+    },
+    "46710834-b86e-477e-b93c-daf74eb0b0fc": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013705
+    },
+    "0867c459-31fe-4110-ae75-c989d2fad991": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013705
+    },
+    "467920cd-c3fd-4e4c-9c20-afbc6e79de31": {
+      "assetMtime": 1585995701185,
+      "metaMtime": 1586503015300
+    },
+    "570ca91a-b1b2-413a-94d1-c0176f2be658": {
+      "assetMtime": 1585995701185,
+      "metaMtime": 1586503015300
+    },
+    "477694ac-6fdc-47e8-be68-db6c772d1490": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013668
+    },
+    "7407338f-8d94-4655-900a-5f33371d2e5c": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013668
+    },
+    "479eb8fb-1fc2-4feb-b3a8-ea375899b3f2": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013872
+    },
+    "d704ffb7-ac2e-4d9c-a832-08dc59211ba5": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013872
+    },
+    "4e5df453-2c96-46a2-a4c8-f7ea0cac64e2": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013973
+    },
+    "5c22e81b-df06-44c4-ab03-4249a4c0c7cd": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013973
+    },
+    "4fa05d94-cba5-4a06-aa38-36ded0aae22f": {
+      "assetMtime": 1585995573111,
+      "metaMtime": 1586503015065
+    },
+    "079114b5-d936-45a3-91ae-ff0160059058": {
+      "assetMtime": 1585995573111,
+      "metaMtime": 1586503015065
+    },
+    "4fc063fa-f87d-4e34-b9ae-159defed1a55": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013763
+    },
+    "d5473dbe-5b79-4e73-8065-a24fd536d66a": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013763
+    },
+    "52cfec2a-3574-4b44-8228-936baa32d05e": {
+      "assetMtime": 1585995506642,
+      "metaMtime": 1586503015027
+    },
+    "e722c8be-abdd-4d78-86ff-886129cebb42": {
+      "assetMtime": 1585995506642,
+      "metaMtime": 1586503015027
+    },
+    "53ea5374-8dd8-4176-bda4-ce466913c7ac": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013939
+    },
+    "c7d1338b-8754-488a-b7bf-36dbdd5680b0": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013939
+    },
+    "550ff384-1b13-4ab4-98de-e2323f935758": {
+      "assetMtime": 1585994974073,
+      "metaMtime": 1586503014622
+    },
+    "fa0d8baa-b464-4629-9dd9-ef2ad2c370dd": {
+      "assetMtime": 1585994974073,
+      "metaMtime": 1586503014622
+    },
+    "55d84e81-a25e-4a5a-a39b-ccb731ee45d0": {
+      "assetMtime": 1585994928446,
+      "metaMtime": 1586503014605
+    },
+    "f9b75005-699d-45e9-b937-55be891bf080": {
+      "assetMtime": 1585994928446,
+      "metaMtime": 1586503014605
+    },
+    "591087b1-7c2b-4f36-9cfd-d2e6b5ac0ca3": {
+      "assetMtime": 1585995290275,
+      "metaMtime": 1586503014765
+    },
+    "fba3bd45-f0c5-42f8-b463-7c8f6b3fa6c3": {
+      "assetMtime": 1585995290275,
+      "metaMtime": 1586503014765
+    },
+    "5b9c7e4f-03da-4646-bd7d-3e17cc7b6ae5": {
+      "assetMtime": 1585994087176,
+      "metaMtime": 1586503015409
+    },
+    "07ddf034-2e56-4127-9b6c-5617fa5d7f76": {
+      "assetMtime": 1585994087176,
+      "metaMtime": 1586503015409
+    },
+    "5c0d13b9-8f6d-4292-9bf1-9a81043d5a8b": {
+      "assetMtime": 1585995674395,
+      "metaMtime": 1586503015182
+    },
+    "96c50e36-fe8a-40f2-8f29-cc2333048f9a": {
+      "assetMtime": 1585995674395,
+      "metaMtime": 1586503015182
+    },
+    "5c50defc-5056-4054-b6c4-9b3c53f79610": {
+      "assetMtime": 1585976530000,
+      "metaMtime": 1586503014311
+    },
+    "f97d1015-4543-4f73-a394-610c2fdc8f1f": {
+      "assetMtime": 1585976530000,
+      "metaMtime": 1586503014311
+    },
+    "61517fb6-7f1a-42b6-a68d-9bd65cac2c4f": {
+      "assetMtime": 1585994666501,
+      "metaMtime": 1586503014428
+    },
+    "d46570c4-1cd2-4e93-91c1-1d6572f28b9b": {
+      "assetMtime": 1585994666501,
+      "metaMtime": 1586503014428
+    },
+    "623257f6-b69b-4aea-8577-2917d7b28345": {
+      "assetMtime": 1585994870198,
+      "metaMtime": 1586503014557
+    },
+    "1366926f-4b5e-47c1-baf7-92dde6f3edaa": {
+      "assetMtime": 1585994870198,
+      "metaMtime": 1586503014557
+    },
+    "65db8761-d0bd-4148-bc42-4c6d7167c103": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013808
+    },
+    "353646b4-a8da-4ce5-abf8-267bcc7e3147": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013808
+    },
+    "6aa9fe99-af8e-4209-a13b-a927f7f674ce": {
+      "assetMtime": 1585994819489,
+      "metaMtime": 1586503014530
+    },
+    "5c144fac-c4d2-4c1b-8643-62d61a63dee0": {
+      "assetMtime": 1585994819489,
+      "metaMtime": 1586503014530
+    },
+    "6ad13f84-322a-44e4-b6df-8a0d1694945b": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014105
+    },
+    "8e1cea43-3cdf-4a6e-aab2-9b1e8dba5aab": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014105
+    },
+    "6cea008f-039b-4416-9848-684bdd2a9e4a": {
+      "assetMtime": 1585976530000,
+      "metaMtime": 1586503014327
+    },
+    "966b8587-b212-4ced-a1fd-8e73073d9a3a": {
+      "assetMtime": 1585976530000,
+      "metaMtime": 1586503014327
+    },
+    "6daf547d-879f-4aec-8cba-4bf9d70b2355": {
+      "assetMtime": 1585995481982,
+      "metaMtime": 1586503014961
+    },
+    "51c120b4-4553-46d6-999d-d40aaf57141c": {
+      "assetMtime": 1585995481982,
+      "metaMtime": 1586503014961
+    },
+    "6f04a510-c068-4def-9088-b09165d596e1": {
+      "assetMtime": 1585996220709,
+      "metaMtime": 1586503014292
+    },
+    "89c81fd0-e82a-4453-9c95-06d84949b93e": {
+      "assetMtime": 1585996220709,
+      "metaMtime": 1586503014292
+    },
+    "716f4960-22d3-4871-8902-d057b160380a": {
+      "assetMtime": 1585995477119,
+      "metaMtime": 1586503014952
+    },
+    "455c0c24-9e98-4913-aa4a-77ed883dba0b": {
+      "assetMtime": 1585995477119,
+      "metaMtime": 1586503014952
+    },
+    "74ae12e3-282e-46b8-84eb-bbc6d9fd049f": {
+      "assetMtime": 1585994415777,
+      "metaMtime": 1586503014371
+    },
+    "8329e99c-0d73-46d3-b008-247d68ba951d": {
+      "assetMtime": 1585994415777,
+      "metaMtime": 1586503014371
+    },
+    "74d1bb69-bd97-4727-aaf9-8cfef4d52320": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014075
+    },
+    "e8ddb13d-cfe4-403a-b912-73c84e6fe2c3": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014075
+    },
+    "761629a3-045d-4bf1-8794-0671e2a86465": {
+      "assetMtime": 1585995420161,
+      "metaMtime": 1586503014934
+    },
+    "f4faec6e-acf4-4522-b15f-59a2984afafc": {
+      "assetMtime": 1585995420161,
+      "metaMtime": 1586503014934
+    },
+    "771438e0-c3b7-45da-be85-8886372f3ccd": {
+      "assetMtime": 1585995400025,
+      "metaMtime": 1586503014878
+    },
+    "f2cb5260-2599-457c-b3ff-7f325b04a867": {
+      "assetMtime": 1585995400025,
+      "metaMtime": 1586503014878
+    },
+    "7d78769d-b62d-4809-9004-4651690123ea": {
+      "assetMtime": 1585995690334,
+      "metaMtime": 1586503015257
+    },
+    "d7f0d737-23d6-460a-b01f-c5a947db2597": {
+      "assetMtime": 1585995690334,
+      "metaMtime": 1586503015257
+    },
+    "80347a5a-4c77-47cf-9191-982525936fb1": {
+      "assetMtime": 1585995036040,
+      "metaMtime": 1586503014684
+    },
+    "c78958a9-a2f1-48a9-a0bb-6b311e93b71b": {
+      "assetMtime": 1585995036040,
+      "metaMtime": 1586503014684
+    },
+    "83d71efd-f147-4d27-881d-f78576fea497": {
+      "assetMtime": 1585995499547,
+      "metaMtime": 1586503014997
+    },
+    "97d1e547-c72a-4947-baf5-5802ab18db31": {
+      "assetMtime": 1585995499547,
+      "metaMtime": 1586503014997
+    },
+    "86552afc-bd73-40cd-ab20-45285ed964b3": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014008
+    },
+    "172e02ae-e796-4b40-ad4a-681b15526e2a": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014008
+    },
+    "8752efcb-eca9-49c0-8694-e1dbced1257a": {
+      "assetMtime": 1585995592675,
+      "metaMtime": 1586503015106
+    },
+    "e5551be9-1ade-4cce-8862-50d1af6924f6": {
+      "assetMtime": 1585995592675,
+      "metaMtime": 1586503015106
+    },
+    "8a5e65a1-2f09-4159-87a6-7cb638e538f7": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013850
+    },
+    "83c702cf-b1f6-447b-b3e8-bfab05f8eacd": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013850
+    },
+    "8cfa1e85-55fa-42c6-b294-56efd204e2dd": {
+      "assetMtime": 1585995586536,
+      "metaMtime": 1586503015104
+    },
+    "6b9cb282-ce15-4801-8aec-bad809693bb1": {
+      "assetMtime": 1585995586536,
+      "metaMtime": 1586503015104
+    },
+    "90d98394-5ef0-4e3d-91cb-ee29bf456ee6": {
+      "assetMtime": 1585995413755,
+      "metaMtime": 1586503014925
+    },
+    "69965d52-8c4d-44e4-b406-f0ca322ee1a3": {
+      "assetMtime": 1585995413755,
+      "metaMtime": 1586503014925
+    },
+    "9b2fb55e-a4ce-47dd-915b-73c64e5e805d": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013775
+    },
+    "1aa93db2-32b6-42a0-84c8-8cf735c8e5ac": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013775
+    },
+    "9d00815f-6082-428f-8c42-52984e4428a7": {
+      "assetMtime": 1585995043083,
+      "metaMtime": 1586503014686
+    },
+    "dfda91e0-693a-467d-97b5-af4a73262626": {
+      "assetMtime": 1585995043083,
+      "metaMtime": 1586503014686
+    },
+    "a0e163ad-4223-4d9f-bde6-4e1d802e3365": {
+      "assetMtime": 1585995290156,
+      "metaMtime": 1586503014763
+    },
+    "1272b0df-fc39-4a31-bbba-d4f8a1912e24": {
+      "assetMtime": 1585995290156,
+      "metaMtime": 1586503014763
+    },
+    "a3f63ad8-fa98-47ec-9262-d28beee0b6aa": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013820
+    },
+    "cdd8f54c-06ad-4b03-a5e2-11ca2a7454ee": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013820
+    },
+    "a551277b-d046-463f-96c0-cc84a600d21e": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014194
+    },
+    "9f0b5c09-e41b-4f4c-9af9-3a2c49446e57": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014194
+    },
+    "a9292f56-18f9-422a-98ad-ade2e63edd46": {
+      "assetMtime": 1585994080623,
+      "metaMtime": 1586503015382
+    },
+    "24976a7f-74d6-4252-a921-7270c46da420": {
+      "assetMtime": 1585994080623,
+      "metaMtime": 1586503015382
+    },
+    "a9433819-767a-4d0c-9ccd-372b4eb0710c": {
+      "assetMtime": 1585995404693,
+      "metaMtime": 1586503014895
+    },
+    "23366808-7b51-42e4-801e-9996f902edd5": {
+      "assetMtime": 1585995404693,
+      "metaMtime": 1586503014895
+    },
+    "acc15be5-d277-42ed-b326-3172a57f7787": {
+      "assetMtime": 1585995579174,
+      "metaMtime": 1586503015068
+    },
+    "8e918f9c-adcf-41b7-8b82-a7579583e640": {
+      "assetMtime": 1585995579174,
+      "metaMtime": 1586503015068
+    },
+    "adb168ea-8bc1-4b50-929e-a4481373a662": {
+      "assetMtime": 1585994875511,
+      "metaMtime": 1586503014573
+    },
+    "58ecc596-6d71-4c1b-94d4-2ab117becf28": {
+      "assetMtime": 1585994875511,
+      "metaMtime": 1586503014573
+    },
+    "ade1facb-f90c-478c-b258-4dd16fc3806b": {
+      "assetMtime": 1585994749361,
+      "metaMtime": 1586503014477
+    },
+    "1803790f-6602-4dc2-b00c-3952b3034344": {
+      "assetMtime": 1585994749361,
+      "metaMtime": 1586503014477
+    },
+    "b210c28b-1eae-4dd5-bafd-a2eb4f207f89": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013680
+    },
+    "3e5d27a1-6094-4e23-ad25-2b2c94dff00c": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013680
+    },
+    "b2e6645c-0651-4a1b-bd92-1209d9b64489": {
+      "assetMtime": 1585994673647,
+      "metaMtime": 1586503014438
+    },
+    "2cbb4ed6-8cb9-46e6-b0d9-b3f5e98426d2": {
+      "assetMtime": 1585994673647,
+      "metaMtime": 1586503014438
+    },
+    "b42d8210-ce86-47c3-83f2-e1e929ace530": {
+      "assetMtime": 1585995251694,
+      "metaMtime": 1586503014722
+    },
+    "812fb79c-8b1f-4f16-99f1-5dff5a492dc9": {
+      "assetMtime": 1585995251694,
+      "metaMtime": 1586503014722
+    },
+    "b80bd999-91b0-4f81-a17b-35859ef8af40": {
+      "assetMtime": 1585995695736,
+      "metaMtime": 1586503015259
+    },
+    "774931a8-05b6-461b-831e-34f8c6674ba5": {
+      "assetMtime": 1585995695736,
+      "metaMtime": 1586503015259
+    },
+    "b867e78b-07f9-45bb-aa2c-b98ab0583e2e": {
+      "assetMtime": 1585994603089,
+      "metaMtime": 1586503014385
+    },
+    "ff3b6ca1-1aad-4acb-993e-f0386e601d31": {
+      "assetMtime": 1585994603089,
+      "metaMtime": 1586503014385
+    },
+    "bc23137d-4cb7-4829-a024-7a1538de9530": {
+      "assetMtime": 1585996197032,
+      "metaMtime": 1586503014217
+    },
+    "14b50872-7f6c-4fef-bfb3-efce441a0024": {
+      "assetMtime": 1585996197032,
+      "metaMtime": 1586503014217
+    },
+    "c472aaf5-6567-4447-b870-f7f561f8d50d": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014114
+    },
+    "fe4fd59e-7dc4-4206-be68-4528d4122bae": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014114
+    },
+    "c4be399c-83f2-49ef-a115-fe048f0f217c": {
+      "assetMtime": 1585996207424,
+      "metaMtime": 1586503014252
+    },
+    "e0e178b6-c355-45f9-a497-f928944e9ace": {
+      "assetMtime": 1585996207424,
+      "metaMtime": 1586503014252
+    },
+    "c7ec03ac-11d2-4709-856e-126f00d478e3": {
+      "assetMtime": 1585994922056,
+      "metaMtime": 1586503014595
+    },
+    "ab7f76cb-b8c2-4549-9f98-94df1cd047ff": {
+      "assetMtime": 1585994922056,
+      "metaMtime": 1586503014595
+    },
+    "cd5c06f3-82df-46d5-854b-27b5d317a4fd": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013840
+    },
+    "27037a3e-438c-4831-bb81-c72f92c3c3c7": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013840
+    },
+    "cf313f41-b220-4e5a-999d-f46f1735a786": {
+      "assetMtime": 1585995409129,
+      "metaMtime": 1586503014905
+    },
+    "d2f03b9f-5589-4c1e-8a73-fcfcd1a82155": {
+      "assetMtime": 1585995409129,
+      "metaMtime": 1586503014905
+    },
+    "d0928cc1-30b8-4815-b9a4-fb633d377179": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014085
+    },
+    "9884467e-b771-42dc-a7fa-6644a6473165": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014085
+    },
+    "d4f66c08-f868-4d3a-b728-e4dba034af54": {
+      "assetMtime": 1585995603551,
+      "metaMtime": 1586503015144
+    },
+    "312a7562-008f-48eb-bcc2-25efa5e697fe": {
+      "assetMtime": 1585995603551,
+      "metaMtime": 1586503015144
+    },
+    "d5e034b2-a478-4e8c-902d-265d99c537d5": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013797
+    },
+    "41db43bb-0474-4d88-ad4d-d1d48a5d1e6a": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013797
+    },
+    "d61ab5a8-6525-4d53-b770-d1b378701984": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014148
+    },
+    "1b3645ae-7636-42eb-9f62-8209ada802a6": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014148
+    },
+    "d86d7304-e712-4e89-8d82-8efa307292f3": {
+      "assetMtime": 1585995597774,
+      "metaMtime": 1586503015142
+    },
+    "3c40e2cc-bcc6-4b78-a20d-11bc52409c82": {
+      "assetMtime": 1585995597774,
+      "metaMtime": 1586503015142
+    },
+    "da71d097-2565-47af-9dca-43331adb08fc": {
+      "assetMtime": 1585994863697,
+      "metaMtime": 1586503014542
+    },
+    "14f9d328-97b7-44f5-8951-01f44e7393c2": {
+      "assetMtime": 1585994863697,
+      "metaMtime": 1586503014542
+    },
+    "dcf21573-a09c-4fb2-987d-d2da63119da1": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013720
+    },
+    "e5fc59e3-fc99-4a6f-8957-88b309f60425": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013720
+    },
+    "dd6a769d-2343-4b29-a937-c259c37abbcf": {
+      "assetMtime": 1585994616452,
+      "metaMtime": 1586503014418
+    },
+    "608caad7-8248-4f84-93de-10407e2b4e55": {
+      "assetMtime": 1585994616452,
+      "metaMtime": 1586503014418
+    },
+    "deb46bb9-4acf-4243-ae6e-ccf140b53b2f": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013883
+    },
+    "13d06865-a391-4270-a7d7-bc08a0f3c855": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013883
+    },
+    "e255b675-b399-41b3-846b-41977521c139": {
+      "assetMtime": 1585995290109,
+      "metaMtime": 1586503014803
+    },
+    "1726d49c-6619-495a-8354-00b5e4a53988": {
+      "assetMtime": 1585995290109,
+      "metaMtime": 1586503014803
+    },
+    "e5d42959-a146-4fb1-991d-b653505ff0a3": {
+      "assetMtime": 1585994758391,
+      "metaMtime": 1586503014491
+    },
+    "2720574c-4c7a-4774-828f-2b3293e3986a": {
+      "assetMtime": 1585994758391,
+      "metaMtime": 1586503014491
+    },
+    "e840821a-0b54-433c-9a7a-4bb75d80a63d": {
+      "assetMtime": 1585995488663,
+      "metaMtime": 1586503014983
+    },
+    "500bef45-5bf8-4d48-a893-168f23c112dc": {
+      "assetMtime": 1585995488663,
+      "metaMtime": 1586503014983
+    },
+    "e8d0712c-57d2-4266-bf82-f871d6e36ae7": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014171
+    },
+    "60c8bc54-5cdb-4ab2-b8fa-9c88bf4c4090": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014171
+    },
+    "e8f25d6e-eb56-459f-addb-8d47e8ac5392": {
+      "assetMtime": 1585995290064,
+      "metaMtime": 1586503014724
+    },
+    "5ddf007d-535c-43c5-8f7e-293f3043683d": {
+      "assetMtime": 1585995290064,
+      "metaMtime": 1586503014724
+    },
+    "e96123f5-c5f6-4018-9903-5fcb9481ff28": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013732
+    },
+    "16168c88-e518-483e-ab47-ac866965e8f2": {
+      "assetMtime": 1585976662000,
+      "metaMtime": 1586503013732
+    },
+    "ed67d6e6-58d6-4c1b-affc-454b0c4634d8": {
+      "assetMtime": 1585995513450,
+      "metaMtime": 1586503015030
+    },
+    "1f77d72a-2b8f-48a3-963c-d656e4ac9105": {
+      "assetMtime": 1585995513450,
+      "metaMtime": 1586503015030
+    },
+    "ed73bda5-a687-4288-9176-f5a3cd715f30": {
+      "assetMtime": 1579102166037,
+      "metaMtime": 1586503015362
+    },
+    "00356bd4-58d9-4def-8007-c85c153255e9": {
+      "assetMtime": 1579102166037,
+      "metaMtime": 1586503015362
+    },
+    "f2dfb173-8246-4a17-aedf-67953b1206f2": {
+      "assetMtime": 1585995676086,
+      "metaMtime": 1586503015221
+    },
+    "eb313062-dfa4-4900-ab8d-3d768cc7ce0c": {
+      "assetMtime": 1585995676086,
+      "metaMtime": 1586503015221
+    },
+    "f45471e7-b844-4fdd-afa5-32c427c75ce2": {
+      "assetMtime": 1585994684589,
+      "metaMtime": 1586503014454
+    },
+    "bbd25a1c-71a5-4594-b3b1-d436043af9b2": {
+      "assetMtime": 1585994684589,
+      "metaMtime": 1586503014454
+    },
+    "f4d60ea7-2bad-43dd-91bb-3164239958d4": {
+      "assetMtime": 1585995395320,
+      "metaMtime": 1586503014870
+    },
+    "70826b1f-6e27-46f8-8a09-d64d43cba42d": {
+      "assetMtime": 1585995395320,
+      "metaMtime": 1586503014870
+    },
+    "f67cb661-42fc-4a3a-95ed-86d18424880f": {
+      "assetMtime": 1585995290120,
+      "metaMtime": 1586503014801
+    },
+    "eddb66e1-f38f-44bb-9af5-cc66a1ac17c9": {
+      "assetMtime": 1585995290120,
+      "metaMtime": 1586503014801
+    },
+    "f8087852-45c8-4643-bb4f-93c54cf4ee57": {
+      "assetMtime": 1586005390035,
+      "metaMtime": 1586503013747
+    },
+    "c4f60eea-b58a-440e-9b03-ffe01ad4928c": {
+      "assetMtime": 1586005390035,
+      "metaMtime": 1586503013747
+    },
+    "f8b30354-4915-4159-b9c0-af65d02f5f10": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014055
+    },
+    "2d095529-4004-4761-b05a-98665cd725e8": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503014055
+    },
+    "f999b6de-0ed1-4c45-b6e8-527b0095889d": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503013983
+    },
+    "6e4b6650-279f-4ce3-b929-b1b03611429c": {
+      "assetMtime": 1585975382000,
+      "metaMtime": 1586503013983
+    },
+    "fc95bb86-67ca-4f24-8240-8c15ea7c3a58": {
+      "assetMtime": 1585996199668,
+      "metaMtime": 1586503014229
+    },
+    "63c5887e-c8b8-46af-8fb3-3f9166be7eb6": {
+      "assetMtime": 1585996199668,
+      "metaMtime": 1586503014229
+    },
+    "fd9acb19-46ef-419b-b8a9-804aeb18adc8": {
+      "assetMtime": 1585994913725,
+      "metaMtime": 1586503014587
+    },
+    "4046a19e-30f0-45ea-86f0-089c476fbdf3": {
+      "assetMtime": 1585994913725,
+      "metaMtime": 1586503014587
+    },
+    "fdf95024-884e-410f-80e4-d0f81a2ecd18": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013915
+    },
+    "e6ea837b-ca52-4e45-8093-0a5e5edd14ae": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013915
+    },
+    "feb781b4-85e1-457d-b197-effab13b7b52": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013905
+    },
+    "3a6679ce-9f20-48d7-8967-82fa6eeefdb8": {
+      "assetMtime": 1585975256000,
+      "metaMtime": 1586503013905
+    },
+    "ffe329da-e8e1-48c3-9067-0841ea3a8e13": {
+      "assetMtime": 1585976530000,
+      "metaMtime": 1586503014300
+    },
+    "b9ecda3a-3b33-42d8-8c0c-a58c32dcf2e3": {
+      "assetMtime": 1585976530000,
+      "metaMtime": 1586503014300
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 512,
+    "ver": "1.2.0",
+    "uuid": "d8d4dad0-1bd9-41e9-b6ac-85ffa293e7f5",
+    "maxWidth": 1024,
+    "maxHeight": 512,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": true,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": false,
+    "paddingBleed": false,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 0,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "f1",
+            "uuid": "bc23137d-4cb7-4829-a024-7a1538de9530",
+            "textureUuid": "14b50872-7f6c-4fef-bfb3-efce441a0024",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785299_image_76.png",
+            "trim": {
+              "x": 2,
+              "y": 2,
+              "width": 100,
+              "height": 245,
+              "rotatedWidth": 100,
+              "rotatedHeight": 245
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 104,
+            "height": 249,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/14/14b50872-7f6c-4fef-bfb3-efce441a0024.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 104,
+            "rotatedHeight": 249
+          },
+          {
+            "name": "f6",
+            "uuid": "255926f5-61dd-4962-944a-f5b713daa7a4",
+            "textureUuid": "b18b63fc-cdea-4151-b7db-7ac8ef9e112f",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785238_image_11.png",
+            "trim": {
+              "x": 2,
+              "y": 251,
+              "width": 97,
+              "height": 245,
+              "rotatedWidth": 97,
+              "rotatedHeight": 245
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 101,
+            "height": 249,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/b1/b18b63fc-cdea-4151-b7db-7ac8ef9e112f.png",
+            "x": 0,
+            "y": 249,
+            "rotatedWidth": 101,
+            "rotatedHeight": 249
+          },
+          {
+            "name": "arrow5",
+            "uuid": "dcf21573-a09c-4fb2-987d-d2da63119da1",
+            "textureUuid": "e5fc59e3-fc99-4a6f-8957-88b309f60425",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785304_image_88.png",
+            "trim": {
+              "x": 2,
+              "y": 500,
+              "width": 10,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 10
+            },
+            "rawWidth": 10,
+            "rawHeight": 45,
+            "width": 14,
+            "height": 49,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/e5/e5fc59e3-fc99-4a6f-8957-88b309f60425.png",
+            "x": 0,
+            "y": 498,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 14
+          },
+          {
+            "name": "arrow2",
+            "uuid": "b210c28b-1eae-4dd5-bafd-a2eb4f207f89",
+            "textureUuid": "3e5d27a1-6094-4e23-ad25-2b2c94dff00c",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785293_image_71.png",
+            "trim": {
+              "x": 51,
+              "y": 500,
+              "width": 10,
+              "height": 26,
+              "rotatedWidth": 26,
+              "rotatedHeight": 10
+            },
+            "rawWidth": 10,
+            "rawHeight": 26,
+            "width": 14,
+            "height": 30,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/3e/3e5d27a1-6094-4e23-ad25-2b2c94dff00c.png",
+            "x": 49,
+            "y": 498,
+            "rotated": true,
+            "rotatedWidth": 30,
+            "rotatedHeight": 14
+          },
+          {
+            "name": "arrow6",
+            "uuid": "e96123f5-c5f6-4018-9903-5fcb9481ff28",
+            "textureUuid": "16168c88-e518-483e-ab47-ac866965e8f2",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785316_image_96.png",
+            "trim": {
+              "x": 81,
+              "y": 500,
+              "width": 8,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 8
+            },
+            "rawWidth": 8,
+            "rawHeight": 40,
+            "width": 12,
+            "height": 44,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/16/16168c88-e518-483e-ab47-ac866965e8f2.png",
+            "x": 79,
+            "y": 498,
+            "rotated": true,
+            "rotatedWidth": 44,
+            "rotatedHeight": 12
+          },
+          {
+            "name": "f4",
+            "uuid": "c4be399c-83f2-49ef-a115-fe048f0f217c",
+            "textureUuid": "e0e178b6-c355-45f9-a497-f928944e9ace",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785300_image_78.png",
+            "trim": {
+              "x": 103,
+              "y": 251,
+              "width": 99,
+              "height": 242,
+              "rotatedWidth": 99,
+              "rotatedHeight": 242
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 103,
+            "height": 246,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/e0/e0e178b6-c355-45f9-a497-f928944e9ace.png",
+            "x": 101,
+            "y": 249,
+            "rotatedWidth": 103,
+            "rotatedHeight": 246
+          },
+          {
+            "name": "arrow3",
+            "uuid": "42f8036e-662d-4678-8d53-52def6fc772e",
+            "textureUuid": "ef7a1af9-3caf-44a0-80b3-68f4e6640358",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785254_image_23.png",
+            "trim": {
+              "x": 125,
+              "y": 497,
+              "width": 12,
+              "height": 39,
+              "rotatedWidth": 39,
+              "rotatedHeight": 12
+            },
+            "rawWidth": 12,
+            "rawHeight": 39,
+            "width": 16,
+            "height": 43,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/ef/ef7a1af9-3caf-44a0-80b3-68f4e6640358.png",
+            "x": 123,
+            "y": 495,
+            "rotated": true,
+            "rotatedWidth": 43,
+            "rotatedHeight": 16
+          },
+          {
+            "name": "arrow1",
+            "uuid": "477694ac-6fdc-47e8-be68-db6c772d1490",
+            "textureUuid": "7407338f-8d94-4655-900a-5f33371d2e5c",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785259_image_27.png",
+            "trim": {
+              "x": 168,
+              "y": 497,
+              "width": 11,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 11
+            },
+            "rawWidth": 11,
+            "rawHeight": 35,
+            "width": 15,
+            "height": 39,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/74/7407338f-8d94-4655-900a-5f33371d2e5c.png",
+            "x": 166,
+            "y": 495,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 15
+          },
+          {
+            "name": "f2",
+            "uuid": "fc95bb86-67ca-4f24-8240-8c15ea7c3a58",
+            "textureUuid": "63c5887e-c8b8-46af-8fb3-3f9166be7eb6",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785323_image_106.png",
+            "trim": {
+              "x": 106,
+              "y": 2,
+              "width": 103,
+              "height": 241,
+              "rotatedWidth": 103,
+              "rotatedHeight": 241
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 107,
+            "height": 245,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/63/63c5887e-c8b8-46af-8fb3-3f9166be7eb6.png",
+            "x": 104,
+            "y": 0,
+            "rotatedWidth": 107,
+            "rotatedHeight": 245
+          },
+          {
+            "name": "f8",
+            "uuid": "6f04a510-c068-4def-9088-b09165d596e1",
+            "textureUuid": "89c81fd0-e82a-4453-9c95-06d84949b93e",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785270_image_47.png",
+            "trim": {
+              "x": 206,
+              "y": 247,
+              "width": 97,
+              "height": 237,
+              "rotatedWidth": 97,
+              "rotatedHeight": 237
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 101,
+            "height": 241,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/89/89c81fd0-e82a-4453-9c95-06d84949b93e.png",
+            "x": 204,
+            "y": 245,
+            "rotatedWidth": 101,
+            "rotatedHeight": 241
+          },
+          {
+            "name": "t7",
+            "uuid": "2e676336-a83b-4625-90e6-faa73f80db31",
+            "textureUuid": "b3e42d1e-f860-4bdb-9bd3-aa8950628771",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785241_image_14.png",
+            "trim": {
+              "x": 207,
+              "y": 488,
+              "width": 22,
+              "height": 39,
+              "rotatedWidth": 39,
+              "rotatedHeight": 22
+            },
+            "rawWidth": 22,
+            "rawHeight": 39,
+            "width": 26,
+            "height": 43,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/b3/b3e42d1e-f860-4bdb-9bd3-aa8950628771.png",
+            "x": 205,
+            "y": 486,
+            "rotated": true,
+            "rotatedWidth": 43,
+            "rotatedHeight": 26
+          },
+          {
+            "name": "t3",
+            "uuid": "6aa9fe99-af8e-4209-a13b-a927f7f674ce",
+            "textureUuid": "5c144fac-c4d2-4c1b-8643-62d61a63dee0",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785267_image_43.png",
+            "trim": {
+              "x": 250,
+              "y": 488,
+              "width": 20,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 20
+            },
+            "rawWidth": 20,
+            "rawHeight": 42,
+            "width": 24,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/5c/5c144fac-c4d2-4c1b-8643-62d61a63dee0.png",
+            "x": 248,
+            "y": 486,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 24
+          },
+          {
+            "name": "tama",
+            "uuid": "1a5979cc-ea28-4070-b40b-9041631d32da",
+            "textureUuid": "2ab4fd2b-0abb-44e9-916c-ff0d33aad984",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785232_image_6.png",
+            "trim": {
+              "x": 296,
+              "y": 488,
+              "width": 17,
+              "height": 17,
+              "rotatedWidth": 17,
+              "rotatedHeight": 17
+            },
+            "rawWidth": 17,
+            "rawHeight": 17,
+            "width": 21,
+            "height": 21,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/2a/2ab4fd2b-0abb-44e9-916c-ff0d33aad984.png",
+            "x": 294,
+            "y": 486,
+            "rotatedWidth": 21,
+            "rotatedHeight": 21
+          },
+          {
+            "name": "frame253",
+            "uuid": "fdf95024-884e-410f-80e4-d0f81a2ecd18",
+            "textureUuid": "e6ea837b-ca52-4e45-8093-0a5e5edd14ae",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785324_image_108.png",
+            "trim": {
+              "x": 213,
+              "y": 2,
+              "width": 82,
+              "height": 165,
+              "rotatedWidth": 82,
+              "rotatedHeight": 165
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 86,
+            "height": 169,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/e6/e6ea837b-ca52-4e45-8093-0a5e5edd14ae.png",
+            "x": 211,
+            "y": 0,
+            "rotatedWidth": 86,
+            "rotatedHeight": 169
+          },
+          {
+            "name": "frame255",
+            "uuid": "35283d2c-091b-4c22-8cd5-da8d3283ff4c",
+            "textureUuid": "3bc515d4-2189-42a4-8634-3060d45be156",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785247_image_19.png",
+            "trim": {
+              "x": 213,
+              "y": 171,
+              "width": 70,
+              "height": 144,
+              "rotatedWidth": 144,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 74,
+            "height": 148,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/3b/3bc515d4-2189-42a4-8634-3060d45be156.png",
+            "x": 211,
+            "y": 169,
+            "rotated": true,
+            "rotatedWidth": 148,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "frame250",
+            "uuid": "479eb8fb-1fc2-4feb-b3a8-ea375899b3f2",
+            "textureUuid": "d704ffb7-ac2e-4d9c-a832-08dc59211ba5",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785259_image_28.png",
+            "trim": {
+              "x": 299,
+              "y": 2,
+              "width": 77,
+              "height": 145,
+              "rotatedWidth": 77,
+              "rotatedHeight": 145
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 81,
+            "height": 149,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/d7/d704ffb7-ac2e-4d9c-a832-08dc59211ba5.png",
+            "x": 297,
+            "y": 0,
+            "rotatedWidth": 81,
+            "rotatedHeight": 149
+          },
+          {
+            "name": "frame333",
+            "uuid": "86552afc-bd73-40cd-ab20-45285ed964b3",
+            "textureUuid": "172e02ae-e796-4b40-ad4a-681b15526e2a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785279_image_56.png",
+            "trim": {
+              "x": 299,
+              "y": 151,
+              "width": 16,
+              "height": 16,
+              "rotatedWidth": 16,
+              "rotatedHeight": 16
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 20,
+            "height": 20,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/17/172e02ae-e796-4b40-ad4a-681b15526e2a.png",
+            "x": 297,
+            "y": 149,
+            "rotatedWidth": 20,
+            "rotatedHeight": 20
+          },
+          {
+            "name": "arrow4",
+            "uuid": "46710834-b86e-477e-b93c-daf74eb0b0fc",
+            "textureUuid": "0867c459-31fe-4110-ae75-c989d2fad991",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785258_image_25.png",
+            "trim": {
+              "x": 319,
+              "y": 151,
+              "width": 7,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 7
+            },
+            "rawWidth": 7,
+            "rawHeight": 43,
+            "width": 11,
+            "height": 47,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/08/0867c459-31fe-4110-ae75-c989d2fad991.png",
+            "x": 317,
+            "y": 149,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 11
+          },
+          {
+            "name": "frame332",
+            "uuid": "f999b6de-0ed1-4c45-b6e8-527b0095889d",
+            "textureUuid": "6e4b6650-279f-4ce3-b929-b1b03611429c",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785322_image_105.png",
+            "trim": {
+              "x": 319,
+              "y": 162,
+              "width": 4,
+              "height": 5,
+              "rotatedWidth": 4,
+              "rotatedHeight": 5
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 8,
+            "height": 9,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/6e/6e4b6650-279f-4ce3-b929-b1b03611429c.png",
+            "x": 317,
+            "y": 160,
+            "rotatedWidth": 8,
+            "rotatedHeight": 9
+          },
+          {
+            "name": "frame251",
+            "uuid": "deb46bb9-4acf-4243-ae6e-ccf140b53b2f",
+            "textureUuid": "13d06865-a391-4270-a7d7-bc08a0f3c855",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785305_image_90.png",
+            "trim": {
+              "x": 307,
+              "y": 245,
+              "width": 75,
+              "height": 144,
+              "rotatedWidth": 75,
+              "rotatedHeight": 144
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 79,
+            "height": 148,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/13/13d06865-a391-4270-a7d7-bc08a0f3c855.png",
+            "x": 305,
+            "y": 243,
+            "rotatedWidth": 79,
+            "rotatedHeight": 148
+          },
+          {
+            "name": "frame245",
+            "uuid": "d5e034b2-a478-4e8c-902d-265d99c537d5",
+            "textureUuid": "41db43bb-0474-4d88-ad4d-d1d48a5d1e6a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785303_image_84.png",
+            "trim": {
+              "x": 366,
+              "y": 151,
+              "width": 65,
+              "height": 90,
+              "rotatedWidth": 65,
+              "rotatedHeight": 90
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 69,
+            "height": 94,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/41/41db43bb-0474-4d88-ad4d-d1d48a5d1e6a.png",
+            "x": 364,
+            "y": 149,
+            "rotatedWidth": 69,
+            "rotatedHeight": 94
+          },
+          {
+            "name": "frame249",
+            "uuid": "8a5e65a1-2f09-4159-87a6-7cb638e538f7",
+            "textureUuid": "83c702cf-b1f6-447b-b3e8-bfab05f8eacd",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785283_image_58.png",
+            "trim": {
+              "x": 380,
+              "y": 2,
+              "width": 73,
+              "height": 140,
+              "rotatedWidth": 73,
+              "rotatedHeight": 140
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 77,
+            "height": 144,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/83/83c702cf-b1f6-447b-b3e8-bfab05f8eacd.png",
+            "x": 378,
+            "y": 0,
+            "rotatedWidth": 77,
+            "rotatedHeight": 144
+          },
+          {
+            "name": "frame254",
+            "uuid": "53ea5374-8dd8-4176-bda4-ce466913c7ac",
+            "textureUuid": "c7d1338b-8754-488a-b7bf-36dbdd5680b0",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785262_image_33.png",
+            "trim": {
+              "x": 307,
+              "y": 393,
+              "width": 86,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 86
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 90,
+            "height": 132,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/c7/c7d1338b-8754-488a-b7bf-36dbdd5680b0.png",
+            "x": 305,
+            "y": 391,
+            "rotated": true,
+            "rotatedWidth": 132,
+            "rotatedHeight": 90
+          },
+          {
+            "name": "t3",
+            "uuid": "225b48f3-7d43-4bb0-ae17-6da3e71c65e9",
+            "textureUuid": "cbddc91d-2c28-481d-a0c9-4d9dfa1eecd1",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785237_image_10.png",
+            "trim": {
+              "x": 317,
+              "y": 483,
+              "width": 27,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 27,
+            "rawHeight": 38,
+            "width": 31,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/cb/cbddc91d-2c28-481d-a0c9-4d9dfa1eecd1.png",
+            "x": 315,
+            "y": 481,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 31
+          },
+          {
+            "name": "t5",
+            "uuid": "f67cb661-42fc-4a3a-95ed-86d18424880f",
+            "textureUuid": "eddb66e1-f38f-44bb-9af5-cc66a1ac17c9",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785321_image_102.png",
+            "trim": {
+              "x": 359,
+              "y": 483,
+              "width": 27,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 27,
+            "rawHeight": 38,
+            "width": 31,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/ed/eddb66e1-f38f-44bb-9af5-cc66a1ac17c9.png",
+            "x": 357,
+            "y": 481,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 31
+          },
+          {
+            "name": "t3",
+            "uuid": "adb168ea-8bc1-4b50-929e-a4481373a662",
+            "textureUuid": "58ecc596-6d71-4c1b-94d4-2ab117becf28",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785291_image_69.png",
+            "trim": {
+              "x": 401,
+              "y": 483,
+              "width": 26,
+              "height": 67,
+              "rotatedWidth": 67,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 26,
+            "rawHeight": 67,
+            "width": 30,
+            "height": 71,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/58/58ecc596-6d71-4c1b-94d4-2ab117becf28.png",
+            "x": 399,
+            "y": 481,
+            "rotated": true,
+            "rotatedWidth": 71,
+            "rotatedHeight": 30
+          },
+          {
+            "name": "frame248",
+            "uuid": "cd5c06f3-82df-46d5-854b-27b5d317a4fd",
+            "textureUuid": "27037a3e-438c-4831-bb81-c72f92c3c3c7",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785301_image_80.png",
+            "trim": {
+              "x": 386,
+              "y": 245,
+              "width": 70,
+              "height": 140,
+              "rotatedWidth": 70,
+              "rotatedHeight": 140
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 74,
+            "height": 144,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/27/27037a3e-438c-4831-bb81-c72f92c3c3c7.png",
+            "x": 384,
+            "y": 243,
+            "rotatedWidth": 74,
+            "rotatedHeight": 144
+          },
+          {
+            "name": "tower2",
+            "uuid": "a9292f56-18f9-422a-98ad-ade2e63edd46",
+            "textureUuid": "24976a7f-74d6-4252-a921-7270c46da420",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785289_image_66.png",
+            "trim": {
+              "x": 435,
+              "y": 146,
+              "width": 93,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 93
+            },
+            "rawWidth": 94,
+            "rawHeight": 111,
+            "width": 97,
+            "height": 115,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/24/24976a7f-74d6-4252-a921-7270c46da420.png",
+            "x": 433,
+            "y": 144,
+            "rotated": true,
+            "rotatedWidth": 115,
+            "rotatedHeight": 97
+          },
+          {
+            "name": "frame256",
+            "uuid": "4e5df453-2c96-46a2-a4c8-f7ea0cac64e2",
+            "textureUuid": "5c22e81b-df06-44c4-ab03-4249a4c0c7cd",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785259_image_29.png",
+            "trim": {
+              "x": 457,
+              "y": 2,
+              "width": 67,
+              "height": 136,
+              "rotatedWidth": 67,
+              "rotatedHeight": 136
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 71,
+            "height": 140,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/5c/5c22e81b-df06-44c4-ab03-4249a4c0c7cd.png",
+            "x": 455,
+            "y": 0,
+            "rotatedWidth": 71,
+            "rotatedHeight": 140
+          },
+          {
+            "name": "seleMask2",
+            "uuid": "5c50defc-5056-4054-b6c4-9b3c53f79610",
+            "textureUuid": "f97d1015-4543-4f73-a394-610c2fdc8f1f",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785265_image_39.png",
+            "trim": {
+              "x": 439,
+              "y": 389,
+              "width": 109,
+              "height": 85,
+              "rotatedWidth": 109,
+              "rotatedHeight": 85
+            },
+            "rawWidth": 109,
+            "rawHeight": 85,
+            "width": 113,
+            "height": 89,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/f9/f97d1015-4543-4f73-a394-610c2fdc8f1f.png",
+            "x": 437,
+            "y": 387,
+            "rotatedWidth": 113,
+            "rotatedHeight": 89
+          },
+          {
+            "name": "frame338",
+            "uuid": "d0928cc1-30b8-4815-b9a4-fb633d377179",
+            "textureUuid": "9884467e-b771-42dc-a7fa-6644a6473165",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785303_image_82.png",
+            "trim": {
+              "x": 472,
+              "y": 478,
+              "width": 32,
+              "height": 52,
+              "rotatedWidth": 52,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 36,
+            "height": 56,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/98/9884467e-b771-42dc-a7fa-6644a6473165.png",
+            "x": 470,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 56,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "frame337",
+            "uuid": "74d1bb69-bd97-4727-aaf9-8cfef4d52320",
+            "textureUuid": "e8ddb13d-cfe4-403a-b912-73c84e6fe2c3",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785272_image_50.png",
+            "trim": {
+              "x": 528,
+              "y": 478,
+              "width": 32,
+              "height": 50,
+              "rotatedWidth": 50,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 36,
+            "height": 54,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/e8/e8ddb13d-cfe4-403a-b912-73c84e6fe2c3.png",
+            "x": 526,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 54,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "frame247",
+            "uuid": "a3f63ad8-fa98-47ec-9262-d28beee0b6aa",
+            "textureUuid": "cdd8f54c-06ad-4b03-a5e2-11ca2a7454ee",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785288_image_64.png",
+            "trim": {
+              "x": 528,
+              "y": 2,
+              "width": 66,
+              "height": 130,
+              "rotatedWidth": 66,
+              "rotatedHeight": 130
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 70,
+            "height": 134,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/cd/cdd8f54c-06ad-4b03-a5e2-11ca2a7454ee.png",
+            "x": 526,
+            "y": 0,
+            "rotatedWidth": 70,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "frame252",
+            "uuid": "feb781b4-85e1-457d-b197-effab13b7b52",
+            "textureUuid": "3a6679ce-9f20-48d7-8967-82fa6eeefdb8",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785324_image_109.png",
+            "trim": {
+              "x": 460,
+              "y": 243,
+              "width": 80,
+              "height": 128,
+              "rotatedWidth": 80,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 84,
+            "height": 132,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/3a/3a6679ce-9f20-48d7-8967-82fa6eeefdb8.png",
+            "x": 458,
+            "y": 241,
+            "rotatedWidth": 84,
+            "rotatedHeight": 132
+          },
+          {
+            "name": "tower3",
+            "uuid": "5b9c7e4f-03da-4646-bd7d-3e17cc7b6ae5",
+            "textureUuid": "07ddf034-2e56-4127-9b6c-5617fa5d7f76",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785264_image_37.png",
+            "trim": {
+              "x": 544,
+              "y": 243,
+              "width": 118,
+              "height": 111,
+              "rotatedWidth": 111,
+              "rotatedHeight": 118
+            },
+            "rawWidth": 118,
+            "rawHeight": 111,
+            "width": 122,
+            "height": 115,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/07/07ddf034-2e56-4127-9b6c-5617fa5d7f76.png",
+            "x": 542,
+            "y": 241,
+            "rotated": true,
+            "rotatedWidth": 115,
+            "rotatedHeight": 122
+          },
+          {
+            "name": "seleMask3",
+            "uuid": "6cea008f-039b-4416-9848-684bdd2a9e4a",
+            "textureUuid": "966b8587-b212-4ced-a1fd-8e73073d9a3a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785270_image_45.png",
+            "trim": {
+              "x": 552,
+              "y": 365,
+              "width": 109,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 109
+            },
+            "rawWidth": 109,
+            "rawHeight": 85,
+            "width": 113,
+            "height": 89,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/96/966b8587-b212-4ced-a1fd-8e73073d9a3a.png",
+            "x": 550,
+            "y": 363,
+            "rotated": true,
+            "rotatedWidth": 89,
+            "rotatedHeight": 113
+          },
+          {
+            "name": "MudFill_00",
+            "uuid": "f8087852-45c8-4643-bb4f-93c54cf4ee57",
+            "textureUuid": "c4f60eea-b58a-440e-9b03-ffe01ad4928c",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785321_image_103.png",
+            "trim": {
+              "x": 582,
+              "y": 478,
+              "width": 32,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 32,
+            "rawHeight": 32,
+            "width": 36,
+            "height": 36,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/c4/c4f60eea-b58a-440e-9b03-ffe01ad4928c.png",
+            "x": 580,
+            "y": 476,
+            "rotatedWidth": 36,
+            "rotatedHeight": 36
+          },
+          {
+            "name": "t3",
+            "uuid": "9d00815f-6082-428f-8c42-52984e4428a7",
+            "textureUuid": "dfda91e0-693a-467d-97b5-af4a73262626",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785286_image_62.png",
+            "trim": {
+              "x": 618,
+              "y": 478,
+              "width": 31,
+              "height": 59,
+              "rotatedWidth": 59,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 31,
+            "rawHeight": 59,
+            "width": 35,
+            "height": 63,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/df/dfda91e0-693a-467d-97b5-af4a73262626.png",
+            "x": 616,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "seleMask1",
+            "uuid": "ffe329da-e8e1-48c3-9067-0841ea3a8e13",
+            "textureUuid": "b9ecda3a-3b33-42d8-8c0c-a58c32dcf2e3",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785324_image_110.png",
+            "trim": {
+              "x": 641,
+              "y": 365,
+              "width": 109,
+              "height": 85,
+              "rotatedWidth": 85,
+              "rotatedHeight": 109
+            },
+            "rawWidth": 109,
+            "rawHeight": 85,
+            "width": 113,
+            "height": 89,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/b9/b9ecda3a-3b33-42d8-8c0c-a58c32dcf2e3.png",
+            "x": 639,
+            "y": 363,
+            "rotated": true,
+            "rotatedWidth": 89,
+            "rotatedHeight": 113
+          },
+          {
+            "name": "frame336",
+            "uuid": "f8b30354-4915-4159-b9c0-af65d02f5f10",
+            "textureUuid": "2d095529-4004-4761-b05a-98665cd725e8",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785322_image_104.png",
+            "trim": {
+              "x": 681,
+              "y": 478,
+              "width": 31,
+              "height": 44,
+              "rotatedWidth": 44,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 35,
+            "height": 48,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/2d/2d095529-4004-4761-b05a-98665cd725e8.png",
+            "x": 679,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 48,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "t2",
+            "uuid": "b2e6645c-0651-4a1b-bd92-1209d9b64489",
+            "textureUuid": "2cbb4ed6-8cb9-46e6-b0d9-b3f5e98426d2",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785297_image_72.png",
+            "trim": {
+              "x": 729,
+              "y": 478,
+              "width": 31,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 31,
+            "rawHeight": 42,
+            "width": 35,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/2c/2cbb4ed6-8cb9-46e6-b0d9-b3f5e98426d2.png",
+            "x": 727,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "wizfire",
+            "uuid": "3eaa8cce-dc6e-426d-b9db-603bc8c1848d",
+            "textureUuid": "7d44a3c1-ad1f-4862-b4b2-dfe8d7065aa1",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785251_image_21.png",
+            "trim": {
+              "x": 550,
+              "y": 136,
+              "width": 77,
+              "height": 81,
+              "rotatedWidth": 77,
+              "rotatedHeight": 81
+            },
+            "rawWidth": 85,
+            "rawHeight": 81,
+            "width": 81,
+            "height": 85,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/7d/7d44a3c1-ad1f-4862-b4b2-dfe8d7065aa1.png",
+            "x": 548,
+            "y": 134,
+            "rotatedWidth": 81,
+            "rotatedHeight": 85
+          },
+          {
+            "name": "frame246",
+            "uuid": "65db8761-d0bd-4148-bc42-4c6d7167c103",
+            "textureUuid": "353646b4-a8da-4ce5-abf8-267bcc7e3147",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785266_image_42.png",
+            "trim": {
+              "x": 598,
+              "y": 2,
+              "width": 69,
+              "height": 108,
+              "rotatedWidth": 69,
+              "rotatedHeight": 108
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 73,
+            "height": 112,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/35/353646b4-a8da-4ce5-abf8-267bcc7e3147.png",
+            "x": 596,
+            "y": 0,
+            "rotatedWidth": 73,
+            "rotatedHeight": 112
+          },
+          {
+            "name": "spinEffect",
+            "uuid": "ed73bda5-a687-4288-9176-f5a3cd715f30",
+            "textureUuid": "00356bd4-58d9-4def-8007-c85c153255e9",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785318_image_98.png",
+            "trim": {
+              "x": 631,
+              "y": 114,
+              "width": 77,
+              "height": 73,
+              "rotatedWidth": 73,
+              "rotatedHeight": 77
+            },
+            "rawWidth": 77,
+            "rawHeight": 73,
+            "width": 81,
+            "height": 77,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/00/00356bd4-58d9-4def-8007-c85c153255e9.png",
+            "x": 629,
+            "y": 112,
+            "rotated": true,
+            "rotatedWidth": 77,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "frame243",
+            "uuid": "4fc063fa-f87d-4e34-b9ae-159defed1a55",
+            "textureUuid": "d5473dbe-5b79-4e73-8065-a24fd536d66a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785260_image_31.png",
+            "trim": {
+              "x": 631,
+              "y": 195,
+              "width": 46,
+              "height": 44,
+              "rotatedWidth": 46,
+              "rotatedHeight": 44
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 50,
+            "height": 48,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/d5/d5473dbe-5b79-4e73-8065-a24fd536d66a.png",
+            "x": 629,
+            "y": 193,
+            "rotatedWidth": 50,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "frame341",
+            "uuid": "3185b51b-79b5-44b4-8867-3569b7f5e0cb",
+            "textureUuid": "74cdf2ff-5959-4e0a-8251-a5603303feb0",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785242_image_15.png",
+            "trim": {
+              "x": 671,
+              "y": 2,
+              "width": 34,
+              "height": 70,
+              "rotatedWidth": 34,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 38,
+            "height": 74,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/74/74cdf2ff-5959-4e0a-8251-a5603303feb0.png",
+            "x": 669,
+            "y": 0,
+            "rotatedWidth": 38,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "frame339",
+            "uuid": "6ad13f84-322a-44e4-b6df-8a0d1694945b",
+            "textureUuid": "8e1cea43-3cdf-4a6e-aab2-9b1e8dba5aab",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785267_image_44.png",
+            "trim": {
+              "x": 671,
+              "y": 76,
+              "width": 34,
+              "height": 54,
+              "rotatedWidth": 54,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 38,
+            "height": 58,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/8e/8e1cea43-3cdf-4a6e-aab2-9b1e8dba5aab.png",
+            "x": 669,
+            "y": 74,
+            "rotated": true,
+            "rotatedWidth": 58,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "frame342",
+            "uuid": "d61ab5a8-6525-4d53-b770-d1b378701984",
+            "textureUuid": "1b3645ae-7636-42eb-9f62-8209ada802a6",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785303_image_85.png",
+            "trim": {
+              "x": 709,
+              "y": 2,
+              "width": 29,
+              "height": 70,
+              "rotatedWidth": 29,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 33,
+            "height": 74,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/1b/1b3645ae-7636-42eb-9f62-8209ada802a6.png",
+            "x": 707,
+            "y": 0,
+            "rotatedWidth": 33,
+            "rotatedHeight": 74
+          },
+          {
+            "name": "frame335",
+            "uuid": "33fe6e02-509d-4204-af06-fbf3cf4570e9",
+            "textureUuid": "f843d53f-03e2-47e5-927f-be4c6ca30022",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785246_image_18.png",
+            "trim": {
+              "x": 659,
+              "y": 243,
+              "width": 51,
+              "height": 67,
+              "rotatedWidth": 51,
+              "rotatedHeight": 67
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 55,
+            "height": 71,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/f8/f843d53f-03e2-47e5-927f-be4c6ca30022.png",
+            "x": 657,
+            "y": 241,
+            "rotatedWidth": 55,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "t4",
+            "uuid": "002184f1-8e8c-4ce9-b6ba-a9a41f7da6ef",
+            "textureUuid": "c8b9c2c8-6b82-4c79-b17d-8bb5ff5fa7d8",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785218_image_0.png",
+            "trim": {
+              "x": 681,
+              "y": 195,
+              "width": 37,
+              "height": 44,
+              "rotatedWidth": 37,
+              "rotatedHeight": 44
+            },
+            "rawWidth": 37,
+            "rawHeight": 44,
+            "width": 41,
+            "height": 48,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/c8/c8b9c2c8-6b82-4c79-b17d-8bb5ff5fa7d8.png",
+            "x": 679,
+            "y": 193,
+            "rotatedWidth": 41,
+            "rotatedHeight": 48
+          },
+          {
+            "name": "t2",
+            "uuid": "80347a5a-4c77-47cf-9191-982525936fb1",
+            "textureUuid": "c78958a9-a2f1-48a9-a0bb-6b311e93b71b",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785274_image_54.png",
+            "trim": {
+              "x": 659,
+              "y": 314,
+              "width": 47,
+              "height": 58,
+              "rotatedWidth": 58,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 47,
+            "rawHeight": 58,
+            "width": 51,
+            "height": 62,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/c7/c78958a9-a2f1-48a9-a0bb-6b311e93b71b.png",
+            "x": 657,
+            "y": 312,
+            "rotated": true,
+            "rotatedWidth": 62,
+            "rotatedHeight": 51
+          },
+          {
+            "name": "t3",
+            "uuid": "dd6a769d-2343-4b29-a937-c259c37abbcf",
+            "textureUuid": "608caad7-8248-4f84-93de-10407e2b4e55",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785304_image_89.png",
+            "trim": {
+              "x": 714,
+              "y": 243,
+              "width": 66,
+              "height": 40,
+              "rotatedWidth": 40,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 40,
+            "width": 70,
+            "height": 44,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/60/608caad7-8248-4f84-93de-10407e2b4e55.png",
+            "x": 712,
+            "y": 241,
+            "rotated": true,
+            "rotatedWidth": 44,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "t7",
+            "uuid": "ed67d6e6-58d6-4c1b-affc-454b0c4634d8",
+            "textureUuid": "1f77d72a-2b8f-48a3-963c-d656e4ac9105",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785317_image_97.png",
+            "trim": {
+              "x": 721,
+              "y": 313,
+              "width": 38,
+              "height": 48,
+              "rotatedWidth": 38,
+              "rotatedHeight": 48
+            },
+            "rawWidth": 38,
+            "rawHeight": 48,
+            "width": 42,
+            "height": 52,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/1f/1f77d72a-2b8f-48a3-963c-d656e4ac9105.png",
+            "x": 719,
+            "y": 311,
+            "rotatedWidth": 42,
+            "rotatedHeight": 52
+          },
+          {
+            "name": "t2",
+            "uuid": "c7ec03ac-11d2-4709-856e-126f00d478e3",
+            "textureUuid": "ab7f76cb-b8c2-4549-9f98-94df1cd047ff",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785301_image_79.png",
+            "trim": {
+              "x": 708,
+              "y": 114,
+              "width": 66,
+              "height": 36,
+              "rotatedWidth": 36,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 66,
+            "rawHeight": 36,
+            "width": 70,
+            "height": 40,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/ab/ab7f76cb-b8c2-4549-9f98-94df1cd047ff.png",
+            "x": 706,
+            "y": 112,
+            "rotated": true,
+            "rotatedWidth": 40,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "t2",
+            "uuid": "31b77a5e-0a2c-4c1b-9619-30d2fef30918",
+            "textureUuid": "0aa62486-9c90-4682-902a-96a5e855a0cd",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785243_image_16.png",
+            "trim": {
+              "x": 729,
+              "y": 76,
+              "width": 49,
+              "height": 34,
+              "rotatedWidth": 49,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 49,
+            "rawHeight": 34,
+            "width": 53,
+            "height": 38,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/0a/0aa62486-9c90-4682-902a-96a5e855a0cd.png",
+            "x": 727,
+            "y": 74,
+            "rotatedWidth": 53,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "frame244",
+            "uuid": "9b2fb55e-a4ce-47dd-915b-73c64e5e805d",
+            "textureUuid": "1aa93db2-32b6-42a0-84c8-8cf735c8e5ac",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785284_image_61.png",
+            "trim": {
+              "x": 722,
+              "y": 184,
+              "width": 54,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 54
+            },
+            "rawWidth": 89,
+            "rawHeight": 170,
+            "width": 58,
+            "height": 61,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/1a/1aa93db2-32b6-42a0-84c8-8cf735c8e5ac.png",
+            "x": 720,
+            "y": 182,
+            "rotated": true,
+            "rotatedWidth": 61,
+            "rotatedHeight": 58
+          },
+          {
+            "name": "frame340",
+            "uuid": "c472aaf5-6567-4447-b870-f7f561f8d50d",
+            "textureUuid": "fe4fd59e-7dc4-4206-be68-4528d4122bae",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785300_image_77.png",
+            "trim": {
+              "x": 748,
+              "y": 114,
+              "width": 38,
+              "height": 64,
+              "rotatedWidth": 38,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 42,
+            "height": 68,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/fe/fe4fd59e-7dc4-4206-be68-4528d4122bae.png",
+            "x": 746,
+            "y": 112,
+            "rotatedWidth": 42,
+            "rotatedHeight": 68
+          },
+          {
+            "name": "t3",
+            "uuid": "55d84e81-a25e-4a5a-a39b-ccb731ee45d0",
+            "textureUuid": "f9b75005-699d-45e9-b937-55be891bf080",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785264_image_35.png",
+            "trim": {
+              "x": 758,
+              "y": 242,
+              "width": 63,
+              "height": 37,
+              "rotatedWidth": 37,
+              "rotatedHeight": 63
+            },
+            "rawWidth": 63,
+            "rawHeight": 37,
+            "width": 67,
+            "height": 41,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/f9/f9b75005-699d-45e9-b937-55be891bf080.png",
+            "x": 756,
+            "y": 240,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 67
+          },
+          {
+            "name": "tkill",
+            "uuid": "2cbd3d62-198a-4861-b288-98730f6578f9",
+            "textureUuid": "ad4a88b7-b9f7-4747-be2e-dfd2cfbb8bca",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785239_image_13.png",
+            "trim": {
+              "x": 783,
+              "y": 182,
+              "width": 57,
+              "height": 56,
+              "rotatedWidth": 57,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 57,
+            "rawHeight": 56,
+            "width": 61,
+            "height": 60,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/ad/ad4a88b7-b9f7-4747-be2e-dfd2cfbb8bca.png",
+            "x": 781,
+            "y": 180,
+            "rotatedWidth": 61,
+            "rotatedHeight": 60
+          },
+          {
+            "name": "t3",
+            "uuid": "74ae12e3-282e-46b8-84eb-bbc6d9fd049f",
+            "textureUuid": "8329e99c-0d73-46d3-b008-247d68ba951d",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785270_image_49.png",
+            "trim": {
+              "x": 742,
+              "y": 2,
+              "width": 62,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 62,
+            "rawHeight": 38,
+            "width": 66,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/83/8329e99c-0d73-46d3-b008-247d68ba951d.png",
+            "x": 740,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 66
+          },
+          {
+            "name": "frame334",
+            "uuid": "25e53d30-1062-4d74-9474-928cb9be8dcf",
+            "textureUuid": "3be814c6-af36-4c60-9e55-d1e4f443fa54",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785238_image_12.png",
+            "trim": {
+              "x": 782,
+              "y": 68,
+              "width": 46,
+              "height": 42,
+              "rotatedWidth": 46,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 50,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/3b/3be814c6-af36-4c60-9e55-d1e4f443fa54.png",
+            "x": 780,
+            "y": 66,
+            "rotatedWidth": 50,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t2",
+            "uuid": "1bc10198-4321-4599-95b8-9be67f29af0e",
+            "textureUuid": "91c99166-7ac1-424d-9d9d-f787ab73a635",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785236_image_8.png",
+            "trim": {
+              "x": 784,
+              "y": 2,
+              "width": 62,
+              "height": 33,
+              "rotatedWidth": 33,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 62,
+            "rawHeight": 33,
+            "width": 66,
+            "height": 37,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/91/91c99166-7ac1-424d-9d9d-f787ab73a635.png",
+            "x": 782,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 37,
+            "rotatedHeight": 66
+          },
+          {
+            "name": "t2",
+            "uuid": "623257f6-b69b-4aea-8577-2917d7b28345",
+            "textureUuid": "1366926f-4b5e-47c1-baf7-92dde6f3edaa",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785266_image_41.png",
+            "trim": {
+              "x": 821,
+              "y": 2,
+              "width": 33,
+              "height": 62,
+              "rotatedWidth": 33,
+              "rotatedHeight": 62
+            },
+            "rawWidth": 33,
+            "rawHeight": 62,
+            "width": 37,
+            "height": 66,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/13/1366926f-4b5e-47c1-baf7-92dde6f3edaa.png",
+            "x": 819,
+            "y": 0,
+            "rotatedWidth": 37,
+            "rotatedHeight": 66
+          },
+          {
+            "name": "t2",
+            "uuid": "33de8333-80ba-40fb-9e7d-7b0b11bb23ec",
+            "textureUuid": "c2a68a2c-45da-4919-b714-bf07e491d23e",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785245_image_17.png",
+            "trim": {
+              "x": 790,
+              "y": 114,
+              "width": 58,
+              "height": 46,
+              "rotatedWidth": 46,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 58,
+            "rawHeight": 46,
+            "width": 62,
+            "height": 50,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/c2/c2a68a2c-45da-4919-b714-bf07e491d23e.png",
+            "x": 788,
+            "y": 112,
+            "rotated": true,
+            "rotatedWidth": 50,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "t2",
+            "uuid": "6daf547d-879f-4aec-8cba-4bf9d70b2355",
+            "textureUuid": "51c120b4-4553-46d6-999d-d40aaf57141c",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785270_image_46.png",
+            "trim": {
+              "x": 832,
+              "y": 68,
+              "width": 43,
+              "height": 42,
+              "rotatedWidth": 43,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 43,
+            "rawHeight": 42,
+            "width": 47,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/51/51c120b4-4553-46d6-999d-d40aaf57141c.png",
+            "x": 830,
+            "y": 66,
+            "rotatedWidth": 47,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t3",
+            "uuid": "38c0b6ca-e8a7-4afa-aa77-74a8545ce239",
+            "textureUuid": "c96dd786-f8f6-45ac-8c24-59d964c6c182",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785249_image_20.png",
+            "trim": {
+              "x": 858,
+              "y": 2,
+              "width": 57,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 57
+            },
+            "rawWidth": 57,
+            "rawHeight": 45,
+            "width": 61,
+            "height": 49,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/c9/c96dd786-f8f6-45ac-8c24-59d964c6c182.png",
+            "x": 856,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 61
+          },
+          {
+            "name": "t3",
+            "uuid": "f45471e7-b844-4fdd-afa5-32c427c75ce2",
+            "textureUuid": "bbd25a1c-71a5-4594-b3b1-d436043af9b2",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785319_image_100.png",
+            "trim": {
+              "x": 907,
+              "y": 2,
+              "width": 57,
+              "height": 43,
+              "rotatedWidth": 57,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 57,
+            "rawHeight": 43,
+            "width": 61,
+            "height": 47,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/bb/bbd25a1c-71a5-4594-b3b1-d436043af9b2.png",
+            "x": 905,
+            "y": 0,
+            "rotatedWidth": 61,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "frame343",
+            "uuid": "e8d0712c-57d2-4266-bf82-f871d6e36ae7",
+            "textureUuid": "60c8bc54-5cdb-4ab2-b8fa-9c88bf4c4090",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785313_image_94.png",
+            "trim": {
+              "x": 907,
+              "y": 49,
+              "width": 30,
+              "height": 54,
+              "rotatedWidth": 54,
+              "rotatedHeight": 30
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 34,
+            "height": 58,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/60/60c8bc54-5cdb-4ab2-b8fa-9c88bf4c4090.png",
+            "x": 905,
+            "y": 47,
+            "rotated": true,
+            "rotatedWidth": 58,
+            "rotatedHeight": 34
+          },
+          {
+            "name": "frame344",
+            "uuid": "41c42617-026c-4047-9c70-c79d37da89b2",
+            "textureUuid": "f393207a-5329-40b3-8775-e2f93ac450f8",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785252_image_22.png",
+            "trim": {
+              "x": 879,
+              "y": 63,
+              "width": 24,
+              "height": 42,
+              "rotatedWidth": 24,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 28,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/f3/f393207a-5329-40b3-8775-e2f93ac450f8.png",
+            "x": 877,
+            "y": 61,
+            "rotatedWidth": 28,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t2",
+            "uuid": "ade1facb-f90c-478c-b258-4dd16fc3806b",
+            "textureUuid": "1803790f-6602-4dc2-b00c-3952b3034344",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785292_image_70.png",
+            "trim": {
+              "x": 907,
+              "y": 83,
+              "width": 23,
+              "height": 47,
+              "rotatedWidth": 47,
+              "rotatedHeight": 23
+            },
+            "rawWidth": 23,
+            "rawHeight": 47,
+            "width": 27,
+            "height": 51,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/18/1803790f-6602-4dc2-b00c-3952b3034344.png",
+            "x": 905,
+            "y": 81,
+            "rotated": true,
+            "rotatedWidth": 51,
+            "rotatedHeight": 27
+          },
+          {
+            "name": "frame345",
+            "uuid": "a551277b-d046-463f-96c0-cc84a600d21e",
+            "textureUuid": "9f0b5c09-e41b-4f4c-9af9-3a2c49446e57",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785289_image_65.png",
+            "trim": {
+              "x": 879,
+              "y": 109,
+              "width": 24,
+              "height": 38,
+              "rotatedWidth": 24,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 58,
+            "rawHeight": 94,
+            "width": 28,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/9f/9f0b5c09-e41b-4f4c-9af9-3a2c49446e57.png",
+            "x": 877,
+            "y": 107,
+            "rotatedWidth": 28,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "t1",
+            "uuid": "2176c209-818e-43b2-9667-5b8604fc7ec7",
+            "textureUuid": "129d68a3-8e59-4315-aa23-4343d73a6a88",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785236_image_9.png",
+            "trim": {
+              "x": 840,
+              "y": 114,
+              "width": 34,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 34,
+            "rawHeight": 35,
+            "width": 38,
+            "height": 39,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/12/129d68a3-8e59-4315-aa23-4343d73a6a88.png",
+            "x": 838,
+            "y": 112,
+            "rotated": true,
+            "rotatedWidth": 39,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "t2",
+            "uuid": "f2dfb173-8246-4a17-aedf-67953b1206f2",
+            "textureUuid": "eb313062-dfa4-4900-ab8d-3d768cc7ce0c",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785319_image_99.png",
+            "trim": {
+              "x": 840,
+              "y": 152,
+              "width": 26,
+              "height": 39,
+              "rotatedWidth": 39,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 26,
+            "rawHeight": 39,
+            "width": 30,
+            "height": 43,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/eb/eb313062-dfa4-4900-ab8d-3d768cc7ce0c.png",
+            "x": 838,
+            "y": 150,
+            "rotated": true,
+            "rotatedWidth": 43,
+            "rotatedHeight": 30
+          },
+          {
+            "name": "t6",
+            "uuid": "52cfec2a-3574-4b44-8228-936baa32d05e",
+            "textureUuid": "e722c8be-abdd-4d78-86ff-886129cebb42",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785260_image_32.png",
+            "trim": {
+              "x": 907,
+              "y": 110,
+              "width": 36,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 36,
+            "rawHeight": 45,
+            "width": 40,
+            "height": 49,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/e7/e722c8be-abdd-4d78-86ff-886129cebb42.png",
+            "x": 905,
+            "y": 108,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "t2",
+            "uuid": "1969aae2-6a1e-4383-9458-3c184641dc27",
+            "textureUuid": "05487188-b7ce-4c55-b7c0-556238718c68",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785231_image_5.png",
+            "trim": {
+              "x": 907,
+              "y": 150,
+              "width": 25,
+              "height": 45,
+              "rotatedWidth": 45,
+              "rotatedHeight": 25
+            },
+            "rawWidth": 25,
+            "rawHeight": 45,
+            "width": 29,
+            "height": 49,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/05/05487188-b7ce-4c55-b7c0-556238718c68.png",
+            "x": 905,
+            "y": 148,
+            "rotated": true,
+            "rotatedWidth": 49,
+            "rotatedHeight": 29
+          },
+          {
+            "name": "t6",
+            "uuid": "90d98394-5ef0-4e3d-91cb-ee29bf456ee6",
+            "textureUuid": "69965d52-8c4d-44e4-b406-f0ca322ee1a3",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785283_image_60.png",
+            "trim": {
+              "x": 883,
+              "y": 179,
+              "width": 42,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 43,
+            "width": 46,
+            "height": 47,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/69/69965d52-8c4d-44e4-b406-f0ca322ee1a3.png",
+            "x": 881,
+            "y": 177,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t7",
+            "uuid": "1aa57252-4e8a-40bb-a92b-3fd2998cb920",
+            "textureUuid": "07e87eaf-4e0a-4299-a390-cb05ad4fa277",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785233_image_7.png",
+            "trim": {
+              "x": 930,
+              "y": 179,
+              "width": 36,
+              "height": 42,
+              "rotatedWidth": 36,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 36,
+            "rawHeight": 42,
+            "width": 40,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/07/07e87eaf-4e0a-4299-a390-cb05ad4fa277.png",
+            "x": 928,
+            "y": 177,
+            "rotatedWidth": 40,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t1",
+            "uuid": "0a27472b-acdb-4491-8c2f-102176ed9c31",
+            "textureUuid": "db0eb888-e37f-40d9-853a-f66b1042f769",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785227_image_3.png",
+            "trim": {
+              "x": 844,
+              "y": 182,
+              "width": 34,
+              "height": 40,
+              "rotatedWidth": 34,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 34,
+            "rawHeight": 40,
+            "width": 38,
+            "height": 44,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/db/db0eb888-e37f-40d9-853a-f66b1042f769.png",
+            "x": 842,
+            "y": 180,
+            "rotatedWidth": 38,
+            "rotatedHeight": 44
+          },
+          {
+            "name": "t5",
+            "uuid": "d86d7304-e712-4e89-8d82-8efa307292f3",
+            "textureUuid": "3c40e2cc-bcc6-4b78-a20d-11bc52409c82",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785304_image_86.png",
+            "trim": {
+              "x": 882,
+              "y": 225,
+              "width": 42,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 43,
+            "width": 46,
+            "height": 47,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/3c/3c40e2cc-bcc6-4b78-a20d-11bc52409c82.png",
+            "x": 880,
+            "y": 223,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t1",
+            "uuid": "550ff384-1b13-4ab4-98de-e2323f935758",
+            "textureUuid": "fa0d8baa-b464-4629-9dd9-ef2ad2c370dd",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785263_image_34.png",
+            "trim": {
+              "x": 844,
+              "y": 226,
+              "width": 34,
+              "height": 40,
+              "rotatedWidth": 34,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 34,
+            "rawHeight": 40,
+            "width": 38,
+            "height": 44,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/fa/fa0d8baa-b464-4629-9dd9-ef2ad2c370dd.png",
+            "x": 842,
+            "y": 224,
+            "rotatedWidth": 38,
+            "rotatedHeight": 44
+          },
+          {
+            "name": "t3",
+            "uuid": "e840821a-0b54-433c-9a7a-4bb75d80a63d",
+            "textureUuid": "500bef45-5bf8-4d48-a893-168f23c112dc",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785312_image_93.png",
+            "trim": {
+              "x": 799,
+              "y": 242,
+              "width": 39,
+              "height": 41,
+              "rotatedWidth": 41,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 39,
+            "rawHeight": 41,
+            "width": 43,
+            "height": 45,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/50/500bef45-5bf8-4d48-a893-168f23c112dc.png",
+            "x": 797,
+            "y": 240,
+            "rotated": true,
+            "rotatedWidth": 45,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "t1",
+            "uuid": "067a1ba9-8c55-474d-a7fc-36a1ca0b4db0",
+            "textureUuid": "ebd32c0f-6d31-4759-a226-8bbfaeeed690",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785226_image_2.png",
+            "trim": {
+              "x": 844,
+              "y": 270,
+              "width": 34,
+              "height": 39,
+              "rotatedWidth": 34,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 34,
+            "rawHeight": 39,
+            "width": 38,
+            "height": 43,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/eb/ebd32c0f-6d31-4759-a226-8bbfaeeed690.png",
+            "x": 842,
+            "y": 268,
+            "rotatedWidth": 38,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "t1",
+            "uuid": "4fa05d94-cba5-4a06-aa38-36ded0aae22f",
+            "textureUuid": "079114b5-d936-45a3-91ae-ff0160059058",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785260_image_30.png",
+            "trim": {
+              "x": 799,
+              "y": 285,
+              "width": 41,
+              "height": 38,
+              "rotatedWidth": 41,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 41,
+            "rawHeight": 38,
+            "width": 45,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/07/079114b5-d936-45a3-91ae-ff0160059058.png",
+            "x": 797,
+            "y": 283,
+            "rotatedWidth": 45,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "t1",
+            "uuid": "716f4960-22d3-4871-8902-d057b160380a",
+            "textureUuid": "455c0c24-9e98-4913-aa4a-77ed883dba0b",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785270_image_48.png",
+            "trim": {
+              "x": 929,
+              "y": 225,
+              "width": 37,
+              "height": 41,
+              "rotatedWidth": 37,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 37,
+            "rawHeight": 41,
+            "width": 41,
+            "height": 45,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/45/455c0c24-9e98-4913-aa4a-77ed883dba0b.png",
+            "x": 927,
+            "y": 223,
+            "rotatedWidth": 41,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "t3",
+            "uuid": "771438e0-c3b7-45da-be85-8886372f3ccd",
+            "textureUuid": "f2cb5260-2599-457c-b3ff-7f325b04a867",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785273_image_52.png",
+            "trim": {
+              "x": 929,
+              "y": 270,
+              "width": 37,
+              "height": 37,
+              "rotatedWidth": 37,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 37,
+            "rawHeight": 37,
+            "width": 41,
+            "height": 41,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/f2/f2cb5260-2599-457c-b3ff-7f325b04a867.png",
+            "x": 927,
+            "y": 268,
+            "rotatedWidth": 41,
+            "rotatedHeight": 41
+          },
+          {
+            "name": "t3",
+            "uuid": "e5d42959-a146-4fb1-991d-b653505ff0a3",
+            "textureUuid": "2720574c-4c7a-4774-828f-2b3293e3986a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785308_image_92.png",
+            "trim": {
+              "x": 882,
+              "y": 271,
+              "width": 40,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 40,
+            "rawHeight": 43,
+            "width": 44,
+            "height": 47,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/27/2720574c-4c7a-4774-828f-2b3293e3986a.png",
+            "x": 880,
+            "y": 269,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 44
+          },
+          {
+            "name": "t4",
+            "uuid": "a9433819-767a-4d0c-9ccd-372b4eb0710c",
+            "textureUuid": "23366808-7b51-42e4-801e-9996f902edd5",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785289_image_67.png",
+            "trim": {
+              "x": 844,
+              "y": 313,
+              "width": 39,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 39,
+            "rawHeight": 34,
+            "width": 43,
+            "height": 38,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/23/23366808-7b51-42e4-801e-9996f902edd5.png",
+            "x": 842,
+            "y": 311,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "t2",
+            "uuid": "f4d60ea7-2bad-43dd-91bb-3164239958d4",
+            "textureUuid": "70826b1f-6e27-46f8-8a09-d64d43cba42d",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785320_image_101.png",
+            "trim": {
+              "x": 929,
+              "y": 311,
+              "width": 37,
+              "height": 36,
+              "rotatedWidth": 37,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 37,
+            "rawHeight": 36,
+            "width": 41,
+            "height": 40,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/70/70826b1f-6e27-46f8-8a09-d64d43cba42d.png",
+            "x": 927,
+            "y": 309,
+            "rotatedWidth": 41,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "t5",
+            "uuid": "83d71efd-f147-4d27-881d-f78576fea497",
+            "textureUuid": "97d1e547-c72a-4947-baf5-5802ab18db31",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785275_image_55.png",
+            "trim": {
+              "x": 882,
+              "y": 315,
+              "width": 39,
+              "height": 43,
+              "rotatedWidth": 43,
+              "rotatedHeight": 39
+            },
+            "rawWidth": 39,
+            "rawHeight": 43,
+            "width": 43,
+            "height": 47,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/97/97d1e547-c72a-4947-baf5-5802ab18db31.png",
+            "x": 880,
+            "y": 313,
+            "rotated": true,
+            "rotatedWidth": 47,
+            "rotatedHeight": 43
+          },
+          {
+            "name": "t1",
+            "uuid": "da71d097-2565-47af-9dca-43331adb08fc",
+            "textureUuid": "14f9d328-97b7-44f5-8951-01f44e7393c2",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785304_image_87.png",
+            "trim": {
+              "x": 929,
+              "y": 351,
+              "width": 34,
+              "height": 37,
+              "rotatedWidth": 37,
+              "rotatedHeight": 34
+            },
+            "rawWidth": 34,
+            "rawHeight": 37,
+            "width": 38,
+            "height": 41,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/14/14f9d328-97b7-44f5-8951-01f44e7393c2.png",
+            "x": 927,
+            "y": 349,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "t1",
+            "uuid": "61517fb6-7f1a-42b6-a68d-9bd65cac2c4f",
+            "textureUuid": "d46570c4-1cd2-4e93-91c1-1d6572f28b9b",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785266_image_40.png",
+            "trim": {
+              "x": 763,
+              "y": 309,
+              "width": 31,
+              "height": 38,
+              "rotatedWidth": 31,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 31,
+            "rawHeight": 38,
+            "width": 35,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/d4/d46570c4-1cd2-4e93-91c1-1d6572f28b9b.png",
+            "x": 761,
+            "y": 307,
+            "rotatedWidth": 35,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "t7",
+            "uuid": "761629a3-045d-4bf1-8794-0671e2a86465",
+            "textureUuid": "f4faec6e-acf4-4522-b15f-59a2984afafc",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785272_image_51.png",
+            "trim": {
+              "x": 798,
+              "y": 327,
+              "width": 42,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 42,
+            "rawHeight": 42,
+            "width": 46,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/f4/f4faec6e-acf4-4522-b15f-59a2984afafc.png",
+            "x": 796,
+            "y": 325,
+            "rotatedWidth": 46,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t6",
+            "uuid": "e255b675-b399-41b3-846b-41977521c139",
+            "textureUuid": "1726d49c-6619-495a-8354-00b5e4a53988",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785307_image_91.png",
+            "trim": {
+              "x": 763,
+              "y": 351,
+              "width": 31,
+              "height": 37,
+              "rotatedWidth": 31,
+              "rotatedHeight": 37
+            },
+            "rawWidth": 31,
+            "rawHeight": 37,
+            "width": 35,
+            "height": 41,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/17/1726d49c-6619-495a-8354-00b5e4a53988.png",
+            "x": 761,
+            "y": 349,
+            "rotatedWidth": 35,
+            "rotatedHeight": 41
+          },
+          {
+            "name": "t6",
+            "uuid": "467920cd-c3fd-4e4c-9c20-afbc6e79de31",
+            "textureUuid": "570ca91a-b1b2-413a-94d1-c0176f2be658",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785258_image_26.png",
+            "trim": {
+              "x": 730,
+              "y": 365,
+              "width": 29,
+              "height": 42,
+              "rotatedWidth": 29,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 29,
+            "rawHeight": 42,
+            "width": 33,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/57/570ca91a-b1b2-413a-94d1-c0176f2be658.png",
+            "x": 728,
+            "y": 363,
+            "rotatedWidth": 33,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t1",
+            "uuid": "46533509-eeab-4375-a6b8-0e4c7194ed0a",
+            "textureUuid": "fe476a6d-3a9f-44c6-8a5d-3e8ee28cabf5",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785255_image_24.png",
+            "trim": {
+              "x": 844,
+              "y": 356,
+              "width": 36,
+              "height": 34,
+              "rotatedWidth": 34,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 36,
+            "rawHeight": 34,
+            "width": 40,
+            "height": 38,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/fe/fe476a6d-3a9f-44c6-8a5d-3e8ee28cabf5.png",
+            "x": 842,
+            "y": 354,
+            "rotated": true,
+            "rotatedWidth": 38,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "t5",
+            "uuid": "cf313f41-b220-4e5a-999d-f46f1735a786",
+            "textureUuid": "d2f03b9f-5589-4c1e-8a73-fcfcd1a82155",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785302_image_81.png",
+            "trim": {
+              "x": 798,
+              "y": 373,
+              "width": 38,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 38,
+            "rawHeight": 42,
+            "width": 42,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/d2/d2f03b9f-5589-4c1e-8a73-fcfcd1a82155.png",
+            "x": 796,
+            "y": 371,
+            "rotated": true,
+            "rotatedWidth": 46,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "t4",
+            "uuid": "7d78769d-b62d-4809-9004-4651690123ea",
+            "textureUuid": "d7f0d737-23d6-460a-b01f-c5a947db2597",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785274_image_53.png",
+            "trim": {
+              "x": 763,
+              "y": 392,
+              "width": 30,
+              "height": 36,
+              "rotatedWidth": 30,
+              "rotatedHeight": 36
+            },
+            "rawWidth": 30,
+            "rawHeight": 36,
+            "width": 34,
+            "height": 40,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/d7/d7f0d737-23d6-460a-b01f-c5a947db2597.png",
+            "x": 761,
+            "y": 390,
+            "rotatedWidth": 34,
+            "rotatedHeight": 40
+          },
+          {
+            "name": "t5",
+            "uuid": "b80bd999-91b0-4f81-a17b-35859ef8af40",
+            "textureUuid": "774931a8-05b6-461b-831e-34f8c6674ba5",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785298_image_74.png",
+            "trim": {
+              "x": 730,
+              "y": 411,
+              "width": 29,
+              "height": 41,
+              "rotatedWidth": 29,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 29,
+            "rawHeight": 41,
+            "width": 33,
+            "height": 45,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/77/774931a8-05b6-461b-831e-34f8c6674ba5.png",
+            "x": 728,
+            "y": 409,
+            "rotatedWidth": 33,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "t7",
+            "uuid": "04ab2659-c3f5-4f04-bf0e-94dfe65fb034",
+            "textureUuid": "ed9b6998-8a4b-4b09-a1a8-873b1188529a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785224_image_1.png",
+            "trim": {
+              "x": 763,
+              "y": 432,
+              "width": 33,
+              "height": 42,
+              "rotatedWidth": 33,
+              "rotatedHeight": 42
+            },
+            "rawWidth": 33,
+            "rawHeight": 42,
+            "width": 37,
+            "height": 46,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/ed/ed9b6998-8a4b-4b09-a1a8-873b1188529a.png",
+            "x": 761,
+            "y": 430,
+            "rotatedWidth": 37,
+            "rotatedHeight": 46
+          },
+          {
+            "name": "t2",
+            "uuid": "acc15be5-d277-42ed-b326-3172a57f7787",
+            "textureUuid": "8e918f9c-adcf-41b7-8b82-a7579583e640",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785289_image_68.png",
+            "trim": {
+              "x": 882,
+              "y": 358,
+              "width": 41,
+              "height": 38,
+              "rotatedWidth": 41,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 41,
+            "rawHeight": 38,
+            "width": 45,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/8e/8e918f9c-adcf-41b7-8b82-a7579583e640.png",
+            "x": 880,
+            "y": 356,
+            "rotatedWidth": 45,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "t3",
+            "uuid": "8cfa1e85-55fa-42c6-b294-56efd204e2dd",
+            "textureUuid": "6b9cb282-ce15-4801-8aec-bad809693bb1",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785283_image_59.png",
+            "trim": {
+              "x": 927,
+              "y": 389,
+              "width": 39,
+              "height": 40,
+              "rotatedWidth": 39,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 39,
+            "rawHeight": 40,
+            "width": 43,
+            "height": 44,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/6b/6b9cb282-ce15-4801-8aec-bad809693bb1.png",
+            "x": 925,
+            "y": 387,
+            "rotatedWidth": 43,
+            "rotatedHeight": 44
+          },
+          {
+            "name": "t1",
+            "uuid": "b867e78b-07f9-45bb-aa2c-b98ab0583e2e",
+            "textureUuid": "ff3b6ca1-1aad-4acb-993e-f0386e601d31",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785298_image_75.png",
+            "trim": {
+              "x": 775,
+              "y": 478,
+              "width": 29,
+              "height": 39,
+              "rotatedWidth": 39,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 39,
+            "width": 33,
+            "height": 43,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/ff/ff3b6ca1-1aad-4acb-993e-f0386e601d31.png",
+            "x": 773,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 43,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "t6",
+            "uuid": "d4f66c08-f868-4d3a-b728-e4dba034af54",
+            "textureUuid": "312a7562-008f-48eb-bcc2-25efa5e697fe",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785303_image_83.png",
+            "trim": {
+              "x": 800,
+              "y": 433,
+              "width": 38,
+              "height": 41,
+              "rotatedWidth": 38,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 38,
+            "rawHeight": 41,
+            "width": 42,
+            "height": 45,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/31/312a7562-008f-48eb-bcc2-25efa5e697fe.png",
+            "x": 798,
+            "y": 431,
+            "rotatedWidth": 42,
+            "rotatedHeight": 45
+          },
+          {
+            "name": "t4",
+            "uuid": "591087b1-7c2b-4f36-9cfd-d2e6b5ac0ca3",
+            "textureUuid": "fba3bd45-f0c5-42f8-b463-7c8f6b3fa6c3",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785264_image_36.png",
+            "trim": {
+              "x": 818,
+              "y": 478,
+              "width": 29,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 38,
+            "width": 33,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/fb/fba3bd45-f0c5-42f8-b463-7c8f6b3fa6c3.png",
+            "x": 816,
+            "y": 476,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "t1",
+            "uuid": "fd9acb19-46ef-419b-b8a9-804aeb18adc8",
+            "textureUuid": "4046a19e-30f0-45ea-86f0-089c476fbdf3",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785323_image_107.png",
+            "trim": {
+              "x": 842,
+              "y": 433,
+              "width": 28,
+              "height": 40,
+              "rotatedWidth": 28,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 28,
+            "rawHeight": 40,
+            "width": 32,
+            "height": 44,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/40/4046a19e-30f0-45ea-86f0-089c476fbdf3.png",
+            "x": 840,
+            "y": 431,
+            "rotatedWidth": 32,
+            "rotatedHeight": 44
+          },
+          {
+            "name": "t3",
+            "uuid": "a0e163ad-4223-4d9f-bde6-4e1d802e3365",
+            "textureUuid": "1272b0df-fc39-4a31-bbba-d4f8a1912e24",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785287_image_63.png",
+            "trim": {
+              "x": 844,
+              "y": 400,
+              "width": 28,
+              "height": 37,
+              "rotatedWidth": 37,
+              "rotatedHeight": 28
+            },
+            "rawWidth": 28,
+            "rawHeight": 37,
+            "width": 32,
+            "height": 41,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/12/1272b0df-fc39-4a31-bbba-d4f8a1912e24.png",
+            "x": 842,
+            "y": 398,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 32
+          },
+          {
+            "name": "t4",
+            "uuid": "8752efcb-eca9-49c0-8694-e1dbced1257a",
+            "textureUuid": "e5551be9-1ade-4cce-8862-50d1af6924f6",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785281_image_57.png",
+            "trim": {
+              "x": 885,
+              "y": 400,
+              "width": 38,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 38,
+            "rawHeight": 38,
+            "width": 42,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/e5/e5551be9-1ade-4cce-8862-50d1af6924f6.png",
+            "x": 883,
+            "y": 398,
+            "rotatedWidth": 42,
+            "rotatedHeight": 42
+          },
+          {
+            "name": "t1",
+            "uuid": "5c0d13b9-8f6d-4292-9bf1-9a81043d5a8b",
+            "textureUuid": "96c50e36-fe8a-40f2-8f29-cc2333048f9a",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785265_image_38.png",
+            "trim": {
+              "x": 927,
+              "y": 433,
+              "width": 26,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 26
+            },
+            "rawWidth": 26,
+            "rawHeight": 38,
+            "width": 30,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/96/96c50e36-fe8a-40f2-8f29-cc2333048f9a.png",
+            "x": 925,
+            "y": 431,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 30
+          },
+          {
+            "name": "t1",
+            "uuid": "17b31b43-1e48-4a0e-9055-7fe4b14c6fae",
+            "textureUuid": "a2bd5b04-f0fc-4045-a9ad-991474ba9018",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785230_image_4.png",
+            "trim": {
+              "x": 860,
+              "y": 477,
+              "width": 25,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 25
+            },
+            "rawWidth": 25,
+            "rawHeight": 38,
+            "width": 29,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/a2/a2bd5b04-f0fc-4045-a9ad-991474ba9018.png",
+            "x": 858,
+            "y": 475,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 29
+          },
+          {
+            "name": "t1",
+            "uuid": "b42d8210-ce86-47c3-83f2-e1e929ace530",
+            "textureUuid": "812fb79c-8b1f-4f16-99f1-5dff5a492dc9",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785297_image_73.png",
+            "trim": {
+              "x": 874,
+              "y": 442,
+              "width": 24,
+              "height": 38,
+              "rotatedWidth": 38,
+              "rotatedHeight": 24
+            },
+            "rawWidth": 24,
+            "rawHeight": 38,
+            "width": 28,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/81/812fb79c-8b1f-4f16-99f1-5dff5a492dc9.png",
+            "x": 872,
+            "y": 440,
+            "rotated": true,
+            "rotatedWidth": 42,
+            "rotatedHeight": 28
+          },
+          {
+            "name": "t2",
+            "uuid": "e8f25d6e-eb56-459f-addb-8d47e8ac5392",
+            "textureUuid": "5ddf007d-535c-43c5-8f7e-293f3043683d",
+            "path": "/Users/shenfangqi/cocosPrj/war3_project/temp/trimImages/spritesheet_js_1586512785315_image_95.png",
+            "trim": {
+              "x": 902,
+              "y": 470,
+              "width": 24,
+              "height": 38,
+              "rotatedWidth": 24,
+              "rotatedHeight": 38
+            },
+            "rawWidth": 24,
+            "rawHeight": 38,
+            "width": 28,
+            "height": 42,
+            "originalPath": "/Users/shenfangqi/cocosPrj/war3_project/library/imports/5d/5ddf007d-535c-43c5-8f7e-293f3043683d.png",
+            "x": 900,
+            "y": 468,
+            "rotatedWidth": 28,
+            "rotatedHeight": 42
+          }
+        ],
+        "width": 1024,
+        "height": 512,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/shenfangqi/cocosPrj/war3_project/temp/TexturePacker/build/raw-assets/resources/gameRes/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/shenfangqi/cocosPrj/war3_project/temp/TexturePacker/build/raw-assets/resources/gameRes/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

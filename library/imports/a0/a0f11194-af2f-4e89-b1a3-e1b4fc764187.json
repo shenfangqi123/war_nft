@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "move-e-8",
+    "texture": "bfd677a4-42bd-4033-bbab-ed878918fb1c",
+    "atlas": "5ef43422-b8ab-45ee-8d64-986f3fa1bdf6",
+    "rect": [
+      79,
+      235,
+      58,
+      78
+    ],
+    "offset": [
+      -2,
+      25
+    ],
+    "originalSize": [
+      64,
+      128
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

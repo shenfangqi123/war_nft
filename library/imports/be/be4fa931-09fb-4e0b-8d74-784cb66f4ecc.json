@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ske",
+    "texture": "ad1efc07-1ca7-41d6-b99f-aaf8321deb26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      41
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

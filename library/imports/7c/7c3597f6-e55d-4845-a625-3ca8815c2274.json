@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "firedrop",
+    "texture": "3516d2ab-ea88-4309-8321-6b8389ee1c3f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      924,
+      222
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      924,
+      223
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

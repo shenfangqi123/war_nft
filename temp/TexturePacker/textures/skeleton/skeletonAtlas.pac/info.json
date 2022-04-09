@@ -1,0 +1,10 @@
+{
+  "packedTextures": [
+    {
+      "path": "/Users/shenfangqi/cocosPrj/war2_project/temp/TexturePacker/textures/skeleton/skeletonAtlas.pac/skeletonAtlas-1.png",
+      "name": "skeletonAtlas-1.png",
+      "size": "512x512"
+    }
+  ],
+  "unpackedTextures": []
+}

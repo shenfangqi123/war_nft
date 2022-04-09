@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "magicfire",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "97e36c1a-0d1f-41e4-b0c6-5251d3c5e8bb"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "81f1cbd8-ccb6-4586-a839-e9818c29d332"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "846a955c-0810-4eb7-9892-e131183384e5"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "5b8252b3-e265-4393-b221-6279269a14d4"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "24ddccaa-11c8-4d77-8e69-acc6587157b1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "wizfireEffectStartEvt",
+      "params": []
+    },
+    {
+      "frame": 0.6666666666666666,
+      "func": "wizfireEffectEndEvt",
+      "params": []
+    }
+  ]
+}
