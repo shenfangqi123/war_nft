@@ -1,77 +1,85 @@
-2022-04-09T08:53:09.924Z - normal: Load ~/.CocosCreator/settings.json
-2022-04-09T08:53:09.960Z - normal: Initializing Asset Database
-2022-04-09T08:53:09.962Z - normal: checking language setting...
-2022-04-09T08:53:09.962Z - normal: Language: zh
-2022-04-09T08:53:10.634Z - success: protocol editor-framework registered
-2022-04-09T08:53:10.634Z - success: protocol app registered
-2022-04-09T08:53:10.634Z - success: protocol theme registered
-2022-04-09T08:53:10.634Z - success: protocol packages registered
-2022-04-09T08:53:10.634Z - success: protocol uuid registerred
-2022-04-09T08:53:10.634Z - success: protocol db registerred
-2022-04-09T08:53:10.635Z - success: protocol thumbnail registerred
-2022-04-09T08:53:10.635Z - success: protocol unpack registerred
-2022-04-09T08:53:10.635Z - success: protocol disable-commonjs registerred
-2022-04-09T08:53:13.625Z - normal: failed to connect login server due to request timeout
-2022-04-09T08:53:13.626Z - normal: Check project /Users/shenfangqi/cocosPrj/war_nft
-2022-04-09T08:53:13.628Z - normal: Initializing project /Users/shenfangqi/cocosPrj/war_nft
-2022-04-09T08:53:13.756Z - success: adapters loaded
-2022-04-09T08:53:13.759Z - success: asset-db-debugger loaded
-2022-04-09T08:53:13.809Z - success: fb-audience-network loaded
-2022-04-09T08:53:13.836Z - success: fb-live-stream loaded
-2022-04-09T08:53:13.837Z - success: google-play-instant loaded
-2022-04-09T08:53:13.837Z - success: jsb-adapter loaded
-2022-04-09T08:53:13.841Z - success: package-manager loaded
-2022-04-09T08:53:13.841Z - success: runtime-adapters loaded
-2022-04-09T08:53:13.843Z - success: runtime-dev-tools loaded
-2022-04-09T08:53:13.845Z - success: ui-kit-preview-extra loaded
-2022-04-09T08:53:13.848Z - success: ui-kit-preview loaded
-2022-04-09T08:53:13.886Z - success: alipay-minigame loaded
-2022-04-09T08:53:13.933Z - success: assets loaded
-2022-04-09T08:53:13.937Z - success: baidugame-opendata loaded
-2022-04-09T08:53:13.938Z - success: baidugame loaded
-2022-04-09T08:53:13.940Z - success: builder loaded
-2022-04-09T08:53:13.941Z - success: bytedance-opendata loaded
-2022-04-09T08:53:13.943Z - success: bytedance loaded
-2022-04-09T08:53:13.944Z - success: channel-upload-tools loaded
-2022-04-09T08:53:13.949Z - success: cloud-function loaded
-2022-04-09T08:53:14.087Z - success: cocos-services loaded
-2022-04-09T08:53:14.090Z - success: console loaded
-2022-04-09T08:53:14.092Z - success: curve-editor loaded
-2022-04-09T08:53:14.099Z - success: fb-instant-games loaded
-2022-04-09T08:53:14.103Z - success: game-window loaded
-2022-04-09T08:53:14.104Z - success: google-instant-games loaded
-2022-04-09T08:53:14.107Z - success: hierarchy loaded
-2022-04-09T08:53:14.108Z - success: huawei-agc loaded
-2022-04-09T08:53:14.110Z - success: huawei-runtime loaded
-2022-04-09T08:53:14.114Z - success: inspector loaded
-2022-04-09T08:53:14.124Z - success: cpk-publish loaded
-2022-04-09T08:53:14.125Z - success: keystore loaded
-2022-04-09T08:53:14.136Z - success: link-sure-runtime loaded
-2022-04-09T08:53:14.146Z - success: node-library loaded
-2022-04-09T08:53:14.146Z - success: open-recent-items loaded
-2022-04-09T08:53:14.149Z - success: oppo-runtime loaded
-2022-04-09T08:53:14.150Z - success: package-asset loaded
-2022-04-09T08:53:14.151Z - success: preferences loaded
-2022-04-09T08:53:14.153Z - success: project-importer loaded
-2022-04-09T08:53:14.155Z - success: project-settings loaded
-2022-04-09T08:53:14.165Z - success: qtt-runtime loaded
-2022-04-09T08:53:14.167Z - success: scene loaded
-2022-04-09T08:53:14.168Z - success: simulator-debugger loaded
-2022-04-09T08:53:14.168Z - success: sprite-editor loaded
-2022-04-09T08:53:14.195Z - success: store loaded
-2022-04-09T08:53:14.197Z - success: timeline loaded
-2022-04-09T08:53:14.200Z - success: vivo-runtime loaded
-2022-04-09T08:53:14.202Z - success: wechatgame-opendata loaded
-2022-04-09T08:53:14.204Z - success: wechatgame loaded
-2022-04-09T08:53:14.206Z - success: xiaomi-runtime loaded
-2022-04-09T08:53:14.332Z - success: im-plugin loaded
-2022-04-09T08:53:14.333Z - success: preview server running at http://localhost:7456
-2022-04-09T08:53:15.680Z - normal: Initializing Cocos2d
-2022-04-09T08:53:15.971Z - normal: Initializing engine extends
-2022-04-09T08:53:18.217Z - normal: Loading packages
-2022-04-09T08:53:18.219Z - normal: Watching packages
-2022-04-09T08:53:18.307Z - normal: Run Application
-2022-04-09T08:53:22.572Z - error: 9 already defined in Enum.
+2022-04-09T12:58:07.702Z - normal: Load ~/.CocosCreator/settings.json
+2022-04-09T12:58:07.786Z - normal: Initializing Asset Database
+2022-04-09T12:58:07.791Z - normal: checking language setting...
+2022-04-09T12:58:07.791Z - normal: Language: zh
+2022-04-09T12:58:09.245Z - success: protocol editor-framework registered
+2022-04-09T12:58:09.245Z - success: protocol app registered
+2022-04-09T12:58:09.245Z - success: protocol theme registered
+2022-04-09T12:58:09.246Z - success: protocol packages registered
+2022-04-09T12:58:09.246Z - success: protocol uuid registerred
+2022-04-09T12:58:09.246Z - success: protocol db registerred
+2022-04-09T12:58:09.246Z - success: protocol thumbnail registerred
+2022-04-09T12:58:09.247Z - success: protocol unpack registerred
+2022-04-09T12:58:09.247Z - success: protocol disable-commonjs registerred
+2022-04-09T12:58:12.217Z - normal: failed to connect login server due to request timeout
+2022-04-09T12:58:12.218Z - normal: Check project /Users/shenfangqi/cocosPrj/war_nft
+2022-04-09T12:58:12.220Z - normal: Initializing project /Users/shenfangqi/cocosPrj/war_nft
+2022-04-09T12:58:12.468Z - success: adapters loaded
+2022-04-09T12:58:12.473Z - success: asset-db-debugger loaded
+2022-04-09T12:58:12.575Z - success: fb-audience-network loaded
+2022-04-09T12:58:12.625Z - success: fb-live-stream loaded
+2022-04-09T12:58:12.628Z - success: google-play-instant loaded
+2022-04-09T12:58:12.629Z - success: jsb-adapter loaded
+2022-04-09T12:58:12.636Z - success: package-manager loaded
+2022-04-09T12:58:12.636Z - success: runtime-adapters loaded
+2022-04-09T12:58:12.639Z - success: runtime-dev-tools loaded
+2022-04-09T12:58:12.644Z - success: ui-kit-preview-extra loaded
+2022-04-09T12:58:12.649Z - success: ui-kit-preview loaded
+2022-04-09T12:58:12.720Z - success: alipay-minigame loaded
+2022-04-09T12:58:12.815Z - success: assets loaded
+2022-04-09T12:58:12.819Z - success: baidugame-opendata loaded
+2022-04-09T12:58:12.822Z - success: baidugame loaded
+2022-04-09T12:58:12.827Z - success: builder loaded
+2022-04-09T12:58:12.830Z - success: bytedance-opendata loaded
+2022-04-09T12:58:12.832Z - success: bytedance loaded
+2022-04-09T12:58:12.836Z - success: channel-upload-tools loaded
+2022-04-09T12:58:12.843Z - success: cloud-function loaded
+2022-04-09T12:58:13.088Z - success: cocos-services loaded
+2022-04-09T12:58:13.094Z - success: console loaded
+2022-04-09T12:58:13.097Z - success: curve-editor loaded
+2022-04-09T12:58:13.114Z - success: fb-instant-games loaded
+2022-04-09T12:58:13.120Z - success: game-window loaded
+2022-04-09T12:58:13.121Z - success: google-instant-games loaded
+2022-04-09T12:58:13.127Z - success: hierarchy loaded
+2022-04-09T12:58:13.130Z - success: huawei-agc loaded
+2022-04-09T12:58:13.135Z - success: huawei-runtime loaded
+2022-04-09T12:58:13.141Z - success: inspector loaded
+2022-04-09T12:58:13.162Z - success: cpk-publish loaded
+2022-04-09T12:58:13.162Z - success: keystore loaded
+2022-04-09T12:58:13.184Z - success: link-sure-runtime loaded
+2022-04-09T12:58:13.202Z - success: node-library loaded
+2022-04-09T12:58:13.202Z - success: open-recent-items loaded
+2022-04-09T12:58:13.206Z - success: oppo-runtime loaded
+2022-04-09T12:58:13.209Z - success: package-asset loaded
+2022-04-09T12:58:13.210Z - success: preferences loaded
+2022-04-09T12:58:13.216Z - success: project-importer loaded
+2022-04-09T12:58:13.220Z - success: project-settings loaded
+2022-04-09T12:58:13.242Z - success: qtt-runtime loaded
+2022-04-09T12:58:13.248Z - success: scene loaded
+2022-04-09T12:58:13.250Z - success: simulator-debugger loaded
+2022-04-09T12:58:13.251Z - success: sprite-editor loaded
+2022-04-09T12:58:13.304Z - success: store loaded
+2022-04-09T12:58:13.311Z - success: timeline loaded
+2022-04-09T12:58:13.316Z - success: vivo-runtime loaded
+2022-04-09T12:58:13.319Z - success: wechatgame-opendata loaded
+2022-04-09T12:58:13.324Z - success: wechatgame loaded
+2022-04-09T12:58:13.328Z - success: xiaomi-runtime loaded
+2022-04-09T12:58:13.573Z - success: im-plugin loaded
+2022-04-09T12:58:13.575Z - success: preview server running at http://localhost:7456
+2022-04-09T12:58:16.417Z - normal: Initializing Cocos2d
+2022-04-09T12:58:17.012Z - normal: Initializing engine extends
+2022-04-09T12:58:24.564Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/e/1.png","attack/e/2.png","attack/e/3.png","attack/e/4.png","attack/e/5.png","attack/e/6.png","attack/e/7.png","attack/e/8.png","attack/en2/1.png","attack/en2/2.png","attack/en2/3.png","attack/en2/4.png","attack/en2/5.png","attack/en2/6.png","attack/en2/7.png","attack/en2/8.png","attack/n/1.png","attack/n/2.png","attack/n/3.png","attack/n/4.png","attack/n/5.png","attack/n/6.png","attack/n/7.png","attack/n/8.png","attack/s/1.png","attack/s/2.png","attack/s/3.png","attack/s/4.png","attack/s/5.png","attack/s/6.png","attack/s/7.png","attack/s/8.png","attack/se2/1.png","attack/se2/2.png","attack/se2/3.png","attack/se2/4.png","attack/se2/5.png","attack/se2/6.png","attack/se2/7.png","attack/se2/8.png","move/e/1.png","move/e/2.png","move/e/3.png","move/e/4.png","move/e/5.png","move/e/6.png","move/en2/1.png","move/en2/2.png","move/en2/3.png","move/en2/4.png","move/en2/5.png","move/en2/6.png","move/n/1.png","move/n/2.png","move/n/3.png","move/n/4.png","move/n/5.png","move/n/6.png","move/s/1.png","move/s/2.png","move/s/3.png","move/s/4.png","move/s/5.png","move/s/6.png","move/se2/1.png","move/se2/2.png","move/se2/3.png","move/se2/4.png","move/se2/5.png","move/se2/6.png"]
+2022-04-09T12:58:24.944Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/e/1.png","attack/e/2.png","attack/e/3.png","attack/e/4.png","attack/e/5.png","attack/en2/1.png","attack/en2/2.png","attack/en2/3.png","attack/en2/4.png","attack/en2/5.png","attack/n/1.png","attack/n/2.png","attack/n/3.png","attack/n/4.png","attack/n/5.png","attack/s/1.png","attack/s/2.png","attack/s/3.png","attack/s/4.png","attack/s/5.png","attack/se2/1.png","attack/se2/2.png","attack/se2/3.png","attack/se2/4.png","attack/se2/5.png","move/e/1.png","move/e/2.png","move/e/3.png","move/e/4.png","move/en2/1.png","move/en2/2.png","move/en2/3.png","move/en2/4.png","move/n/1.png","move/n/2.png","move/n/3.png","move/n/4.png","move/s/1.png","move/s/2.png","move/s/3.png","move/s/4.png","move/se2/1.png","move/se2/2.png","move/se2/3.png","move/se2/4.png"]
+2022-04-09T12:58:25.346Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/n/1.png","attack/n/2.png","attack/n/3.png","attack/n/4.png","attack/n/5.png","attack/n/6.png","attack/s/1.png","attack/s/2.png","attack/s/3.png","attack/s/4.png","attack/s/5.png","attack/s/6.png","attack/sw/1.png","attack/sw/2.png","attack/sw/3.png","attack/sw/4.png","attack/sw/5.png","attack/sw/6.png","attack/w/1.png","attack/w/2.png","attack/w/3.png","attack/w/4.png","attack/w/5.png","attack/w/6.png","attack/wn/1.png","attack/wn/2.png","attack/wn/3.png","attack/wn/4.png","attack/wn/5.png","attack/wn/6.png","move/en2/1.png","move/en2/2.png","move/en2/3.png","move/en2/4.png","move/en2/5.png","move/en2/6.png","move/n/1.png","move/n/2.png","move/n/3.png","move/n/4.png","move/n/5.png","move/n/6.png","move/s/1.png","move/s/2.png","move/s/3.png","move/s/4.png","move/s/5.png","move/s/6.png","move/se2/1.png","move/se2/2.png","move/se2/3.png","move/se2/4.png","move/se2/5.png","move/se2/6.png","move/w/1.png","move/w/2.png","move/w/3.png","move/w/4.png","move/w/5.png","move/w/6.png"]
+2022-04-09T12:58:25.385Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/e/0045.png","attack/e/0046.png","attack/e/0047.png","attack/e/0048.png","attack/e/0049.png","attack/e/0050.png","attack/e/0051.png","attack/e/0052.png","attack/en2/0045.png","attack/en2/0046.png","attack/en2/0047.png","attack/en2/0048.png","attack/en2/0049.png","attack/en2/0050.png","attack/en2/0051.png","attack/en2/0052.png","attack/n/0045.png","attack/n/0046.png","attack/n/0047.png","attack/n/0048.png","attack/n/0049.png","attack/n/0050.png","attack/n/0051.png","attack/n/0052.png","attack/s/0045.png","attack/s/0046.png","attack/s/0047.png","attack/s/0048.png","attack/s/0049.png","attack/s/0050.png","attack/s/0051.png","attack/s/0052.png","attack/se2/0045.png","attack/se2/0046.png","attack/se2/0047.png","attack/se2/0048.png","attack/se2/0049.png","attack/se2/0050.png","attack/se2/0051.png","attack/se2/0052.png","walk/e/0009.png","walk/e/0010.png","walk/e/0011.png","walk/e/0012.png","walk/e/0013.png","walk/e/0014.png","walk/e/0015.png","walk/e/0016.png","walk/en2/0009.png","walk/en2/0010.png","walk/en2/0011.png","walk/en2/0012.png","walk/en2/0013.png","walk/en2/0014.png","walk/en2/0015.png","walk/en2/0016.png","walk/n/0009.png","walk/n/0010.png","walk/n/0011.png","walk/n/0012.png","walk/n/0013.png","walk/n/0014.png","walk/n/0015.png","walk/n/0016.png","walk/s/0009.png","walk/s/0010.png","walk/s/0011.png","walk/s/0012.png","walk/s/0013.png","walk/s/0014.png","walk/s/0015.png","walk/s/0016.png","walk/se2/0009.png","walk/se2/0010.png","walk/se2/0011.png","walk/se2/0012.png","walk/se2/0013.png","walk/se2/0014.png","walk/se2/0015.png","walk/se2/0016.png"]
+2022-04-09T12:58:25.444Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/e/1.png","attack/e/2.png","attack/e/3.png","attack/e/4.png","attack/e/5.png","attack/e/6.png","attack/e/7.png","attack/en2/1.png","attack/en2/2.png","attack/en2/3.png","attack/en2/4.png","attack/en2/5.png","attack/en2/6.png","attack/en2/7.png","attack/n/1.png","attack/n/2.png","attack/n/3.png","attack/n/4.png","attack/n/5.png","attack/n/6.png","attack/n/7.png","attack/s/1.png","attack/s/2.png","attack/s/3.png","attack/s/4.png","attack/s/5.png","attack/s/6.png","attack/s/7.png","attack/se2/1.png","attack/se2/2.png","attack/se2/3.png","attack/se2/4.png","attack/se2/5.png","attack/se2/6.png","attack/se2/7.png","move/e/1.png","move/e/2.png","move/e/3.png","move/e/4.png","move/e/5.png","move/e/6.png","move/en2/1.png","move/en2/2.png","move/en2/3.png","move/en2/4.png","move/en2/5.png","move/en2/6.png","move/n/1.png","move/n/2.png","move/n/3.png","move/n/4.png","move/n/5.png","move/n/6.png","move/s/1.png","move/s/2.png","move/s/3.png","move/s/4.png","move/s/5.png","move/s/6.png","move/se2/1.png","move/se2/2.png","move/se2/3.png","move/se2/4.png","move/se2/5.png","move/se2/6.png"]
+2022-04-09T12:58:25.489Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/e/1.png","attack/e/2.png","attack/e/3.png","attack/e/4.png","attack/e/5.png","attack/e/6.png","attack/en2/1.png","attack/en2/2.png","attack/en2/3.png","attack/en2/4.png","attack/en2/5.png","attack/en2/6.png","attack/n/1.png","attack/n/2.png","attack/n/3.png","attack/n/4.png","attack/n/5.png","attack/n/6.png","attack/s/1.png","attack/s/2.png","attack/s/3.png","attack/s/4.png","attack/s/5.png","attack/s/6.png","attack/se2/1.png","attack/se2/2.png","attack/se2/3.png","attack/se2/4.png","attack/se2/5.png","attack/se2/6.png","move/e/1.png","move/e/2.png","move/e/3.png","move/e/4.png","move/e/5.png","move/e/6.png","move/e/7.png","move/e/8.png","move/en2/1.png","move/en2/2.png","move/en2/3.png","move/en2/4.png","move/en2/5.png","move/en2/6.png","move/en2/7.png","move/en2/8.png","move/n/1.png","move/n/2.png","move/n/3.png","move/n/4.png","move/n/5.png","move/n/6.png","move/n/7.png","move/n/8.png","move/s/1.png","move/s/2.png","move/s/3.png","move/s/4.png","move/s/5.png","move/s/6.png","move/s/7.png","move/s/8.png","move/se2/1.png","move/se2/2.png","move/se2/3.png","move/se2/4.png","move/se2/5.png","move/se2/6.png","move/se2/7.png","move/se2/8.png"]
+2022-04-09T12:58:25.908Z - warn: [SpriteAtlas import] Some of the frame keys have been reformatted : ["attack/e/0000.png","attack/e/0001.png","attack/e/0002.png","attack/e/0003.png","attack/e/0004.png","attack/en2/0000.png","attack/en2/0001.png","attack/en2/0002.png","attack/en2/0003.png","attack/en2/0004.png","attack/n/0000.png","attack/n/0001.png","attack/n/0002.png","attack/n/0003.png","attack/n/0004.png","attack/s/0000.png","attack/s/0001.png","attack/s/0002.png","attack/s/0003.png","attack/s/0004.png","attack/se2/0000.png","attack/se2/0001.png","attack/se2/0002.png","attack/se2/0003.png","attack/se2/0004.png","walk/e/0000.png","walk/e/0001.png","walk/e/0002.png","walk/e/0003.png","walk/e/0004.png","walk/e/0005.png","walk/e/0006.png","walk/e/0007.png","walk/en2/0000.png","walk/en2/0001.png","walk/en2/0002.png","walk/en2/0003.png","walk/en2/0004.png","walk/en2/0005.png","walk/en2/0006.png","walk/en2/0007.png","walk/n/0000.png","walk/n/0001.png","walk/n/0002.png","walk/n/0003.png","walk/n/0004.png","walk/n/0005.png","walk/n/0006.png","walk/n/0007.png","walk/s/0000.png","walk/s/0001.png","walk/s/0002.png","walk/s/0003.png","walk/s/0004.png","walk/s/0005.png","walk/s/0006.png","walk/s/0007.png","walk/se2/0000.png","walk/se2/0001.png","walk/se2/0002.png","walk/se2/0003.png","walk/se2/0004.png","walk/se2/0005.png","walk/se2/0006.png","walk/se2/0007.png"]
+2022-04-09T12:58:28.262Z - info: Cocos Service load base data!
+2022-04-09T12:58:33.485Z - normal: Loading packages
+2022-04-09T12:58:33.489Z - normal: Watching packages
+2022-04-09T12:58:33.593Z - normal: Run Application
+2022-04-09T12:58:41.998Z - error: 9 already defined in Enum.
     at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
     at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
     at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
@@ -81,4 +89,3 @@
     at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
     at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
     at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-09T08:53:25.249Z - info: Cocos Service load base data!
