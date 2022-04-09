@@ -89,3 +89,13 @@
     at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
     at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
     at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
+2022-04-09T13:19:52.368Z - error: 9 already defined in Enum.
+    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
+    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
+    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
+    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
+    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
+    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
+    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
+    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
+    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)

@@ -47,7 +47,7 @@ cc.Class({
     this.gameTraceStack = []; //MY_SOCKET = window.io.connect('ws://118.25.231.17:4003');
     //MY_SOCKET = window.io.connect('wss://www.asobee.mobi:443');
 
-    MY_SOCKET = window.io.connect('ws://192.168.1.60:4003'); //MY_SOCKET = window.io.connect('ws://13.112.214.196:10088');
+    MY_SOCKET = window.io.connect('ws://127.0.0.1:4003'); //MY_SOCKET = window.io.connect('ws://13.112.214.196:10088');
     //console.log('check 1', MY_SOCKET.connected);
 
     MY_SOCKET.on('connect_error', function () {
