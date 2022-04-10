@@ -394,7 +394,7 @@
       "array": [
         0,
         0,
-        513.5530644441722,
+        511.82101363660325,
         0,
         0,
         0,
@@ -982,7 +982,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Crab",
+    "_name": "Ske_archer",
     "_objFlags": 0,
     "_parent": {
       "__id__": 7
@@ -1026,15 +1026,15 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        236.403,
-        -35.153,
+        130.517,
+        221.998,
         0,
         0,
         0,
         0,
         1,
-        0.6,
-        0.6,
+        0.4,
+        0.4,
         1
       ]
     },
@@ -1049,11 +1049,11 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "f2HBBumM5IC7MuLCVTyo0F"
+    "_id": "f9Qi88jM9CVa5rMMWdAqyA"
   },
   {
     "__type__": "cc.Node",
-    "_name": "crab_shadow",
+    "_name": "ske_archer_shadow",
     "_objFlags": 0,
     "_parent": {
       "__id__": 22
@@ -1094,14 +1094,14 @@
       "ctor": "Float64Array",
       "array": [
         0,
-        0,
+        -54.832,
         0,
         0,
         0,
         0,
         1,
-        0.5,
-        0.5,
+        1,
+        1,
         1
       ]
     },
@@ -1116,7 +1116,7 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "04/qZj2pVEW627o1gULY+2"
+    "_id": "eaKvH7FiRFKp7IhJsWEEOS"
   },
   {
     "__type__": "cc.Sprite",
@@ -1148,7 +1148,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": null,
-    "_id": "baO50RWXdHZL3vSCtHS6jD"
+    "_id": "4a/NGqS+FJk4sVKTgATO2i"
   },
   {
     "__type__": "cc.Animation",
@@ -1167,7 +1167,7 @@
       }
     ],
     "playOnLoad": true,
-    "_id": "4fOmmxFf9Kh7YrnSkIggTR"
+    "_id": "0fIgt1opxHjIer6qg5rMl0"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -1180,7 +1180,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "crab_body",
+    "_name": "ske_archer_body",
     "_objFlags": 0,
     "_parent": {
       "__id__": 22
@@ -1205,8 +1205,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 202,
-      "height": 150
+      "width": 600,
+      "height": 753.17
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1240,7 +1240,7 @@
     "_is3DNode": false,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "_id": "34w+7anTFMnaeKuNDL30ma"
+    "_id": "95iKrOIWdN6pF7iyW3RYUH"
   },
   {
     "__type__": "dragonBones.ArmatureDisplay",
@@ -1256,12 +1256,12 @@
       }
     ],
     "_armatureName": "Armature",
-    "_animationName": "9",
+    "_animationName": "running",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "playTimes": -1,
     "premultipliedAlpha": false,
-    "_armatureKey": "1824de18-acee-43c0-baa6-834af65bd2b8#e86d22a0-3527-45c3-91eb-1853aefdae3e",
+    "_armatureKey": "b7d74747-4442-408d-aca6-03ab413885a9#420f93eb-29e1-4a49-a427-e56038def9b9",
     "_accTime": 0,
     "_playCount": 0,
     "_frameCache": null,
@@ -1269,18 +1269,18 @@
     "_playing": false,
     "_armatureCache": null,
     "_N$dragonAsset": {
-      "__uuid__": "1824de18-acee-43c0-baa6-834af65bd2b8"
+      "__uuid__": "b7d74747-4442-408d-aca6-03ab413885a9"
     },
     "_N$dragonAtlasAsset": {
-      "__uuid__": "e86d22a0-3527-45c3-91eb-1853aefdae3e"
+      "__uuid__": "420f93eb-29e1-4a49-a427-e56038def9b9"
     },
     "_N$_defaultArmatureIndex": 0,
-    "_N$_animationIndex": 1,
+    "_N$_animationIndex": 4,
     "_N$_defaultCacheMode": 0,
     "_N$timeScale": 1,
     "_N$debugBones": false,
     "_N$enableBatch": false,
-    "_id": "cblHwsFRlMfL/YmyUFUzAi"
+    "_id": "8fMBfbU0JLMIaevfOkmi1k"
   },
   {
     "__type__": "cc.PrefabInfo",
@@ -1308,7 +1308,7 @@
     "eid": -1,
     "role": "crab",
     "aniType": "dragon",
-    "_id": "31lmM4pttLJooqmApBKGyS"
+    "_id": "758J5b9+NND46bUndg2dMF"
   },
   {
     "__type__": "cc.PrefabInfo",

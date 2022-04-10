@@ -380,6 +380,8 @@ cc.Class({
       },
   */
   getActnameByAngle: function getActnameByAngle(angle, actType) {
+    console.log(angle + "::::" + actType);
+    angle = -90;
     var actName = "";
     var scaleX = 1;
     var ret = {};
@@ -702,6 +704,10 @@ cc.Class({
           "x": ex,
           "y": ey
         }, ag);
+
+        if (ag > 180) {
+          ag = ag - 360;
+        }
       }
     }
 
@@ -740,12 +746,17 @@ cc.Class({
           "x": fx,
           "y": fy
         }, ag);
+
+        if (ag > 180) {
+          ag = ag - 360;
+        }
       }
     }
 
     if (this._animation) {
       angleInfo = this.getActnameByAngle(ag, actType);
-      actName = angleInfo.actName; //used to mirror a sprite.
+      actName = angleInfo.actName;
+      console.log(actName); //used to mirror a sprite.
       //this.node.scaleX = angleInfo.scaleX;
       //blood bar may flip when agent flip, should make it back.
 

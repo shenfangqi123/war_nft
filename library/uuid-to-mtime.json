@@ -3124,11 +3124,6 @@
     "meta": 1649509108295,
     "relativePath": "scripts/GiantSprite.js"
   },
-  "58c5b7c6-f545-411e-b6ed-94f7a5e56ff2": {
-    "asset": 1649509050000,
-    "meta": 1649509107297,
-    "relativePath": "scripts/ArcSprite.js"
-  },
   "b99a347e-c17e-4de4-abba-ec2be9e17772": {
     "asset": 1649509049642,
     "meta": 1649509104365,
@@ -3235,8 +3230,8 @@
     "relativePath": "textures/gameRes/mBarBg.png"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1649510997940,
-    "meta": 1649510997948,
+    "asset": 1649596020978,
+    "meta": 1649596020987,
     "relativePath": "welcome.fire"
   },
   "4133d5d9-be0c-47a2-9c33-f587a9306077": {
@@ -3499,16 +3494,6 @@
     "meta": 1649509104403,
     "relativePath": "Crab.prefab"
   },
-  "cfed1a80-b1a4-430c-92f2-dab049a44d75": {
-    "asset": 1649509050005,
-    "meta": 1649509107513,
-    "relativePath": "scripts/CrabSprite.js"
-  },
-  "cd79aa9d-f47c-4264-b1f0-d804abfff19c": {
-    "asset": 1649509050015,
-    "meta": 1649509108719,
-    "relativePath": "scripts/MySprite.js"
-  },
   "3b59daf1-4f35-41fc-a640-015e7b01e5d0": {
     "asset": 1649509049647,
     "meta": 1649509104417,
@@ -3548,5 +3533,40 @@
     "asset": 1649510376461,
     "meta": 1649510390500,
     "relativePath": "scripts/SocketProvider.js"
+  },
+  "cfed1a80-b1a4-430c-92f2-dab049a44d75": {
+    "asset": 1649574891883,
+    "meta": 1649574905936,
+    "relativePath": "scripts/CrabSprite.js"
+  },
+  "ca95d349-7ad9-4ad3-afbd-8548daaacab1": {
+    "asset": 1649576430626,
+    "meta": 1649576430627,
+    "relativePath": "resources/dragon_bones/chr/ske_archer"
+  },
+  "420f93eb-29e1-4a49-a427-e56038def9b9": {
+    "asset": 1649576444986,
+    "meta": 1649576445061,
+    "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_tex.json"
+  },
+  "b7d74747-4442-408d-aca6-03ab413885a9": {
+    "asset": 1649576444986,
+    "meta": 1649576445013,
+    "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
+  },
+  "20893a18-5f8b-49e6-9098-bddb882b54ab": {
+    "asset": 1649576444987,
+    "meta": 1649576445059,
+    "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_tex.png"
+  },
+  "58c5b7c6-f545-411e-b6ed-94f7a5e56ff2": {
+    "asset": 1649592871557,
+    "meta": 1649592876206,
+    "relativePath": "scripts/ArcSprite.js"
+  },
+  "cd79aa9d-f47c-4264-b1f0-d804abfff19c": {
+    "asset": 1649596015520,
+    "meta": 1649596019065,
+    "relativePath": "scripts/MySprite.js"
   }
 }

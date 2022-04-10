@@ -398,6 +398,11 @@ cc.Class({
 */
 
     getActnameByAngle: function(angle, actType) {
+
+
+console.log(angle +"::::"+ actType);
+
+
         var actName="";
         var scaleX = 1;
         var ret = {};
@@ -745,6 +750,9 @@ if(this.aniType !== undefined && this.aniType == "dragon") {
                 //ag = 180/Math.PI * Math.atan(Math.abs(vt.y/vt.x));
                 ag = 180/Math.PI * Math.atan(Math.abs(vt.x/vt.y));
                 ag = this.getAgentAngle(agent.mypos, {"x":ex, "y":ey}, ag);
+                if(ag > 180) {
+                    ag = ag - 360;
+                }
             } 
         } 
 
@@ -778,12 +786,18 @@ if(this.aniType !== undefined && this.aniType == "dragon") {
             if(vt.x != 0 && vt.y != 0) {
                 ag = 180/Math.PI * Math.atan(Math.abs(vt.x/vt.y));
                 ag = this.getAgentAngle(agent.mypos, {"x":fx, "y":fy}, ag);
+                if(ag > 180) {
+                    ag = ag - 360;
+                }
             } 
         }
 
         if(this._animation) {
             angleInfo = this.getActnameByAngle(ag, actType);
             actName = angleInfo.actName;
+
+console.log(actName);
+
 
             //used to mirror a sprite.
 //this.node.scaleX = angleInfo.scaleX;
