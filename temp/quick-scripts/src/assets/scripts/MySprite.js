@@ -381,7 +381,6 @@ cc.Class({
   */
   getActnameByAngle: function getActnameByAngle(angle, actType) {
     console.log(angle + "::::" + actType);
-    angle = -90;
     var actName = "";
     var scaleX = 1;
     var ret = {};
