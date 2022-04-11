@@ -380,7 +380,6 @@ cc.Class({
       },
   */
   getActnameByAngle: function getActnameByAngle(angle, actType) {
-    console.log(angle + "::::" + actType);
     var actName = "";
     var scaleX = 1;
     var ret = {};
@@ -754,24 +753,35 @@ cc.Class({
 
     if (this._animation) {
       angleInfo = this.getActnameByAngle(ag, actType);
-      actName = angleInfo.actName;
-      console.log(actName); //used to mirror a sprite.
-      //this.node.scaleX = angleInfo.scaleX;
-      //blood bar may flip when agent flip, should make it back.
+      actName = angleInfo.actName; //used to mirror a sprite.
+
+      this.node.scaleX = angleInfo.scaleX; //blood bar may flip when agent flip, should make it back.
 
       this.blood.scaleX = this.node.scaleX; //if already in attack mode, just skip the animation
 
       if (this.lastAct != actName || actType == "sa") {
         if (actType == "sa") {
-          this.aniStop();
-          this.aniPlay(actName); //this._animation.stop();
-          //this._animation.play(actName);
+          //if dragon bones animation
+          if (this.aniType == "dragon") {
+            this.aniStop();
+            this.aniPlay(actName);
+          } else {
+            this._animation.stop();
+
+            this._animation.play(actName);
+          }
         } else {
           //walking action.
-          this.aniPlay(actName, randomTime); //this._animation.play(actName, randomTime);
+          //if dragon bones animation
+          if (this.aniType == "dragon") {
+            this.aniPlay(actName, randomTime);
+          } else {
+            this._animation.play(actName, randomTime);
+          }
         }
 
-        this.lastAct = actName; //this.lastScaleX = angleInfo.scaleX;
+        this.lastAct = actName;
+        this.lastScaleX = angleInfo.scaleX;
       }
     }
     /*

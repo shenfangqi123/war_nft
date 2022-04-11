@@ -6,6 +6,7 @@ cc.Class({
 
     properties: {
         role:"lr",
+        aniType:"frame",
     },
 
     start () {

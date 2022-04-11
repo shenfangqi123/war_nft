@@ -11,7 +11,8 @@ var common = require("Common");
 cc.Class({
   "extends": mySprite,
   properties: {
-    role: "lr"
+    role: "lr",
+    aniType: "frame"
   },
   start: function start() {
     this._animation = this.getComponent(cc.Animation);

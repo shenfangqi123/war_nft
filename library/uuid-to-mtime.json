@@ -3124,11 +3124,6 @@
     "meta": 1644808682859,
     "relativePath": "scripts/GiantSprite.js"
   },
-  "58c5b7c6-f545-411e-b6ed-94f7a5e56ff2": {
-    "asset": 1588770583000,
-    "meta": 1644808682126,
-    "relativePath": "scripts/ArcSprite.js"
-  },
   "b99a347e-c17e-4de4-abba-ec2be9e17772": {
     "asset": 1588772153000,
     "meta": 1644808679343,
@@ -3534,11 +3529,6 @@
     "meta": 1648719428291,
     "relativePath": "scripts/GameProvider.js"
   },
-  "cd79aa9d-f47c-4264-b1f0-d804abfff19c": {
-    "asset": 1649640083383,
-    "meta": 1649640089946,
-    "relativePath": "scripts/MySprite.js"
-  },
   "040457a8-38fe-4765-ac44-bede1296c6b4": {
     "asset": 1649640083384,
     "meta": 1649640090057,
@@ -3555,8 +3545,8 @@
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1649640083388,
-    "meta": 1649640090077,
+    "asset": 1649668053136,
+    "meta": 1649668053145,
     "relativePath": "welcome.fire"
   },
   "20893a18-5f8b-49e6-9098-bddb882b54ab": {
@@ -3568,5 +3558,15 @@
     "asset": 1649640083380,
     "meta": 1649640090190,
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_tex.json"
+  },
+  "58c5b7c6-f545-411e-b6ed-94f7a5e56ff2": {
+    "asset": 1649667403153,
+    "meta": 1649667410596,
+    "relativePath": "scripts/ArcSprite.js"
+  },
+  "cd79aa9d-f47c-4264-b1f0-d804abfff19c": {
+    "asset": 1649668048680,
+    "meta": 1649668052753,
+    "relativePath": "scripts/MySprite.js"
   }
 }
