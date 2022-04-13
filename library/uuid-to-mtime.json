@@ -2305,8 +2305,8 @@
     "relativePath": "textures/gameRes/starIcon.png"
   },
   "280124c6-0177-468d-9cab-008a61dafba1": {
-    "asset": 1648705541289,
-    "meta": 1648705541318,
+    "asset": 1649834622671,
+    "meta": 1649834622677,
     "relativePath": "game.fire"
   },
   "fc57ae81-84e5-4351-b6f9-7ef274936b60": {
@@ -3519,16 +3519,6 @@
     "meta": 1648631340449,
     "relativePath": "scripts/Game.js"
   },
-  "2a91cc7c-620f-42c8-8865-3a2c7ce5488f": {
-    "asset": 1648705305588,
-    "meta": 1648705307675,
-    "relativePath": "scripts/Welcome.js"
-  },
-  "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
-    "asset": 1648718994150,
-    "meta": 1648719428291,
-    "relativePath": "scripts/GameProvider.js"
-  },
   "040457a8-38fe-4765-ac44-bede1296c6b4": {
     "asset": 1649640083384,
     "meta": 1649640090057,
@@ -3545,8 +3535,8 @@
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1649668053136,
-    "meta": 1649668053145,
+    "asset": 1649835695237,
+    "meta": 1649835695250,
     "relativePath": "welcome.fire"
   },
   "20893a18-5f8b-49e6-9098-bddb882b54ab": {
@@ -3564,9 +3554,29 @@
     "meta": 1649667410596,
     "relativePath": "scripts/ArcSprite.js"
   },
+  "2e6ed865-8b0d-4841-a23b-de8ffb947468": {
+    "asset": 1649817771755,
+    "meta": 1649817777081,
+    "relativePath": "scripts/NFTArcherSprite.js"
+  },
+  "2a91cc7c-620f-42c8-8865-3a2c7ce5488f": {
+    "asset": 1649834065899,
+    "meta": 1649834068722,
+    "relativePath": "scripts/Welcome.js"
+  },
+  "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
+    "asset": 1649834300375,
+    "meta": 1649834305791,
+    "relativePath": "scripts/GameProvider.js"
+  },
+  "cbe2d335-d0a0-4017-91de-7e802e76e46c": {
+    "asset": 1649834594723,
+    "meta": 1649834594724,
+    "relativePath": "NftArcher.prefab"
+  },
   "cd79aa9d-f47c-4264-b1f0-d804abfff19c": {
-    "asset": 1649668048680,
-    "meta": 1649668052753,
+    "asset": 1649835692007,
+    "meta": 1649835694494,
     "relativePath": "scripts/MySprite.js"
   }
 }

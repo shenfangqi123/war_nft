@@ -36,8 +36,8 @@ cc.Class({
         if(this.aniType !== undefined && this.aniType == "dragon") {
             console.log("role:" + this.role);
 
-            var crabBodyNode = this.node.getChildByName("crab_body");
-            this._animation = crabBodyNode.getComponent(dragonBones.ArmatureDisplay);
+            var nftBodyNode = this.node.getChildByName("nft_body");
+            this._animation = nftBodyNode.getComponent(dragonBones.ArmatureDisplay);
             //console.log("---------");
             //this._animation.playAnimation('ske_n_attack', 0);
         } else {  //if frame animator node
@@ -397,7 +397,75 @@ cc.Class({
     },
 */
 
-    getActnameByAngle: function(angle, actType) {
+    getActnameByAngle: function(angle, actType, aniType) {
+        if(aniType == "dragon") {
+            return this.getActnameForDragonByAngle(angle, actType);
+        } else {
+            return this.getActnameForFrameByAngle(angle, actType);
+        }
+    },
+
+    getActnameForDragonByAngle: function(angle, actType) {
+        var actName="";
+        
+        //todo ,must be set to 1.0, sprite size should be changed.
+        var scaleX = 0.3;
+        var ret = {};
+        var specialActname = false;
+
+        if(angle>22.5*-1 && angle<=22.5*7) {
+            if(actType == "move") {
+                actName = "running";
+            }
+            else if(actType == "sa") {
+                actName = "shooting";
+            }
+        }
+        else if(angle>22.5*7 || angle<-22.5*9) {
+            if(actType == "move") {
+                actName = "running";
+            }
+            else if(actType == "sa") {
+                actName = "shooting";
+            }
+        }
+
+        else if(angle<22.5*-1 && angle>=22.5*-7) {
+            if(actType == "move") {
+                actName = "running";
+            }
+            else if(actType == "sa") {
+                actName = "shooting";
+            }
+            scaleX = -0.3;
+        }
+
+        else if (angle<22.5*-7){
+            if(actType == "move") {
+                actName = "running";
+            }
+            else if(actType == "sa") {
+                actName = "shooting";
+            }
+            scaleX = -0.3;
+        }
+        else {
+            console.log("----error angle--------------:"+angle);
+        }
+
+        //actName = this.role +"_"+ actName;
+
+        specialActname = this.specialAct(actType);
+        if(specialActname) {
+            actName = specialActname;
+        }
+
+        ret.actName = actName;
+        ret.scaleX = scaleX;
+        return ret;
+    },
+
+    getActnameForFrameByAngle: function(angle, actType) {
         var actName="";
         var scaleX = 1;
         var ret = {};
@@ -488,18 +556,7 @@ cc.Class({
             console.log("----error angle--------------:"+angle);
         }
 
-
-
-if(this.aniType !== undefined && this.aniType == "dragon") {
-        actName = "ske" +"_"+ actName;
-} else {
         actName = this.role +"_"+ actName;
-}
-
-
-//actName = this.role +"_"+ actName;
-
-
  
         specialActname = this.specialAct(actType);
         if(specialActname) {
@@ -640,7 +697,7 @@ if(this.aniType !== undefined && this.aniType == "dragon") {
                     ag = ag - 360;
                 }
 
-                angleInfo = this.getActnameByAngle(ag, "sa");
+                angleInfo = this.getActnameByAngle(ag, "sa", this.aniType);
                 actName = angleInfo.actName;
                 //used to mirror a sprite.
                 this.node.scaleX = angleInfo.scaleX;
@@ -675,7 +732,7 @@ if(this.aniType !== undefined && this.aniType == "dragon") {
                     ag = ag - 360;
                 }
 
-                angleInfo = this.getActnameByAngle(ag, "move");
+                angleInfo = this.getActnameByAngle(ag, "move", this.aniType);
                 actName = angleInfo.actName;
 
                 //used to mirror a sprite.
@@ -725,7 +782,7 @@ if(this.aniType !== undefined && this.aniType == "dragon") {
 
         ag = agent.rot;
         this.node.zIndex = zorder;
-//this.node.scaleX = 1;
+        this.node.scaleX = 1;
 
         if(actType == "sa") {  //start attack
             // dir according to enemy position
@@ -788,7 +845,7 @@ if(this.aniType !== undefined && this.aniType == "dragon") {
         }
 
         if(this._animation) {
-            angleInfo = this.getActnameByAngle(ag, actType);
+            angleInfo = this.getActnameByAngle(ag, actType, this.aniType);
             actName = angleInfo.actName;
 
             //used to mirror a sprite.

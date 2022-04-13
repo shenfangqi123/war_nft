@@ -274,6 +274,10 @@ cc.Class({
       "seleRole": 'lr',
       "magicCost": 1,
       "roleLevel": 1
+    }, {
+      "seleRole": 'wiz',
+      "magicCost": 3,
+      "roleLevel": 1
     }];
     var curTime = new Date().getTime();
 

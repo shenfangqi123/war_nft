@@ -264,7 +264,14 @@ cc.Class({
     play: function() {
         //cc.director.loadScene('menu');
 
-        var myAgentsParam = [{"seleRole":'log', "magicCost":3, "roleLevel":1},{"seleRole":'hr', "magicCost":4, "roleLevel":1},{"seleRole":'bee', "magicCost":1, "roleLevel":1},{"seleRole":'ske', "magicCost":1, "roleLevel":1},{"seleRole":'lr', "magicCost":1, "roleLevel":1}];
+        var myAgentsParam = [
+            {"seleRole":'log', "magicCost":3, "roleLevel":1},
+            {"seleRole":'hr', "magicCost":4, "roleLevel":1},
+            {"seleRole":'bee', "magicCost":1, "roleLevel":1},
+            {"seleRole":'ske', "magicCost":1, "roleLevel":1},
+            {"seleRole":'lr', "magicCost":1, "roleLevel":1},
+            {"seleRole":'wiz', "magicCost":3, "roleLevel":1}
+        ];
         var curTime = new Date().getTime();
 
         var onSceneLaunched = function() {

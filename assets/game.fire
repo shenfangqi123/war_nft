@@ -192,7 +192,7 @@
       "array": [
         0,
         0,
-        520.4812676744476,
+        522.2133184820166,
         0,
         0,
         0,
@@ -1959,6 +1959,7 @@
     "life": -1,
     "eid": -1,
     "role": "lr",
+    "aniType": "frame",
     "_id": "a0226BSG9HFbzxDpBquhEk"
   },
   {
@@ -2263,6 +2264,7 @@
     "life": -1,
     "eid": -1,
     "role": "lr",
+    "aniType": "frame",
     "_id": "febsSzQe5HYqA88yruC566"
   },
   {
@@ -2863,6 +2865,7 @@
     "life": -1,
     "eid": -1,
     "role": "lr",
+    "aniType": "frame",
     "_id": "e7lhsbXL9CcZjNBaIYysyz"
   },
   {
@@ -3463,6 +3466,7 @@
     "life": -1,
     "eid": -1,
     "role": "lr",
+    "aniType": "frame",
     "_id": "0cXm/l8IZMWLRSBVro8EVU"
   },
   {
@@ -6428,7 +6432,7 @@
         "__uuid__": "35e656a9-e075-4b91-bdd9-20f9879e457a"
       },
       {
-        "__uuid__": "bd0630e0-f8dc-4cc4-909e-4f60f6fab4f5"
+        "__uuid__": "cbe2d335-d0a0-4017-91de-7e802e76e46c"
       }
     ],
     "audios": [

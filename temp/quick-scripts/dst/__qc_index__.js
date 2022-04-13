@@ -36,6 +36,7 @@ require('./assets/scripts/LightmanSprite');
 require('./assets/scripts/LogSprite');
 require('./assets/scripts/MenuScript');
 require('./assets/scripts/MySprite');
+require('./assets/scripts/NFTArcherSprite');
 require('./assets/scripts/Order1Sprite');
 require('./assets/scripts/Order2Sprite');
 require('./assets/scripts/Order9Sprite');

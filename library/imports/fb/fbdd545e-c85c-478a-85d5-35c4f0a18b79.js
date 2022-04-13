@@ -878,7 +878,7 @@ cc.Class({
       return agentObj.getComponent('BeeSprite');
     } else if (role == "wiz") {
       //return agentObj.getComponent('WizSprite');
-      return agentObj.getComponent('CrabSprite');
+      return agentObj.getComponent('NFTArcherSprite');
     } else if (role == "hr") {
       return agentObj.getComponent('HeroSprite');
     } else if (role == "lm") {
