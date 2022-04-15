@@ -905,9 +905,8 @@ console.log(agent.mypos.x +":::"+ agent.mypos.y);
         }
 
         else if(myBullet.role == "wizfire") {
-            /* 
+            
             //old wiz fire ball
-
             myBullet.zIndex = 9999;
             // shake a little bit
             //var randomTime = Math.ceil(Math.random()*40)-10;
@@ -915,8 +914,10 @@ console.log(agent.mypos.x +":::"+ agent.mypos.y);
 
             myBullet.angle = -1*bulletRot;                
             myBullet.setPosition(moveTo);
-            */
+            
 
+/*
+            //continues fire effect
             subBullet = cc.instantiate(this.playerPrefab[25]);
 
             // first convert moveTo(belong to layout node) to world position.
@@ -939,6 +940,7 @@ console.log(agent.mypos.x +":::"+ agent.mypos.y);
                 myBullet.addChild(subBullet);
                 myBullet.lastpos = pp;                    
             }
+*/
 
         }
 

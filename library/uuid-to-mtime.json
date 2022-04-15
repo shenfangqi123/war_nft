@@ -3535,8 +3535,8 @@
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1649835695237,
-    "meta": 1649835695250,
+    "asset": 1649842654117,
+    "meta": 1649842654124,
     "relativePath": "welcome.fire"
   },
   "20893a18-5f8b-49e6-9098-bddb882b54ab": {
@@ -3564,11 +3564,6 @@
     "meta": 1649834068722,
     "relativePath": "scripts/Welcome.js"
   },
-  "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
-    "asset": 1649834300375,
-    "meta": 1649834305791,
-    "relativePath": "scripts/GameProvider.js"
-  },
   "cbe2d335-d0a0-4017-91de-7e802e76e46c": {
     "asset": 1649834594723,
     "meta": 1649834594724,
@@ -3578,5 +3573,10 @@
     "asset": 1649835692007,
     "meta": 1649835694494,
     "relativePath": "scripts/MySprite.js"
+  },
+  "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
+    "asset": 1649841880082,
+    "meta": 1649841909273,
+    "relativePath": "scripts/GameProvider.js"
   }
 }

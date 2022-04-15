@@ -817,33 +817,38 @@ cc.Class({
           myBullet.getComponent(cc.MotionStreak).stroke *= sc;
       */
     } else if (myBullet.role == "wizfire") {
-      /* 
       //old wiz fire ball
-       myBullet.zIndex = 9999;
-      // shake a little bit
+      myBullet.zIndex = 9999; // shake a little bit
       //var randomTime = Math.ceil(Math.random()*40)-10;
       //bulletRot += randomTime;
-       myBullet.angle = -1*bulletRot;                
+
+      myBullet.angle = -1 * bulletRot;
       myBullet.setPosition(moveTo);
+      /*
+                  //continues fire effect
+                  subBullet = cc.instantiate(this.playerPrefab[25]);
+      
+                  // first convert moveTo(belong to layout node) to world position.
+                  var pp = this.node.convertToWorldSpaceAR(moveTo);
+      
+                  // convert world postion to myBullet position.
+                  pp = myBullet.convertToNodeSpaceAR(pp);
+      
+                  //subBullet.setPosition(pp);
+                  //myBullet.addChild(subBullet);
+      
+                  if(myBullet.lastpos && myBullet.lastpos.sub(pp).mag() > 50) {
+                      subBullet.setPosition(pp);
+                      myBullet.addChild(subBullet);
+                      myBullet.lastpos = pp;
+                  }
+      
+                  if(!myBullet.lastpos) {
+                      subBullet.setPosition(pp);
+                      myBullet.addChild(subBullet);
+                      myBullet.lastpos = pp;                    
+                  }
       */
-      subBullet = cc.instantiate(this.playerPrefab[25]); // first convert moveTo(belong to layout node) to world position.
-
-      var pp = this.node.convertToWorldSpaceAR(moveTo); // convert world postion to myBullet position.
-
-      pp = myBullet.convertToNodeSpaceAR(pp); //subBullet.setPosition(pp);
-      //myBullet.addChild(subBullet);
-
-      if (myBullet.lastpos && myBullet.lastpos.sub(pp).mag() > 50) {
-        subBullet.setPosition(pp);
-        myBullet.addChild(subBullet);
-        myBullet.lastpos = pp;
-      }
-
-      if (!myBullet.lastpos) {
-        subBullet.setPosition(pp);
-        myBullet.addChild(subBullet);
-        myBullet.lastpos = pp;
-      }
     } else {
       myBullet.angle = -1 * bulletRot;
       myBullet.setPosition(moveTo);
