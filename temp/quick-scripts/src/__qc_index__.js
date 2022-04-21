@@ -40,4 +40,7 @@ require('./assets/scripts/WizSprite');
 require('./assets/scripts/Word3Sprite');
 require('./assets/scripts/acdata1');
 require('./assets/scripts/aniComponent');
+require('./assets/scripts/dragonbones/DragonBonesCtrl');
+require('./assets/scripts/dragonbones/ReplaceSlotDisplay');
+require('./assets/scripts/dragonbones/loadDragonBones/loadDragonBonesCtrl');
 require('./assets/scripts/protobuf');

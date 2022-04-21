@@ -45,8 +45,8 @@
     "relativePath": "textures"
   },
   "3d69d4c2-820c-498b-8e20-0069a7a3811a": {
-    "asset": 1649640083383,
-    "meta": 1649640127456,
+    "asset": 1649817677134,
+    "meta": 1650529699611,
     "relativePath": "scripts"
   },
   "06498e10-2613-4e5b-9cc9-facc1c8a9c47": {
@@ -3350,13 +3350,13 @@
     "relativePath": "resources/dragon_bones"
   },
   "257ed685-35d0-4c4e-a9f0-e6474a5ee2bb": {
-    "asset": 1649640083378,
-    "meta": 1649640127455,
+    "asset": 1650245251009,
+    "meta": 1650529699609,
     "relativePath": "resources/dragon_bones/chr"
   },
   "21e264a0-085c-471f-a16c-5cacd12be084": {
-    "asset": 1644734037000,
-    "meta": 1644808680823,
+    "asset": 1650245246228,
+    "meta": 1650529699610,
     "relativePath": "resources/dragon_bones/chr/crab"
   },
   "649a1543-be22-440d-ad93-169e466f7c52": {
@@ -3535,8 +3535,8 @@
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1649842654117,
-    "meta": 1649842654124,
+    "asset": 1650535646869,
+    "meta": 1650535646874,
     "relativePath": "welcome.fire"
   },
   "20893a18-5f8b-49e6-9098-bddb882b54ab": {
@@ -3574,9 +3574,94 @@
     "meta": 1649835694494,
     "relativePath": "scripts/MySprite.js"
   },
+  "b541b628-71d4-42d5-8e5d-e70fbf16dca8": {
+    "asset": 1650529760867,
+    "meta": 1650529760876,
+    "relativePath": "resources/dragon_bones/mecha_1502b"
+  },
+  "cf1dcd14-ed5d-4297-aa09-7e98b52308a9": {
+    "asset": 1650529760868,
+    "meta": 1650529760906,
+    "relativePath": "resources/dragon_bones/mecha_1502b/mecha_1502b_tex.json"
+  },
+  "33924d89-24ce-47dd-937a-58de4bfa46e6": {
+    "asset": 1650529760869,
+    "meta": 1650529760885,
+    "relativePath": "resources/dragon_bones/mecha_1502b/mecha_1502b_ske.json"
+  },
+  "bc83c66d-ed49-49ef-8f9a-6117e60dc489": {
+    "asset": 1650529760869,
+    "meta": 1650529760904,
+    "relativePath": "resources/dragon_bones/mecha_1502b/mecha_1502b_tex.png"
+  },
+  "31f78bbf-0aaf-438b-ad4d-6a66cb66d7fe": {
+    "asset": 1650529764515,
+    "meta": 1650529764521,
+    "relativePath": "resources/dragon_bones/skin_1502b"
+  },
+  "a98d964a-ea21-4949-80e0-4c20f86b3d7e": {
+    "asset": 1650529764516,
+    "meta": 1650529764543,
+    "relativePath": "resources/dragon_bones/skin_1502b/skin_1502b_tex.json"
+  },
+  "3bb9be4b-9553-492e-bf8c-4e662f115fd0": {
+    "asset": 1650529764516,
+    "meta": 1650529764524,
+    "relativePath": "resources/dragon_bones/skin_1502b/skin_1502b_ske.json"
+  },
+  "7fb26f28-3aae-4403-a40f-e6803496c7ae": {
+    "asset": 1650529764518,
+    "meta": 1650529764543,
+    "relativePath": "resources/dragon_bones/skin_1502b/skin_1502b_tex.png"
+  },
+  "90ac007a-e23f-47e1-bc90-eaceda41a266": {
+    "asset": 1650529768217,
+    "meta": 1650529768222,
+    "relativePath": "resources/dragon_bones/weapon_1000"
+  },
+  "78e6321b-7039-4762-9fdc-f82cd2a8d498": {
+    "asset": 1650529768218,
+    "meta": 1650529768241,
+    "relativePath": "resources/dragon_bones/weapon_1000/weapon_1000_tex.json"
+  },
+  "c78dc981-2031-4698-b43d-93f12a9e9bf3": {
+    "asset": 1650529768218,
+    "meta": 1650529768225,
+    "relativePath": "resources/dragon_bones/weapon_1000/weapon_1000_ske.json"
+  },
+  "7637ab36-dfa5-438f-852d-c47577d75f75": {
+    "asset": 1650529768219,
+    "meta": 1650529768240,
+    "relativePath": "resources/dragon_bones/weapon_1000/weapon_1000_tex.png"
+  },
   "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
-    "asset": 1649841880082,
-    "meta": 1649841909273,
+    "asset": 1650531909819,
+    "meta": 1650533235616,
     "relativePath": "scripts/GameProvider.js"
+  },
+  "0914e1c7-f931-4c30-91da-b3f2bd361827": {
+    "asset": 1650534333625,
+    "meta": 1650534333632,
+    "relativePath": "scripts/dragonbones"
+  },
+  "56c98dcf-b53b-4de4-9040-545aadf419bd": {
+    "asset": 1650534333628,
+    "meta": 1650534333870,
+    "relativePath": "scripts/dragonbones/loadDragonBones"
+  },
+  "a9c6373f-dd4e-46bf-bc34-ae6de0e70be3": {
+    "asset": 1650534333628,
+    "meta": 1650534333892,
+    "relativePath": "scripts/dragonbones/loadDragonBones/loadDragonBonesCtrl.js"
+  },
+  "972e5222-e29e-4061-ae1e-f7550fe36efe": {
+    "asset": 1650534333626,
+    "meta": 1650534333928,
+    "relativePath": "scripts/dragonbones/ReplaceSlotDisplay.js"
+  },
+  "51a99c50-2382-405e-a063-7a72974888e5": {
+    "asset": 1650535622374,
+    "meta": 1650535626065,
+    "relativePath": "scripts/dragonbones/DragonBonesCtrl.js"
   }
 }

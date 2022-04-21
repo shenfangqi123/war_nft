@@ -128,7 +128,7 @@ cc.Class({
                     myAgent = cc.instantiate(this.playerPrefab[16]);    
                 }
                 else if(agent.role == "wiz") {
-//myAgent = cc.instantiate(this.playerPrefab[17]);    
+//myAgent = cc.instantiate(this.playerPrefab[17]);
                     myAgent = cc.instantiate(this.playerPrefab[26]);
                 }
                 else if(agent.role == "hr") {
@@ -138,7 +138,7 @@ cc.Class({
                     myAgent = cc.instantiate(this.playerPrefab[14]);    
                 }
                 else if(agent.role == "lr") {
-                    myAgent = cc.instantiate(this.playerPrefab[3]);    
+                    myAgent = cc.instantiate(this.playerPrefab[3]);
                 }
                 else if(agent.role == "gi") {
                     myAgent = cc.instantiate(this.playerPrefab[4]);    

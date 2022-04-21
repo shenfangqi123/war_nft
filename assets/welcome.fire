@@ -36,6 +36,15 @@
       },
       {
         "__id__": 78
+      },
+      {
+        "__id__": 82
+      },
+      {
+        "__id__": 84
+      },
+      {
+        "__id__": 86
       }
     ],
     "_active": true,
@@ -403,7 +412,7 @@
       "array": [
         0,
         0,
-        553.3902330182564,
+        555.1222838258252,
         0,
         0,
         0,
@@ -1035,8 +1044,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        153.291,
-        -246.903,
+        407.57,
+        609.615,
         0,
         0,
         0,
@@ -1904,8 +1913,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        150,
-        1203,
+        216.915,
+        975.487,
         0,
         0,
         0,
@@ -2248,8 +2257,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        831,
-        360,
+        523.189,
+        975.622,
         0,
         0,
         0,
@@ -2597,8 +2606,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        833,
-        577,
+        725.935,
+        965.11,
         0,
         0,
         0,
@@ -3018,8 +3027,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        996,
-        333,
+        929.085,
+        1015.538,
         0,
         0,
         0,
@@ -3106,5 +3115,360 @@
     },
     "fileId": "",
     "sync": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "skin",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 83
+      }
+    ],
+    "_prefab": null,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 187.45,
+      "height": 328.63
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        1619.354,
+        414.876,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": "ecD3/yC+FPg6fBRhOyI2a8"
+  },
+  {
+    "__type__": "dragonBones.ArmatureDisplay",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 82
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_armatureName": "skin_c",
+    "_animationName": "newAnimation",
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "playTimes": -1,
+    "premultipliedAlpha": false,
+    "_armatureKey": "3bb9be4b-9553-492e-bf8c-4e662f115fd0#a98d964a-ea21-4949-80e0-4c20f86b3d7e",
+    "_accTime": 0,
+    "_playCount": 0,
+    "_frameCache": null,
+    "_curFrame": null,
+    "_playing": false,
+    "_armatureCache": null,
+    "_N$dragonAsset": {
+      "__uuid__": "3bb9be4b-9553-492e-bf8c-4e662f115fd0"
+    },
+    "_N$dragonAtlasAsset": {
+      "__uuid__": "a98d964a-ea21-4949-80e0-4c20f86b3d7e"
+    },
+    "_N$_defaultArmatureIndex": 2,
+    "_N$_animationIndex": 0,
+    "_N$_defaultCacheMode": 0,
+    "_N$timeScale": 1,
+    "_N$debugBones": false,
+    "_N$enableBatch": false,
+    "_id": "207UHjFdVMCK9DVarc2eAm"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "weapon",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 85
+      }
+    ],
+    "_prefab": null,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 150.05,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        1605.971,
+        187.363,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": "a4Bah8pLJDRbzuZEEjrvhp"
+  },
+  {
+    "__type__": "dragonBones.ArmatureDisplay",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 84
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_armatureName": "weapon_1005",
+    "_animationName": "idle",
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "playTimes": -1,
+    "premultipliedAlpha": false,
+    "_armatureKey": "c78dc981-2031-4698-b43d-93f12a9e9bf3#78e6321b-7039-4762-9fdc-f82cd2a8d498",
+    "_accTime": 0,
+    "_playCount": 0,
+    "_frameCache": null,
+    "_curFrame": null,
+    "_playing": false,
+    "_armatureCache": null,
+    "_N$dragonAsset": {
+      "__uuid__": "c78dc981-2031-4698-b43d-93f12a9e9bf3"
+    },
+    "_N$dragonAtlasAsset": {
+      "__uuid__": "78e6321b-7039-4762-9fdc-f82cd2a8d498"
+    },
+    "_N$_defaultArmatureIndex": 0,
+    "_N$_animationIndex": 1,
+    "_N$_defaultCacheMode": 0,
+    "_N$timeScale": 1,
+    "_N$debugBones": false,
+    "_N$enableBatch": false,
+    "_id": "32n4PLc25NW48FeKW8kwR9"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "DragonBoneNode",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 87
+      },
+      {
+        "__id__": 88
+      }
+    ],
+    "_prefab": null,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 202.6571337556091,
+      "height": 320.2820325241823
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        991.997,
+        176.355,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": "55NZpiWnJC45AnP2oBVrE8"
+  },
+  {
+    "__type__": "dragonBones.ArmatureDisplay",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 86
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_armatureName": "mecha_1502b",
+    "_animationName": "idle",
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "playTimes": -1,
+    "premultipliedAlpha": false,
+    "_armatureKey": "33924d89-24ce-47dd-937a-58de4bfa46e6#cf1dcd14-ed5d-4297-aa09-7e98b52308a9",
+    "_accTime": 0,
+    "_playCount": 0,
+    "_frameCache": null,
+    "_curFrame": null,
+    "_playing": false,
+    "_armatureCache": null,
+    "_N$dragonAsset": {
+      "__uuid__": "33924d89-24ce-47dd-937a-58de4bfa46e6"
+    },
+    "_N$dragonAtlasAsset": {
+      "__uuid__": "cf1dcd14-ed5d-4297-aa09-7e98b52308a9"
+    },
+    "_N$_defaultArmatureIndex": 3,
+    "_N$_animationIndex": 1,
+    "_N$_defaultCacheMode": 0,
+    "_N$timeScale": 1,
+    "_N$debugBones": false,
+    "_N$enableBatch": false,
+    "_id": "0axkVNYdpNO64G8h9EHV+S"
+  },
+  {
+    "__type__": "51a99xQI4JAXqBjenKXSIjl",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 86
+    },
+    "_enabled": true,
+    "touchHandler": null,
+    "upButton": null,
+    "downButton": null,
+    "leftButton": null,
+    "rightButton": null,
+    "weaponArmature": null,
+    "skinArmature": null,
+    "_bullets": [],
+    "_left": false,
+    "_right": false,
+    "_isJumpingA": false,
+    "_isJumpingB": false,
+    "_isSquating": false,
+    "_isAttackingA": false,
+    "_isAttackingB": false,
+    "_weaponRIndex": 0,
+    "_weaponLIndex": 0,
+    "_skinIndex": 0,
+    "_faceDir": 1,
+    "_aimDir": 0,
+    "_moveDir": 0,
+    "_aimRadian": 0,
+    "_speedX": 0,
+    "_speedY": 0,
+    "_armature": null,
+    "_armatureDisplay": null,
+    "_weaponR": null,
+    "_weaponL": null,
+    "_aimState": null,
+    "_walkState": null,
+    "_attackState": null,
+    "_target": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_id": "5f5f7dBxxONq8PGax1xAsg"
   }
 ]
