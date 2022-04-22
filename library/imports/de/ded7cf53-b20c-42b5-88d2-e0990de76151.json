@@ -2258,8 +2258,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        523.189,
-        975.622,
+        819.668,
+        150,
         0,
         0,
         0,
@@ -3361,15 +3361,15 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        991.997,
-        176.355,
+        907.951,
+        131.628,
         0,
         0,
         0,
         0,
         1,
-        0.3,
-        0.3,
+        0.35,
+        0.35,
         1
       ]
     },
@@ -3400,7 +3400,7 @@
       }
     ],
     "_armatureName": "mecha_1502b",
-    "_animationName": "idle",
+    "_animationName": "walk",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "playTimes": -1,
@@ -3419,7 +3419,7 @@
       "__uuid__": "cf1dcd14-ed5d-4297-aa09-7e98b52308a9"
     },
     "_N$_defaultArmatureIndex": 3,
-    "_N$_animationIndex": 1,
+    "_N$_animationIndex": 2,
     "_N$_defaultCacheMode": 0,
     "_N$timeScale": 1,
     "_N$debugBones": false,
