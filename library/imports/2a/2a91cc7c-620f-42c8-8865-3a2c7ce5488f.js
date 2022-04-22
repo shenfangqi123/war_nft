@@ -66,8 +66,6 @@ cc.Class({
     if (crabNode) {
       var crabBodyNode = crabNode.getChildByName("crab_body");
       var armatureDisplay = crabBodyNode.getComponent(dragonBones.ArmatureDisplay);
-      console.log("---------");
-      console.log(armatureDisplay);
       armatureDisplay.playAnimation('ske_n_attack', 0);
     }
   },

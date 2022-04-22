@@ -107,14 +107,11 @@ cc.Class({
             this.weaponArmature.armatureName = WEAPON_R_LIST[i];
         }
 
-//this.skinArmature.armatureName = SKINS[0];
+        this._updateAnimation();
 
 let factory = dragonBones.CCFactory.getInstance();
-let skinData = factory.getArmatureData("skin_c").defaultSkin;
+let skinData = factory.getArmatureData("skin_b").defaultSkin;
 factory.replaceSkin(this._armatureDisplay.armature(), skinData, false, ["weapon_l", "weapon_r"]);
-
-
-        this._updateAnimation();
 
         if (this.touchHandler) {
             // touch events

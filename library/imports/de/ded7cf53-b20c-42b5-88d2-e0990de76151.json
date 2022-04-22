@@ -3368,8 +3368,8 @@
         0,
         0,
         1,
-        1,
-        1,
+        0.3,
+        0.3,
         1
       ]
     },
@@ -3439,8 +3439,12 @@
     "downButton": null,
     "leftButton": null,
     "rightButton": null,
-    "weaponArmature": null,
-    "skinArmature": null,
+    "weaponArmature": {
+      "__id__": 85
+    },
+    "skinArmature": {
+      "__id__": 83
+    },
     "_bullets": [],
     "_left": false,
     "_right": false,

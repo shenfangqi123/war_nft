@@ -3535,8 +3535,8 @@
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1650535646869,
-    "meta": 1650535646874,
+    "asset": 1650594732395,
+    "meta": 1650594732398,
     "relativePath": "welcome.fire"
   },
   "20893a18-5f8b-49e6-9098-bddb882b54ab": {
@@ -3558,11 +3558,6 @@
     "asset": 1649817771755,
     "meta": 1649817777081,
     "relativePath": "scripts/NFTArcherSprite.js"
-  },
-  "2a91cc7c-620f-42c8-8865-3a2c7ce5488f": {
-    "asset": 1649834065899,
-    "meta": 1649834068722,
-    "relativePath": "scripts/Welcome.js"
   },
   "cbe2d335-d0a0-4017-91de-7e802e76e46c": {
     "asset": 1649834594723,
@@ -3659,9 +3654,14 @@
     "meta": 1650534333928,
     "relativePath": "scripts/dragonbones/ReplaceSlotDisplay.js"
   },
+  "2a91cc7c-620f-42c8-8865-3a2c7ce5488f": {
+    "asset": 1650593530990,
+    "meta": 1650593565751,
+    "relativePath": "scripts/Welcome.js"
+  },
   "51a99c50-2382-405e-a063-7a72974888e5": {
-    "asset": 1650535622374,
-    "meta": 1650535626065,
+    "asset": 1650594620614,
+    "meta": 1650594699525,
     "relativePath": "scripts/dragonbones/DragonBonesCtrl.js"
   }
 }
