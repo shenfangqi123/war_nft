@@ -413,7 +413,7 @@
       "array": [
         0,
         0,
-        555.1222838258252,
+        553.3902330182564,
         0,
         0,
         0,
@@ -3244,8 +3244,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 150.05,
-      "height": 40
+      "width": 184.05,
+      "height": 60
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -3294,7 +3294,7 @@
         "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
       }
     ],
-    "_armatureName": "weapon_1005",
+    "_armatureName": "weapon_1005b",
     "_animationName": "idle",
     "_preCacheMode": 0,
     "_cacheMode": 0,
@@ -3313,7 +3313,7 @@
     "_N$dragonAtlasAsset": {
       "__uuid__": "78e6321b-7039-4762-9fdc-f82cd2a8d498"
     },
-    "_N$_defaultArmatureIndex": 0,
+    "_N$_defaultArmatureIndex": 1,
     "_N$_animationIndex": 1,
     "_N$_defaultCacheMode": 0,
     "_N$timeScale": 1,

@@ -113,6 +113,14 @@ let factory = dragonBones.CCFactory.getInstance();
 let skinData = factory.getArmatureData("skin_b").defaultSkin;
 factory.replaceSkin(this._armatureDisplay.armature(), skinData, false, ["weapon_l", "weapon_r"]);
 
+factory = dragonBones.CCFactory.getInstance();
+this._weaponL = factory.buildArmature("weapon_1005c");
+this._armature.getSlot('weapon_l').childArmature = this._weaponL;
+
+factory = dragonBones.CCFactory.getInstance();
+this._weaponR = factory.buildArmature("weapon_1005");
+this._armature.getSlot('weapon_r').childArmature = this._weaponR;
+
         if (this.touchHandler) {
             // touch events
             this.touchHandler.on(cc.Node.EventType.TOUCH_START, event => {
