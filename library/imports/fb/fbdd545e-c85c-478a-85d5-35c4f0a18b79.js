@@ -737,6 +737,75 @@ cc.Class({
       }
     }
   },
+  playBullets_bak: function playBullets_bak(bullets) {
+    var myBullet;
+    var px, py, aid;
+    var agentNode,
+        bullet,
+        eo = null;
+    var sc;
+    var moveTo, bulletRot;
+
+    for (var i = 0; i < bullets.length; i++) {
+      bullet = bullets[i];
+      myBullet = this.npcInfo.objectForKey(bullet.aid);
+
+      if (myBullet) {
+        myBullet.active = true;
+        agentNode = this.getComponentByRole(myBullet);
+
+        if (myBullet.role == "bomb") {
+          sc = this.getFireBombScale(bullet.mypos, bullet.targetpos, myBullet.targetDis, myBullet.startPos);
+          myBullet.scaleX = sc;
+          myBullet.scaleY = sc;
+          /*
+                              var randomTime = Math.ceil(Math.random()*40)-10;
+                              var fh = myBullet.getChildByName("fireHead");
+                              //fh.skewY = randomTime;
+                              //fh.skewX = randomTime;
+          
+                              //fire bomb size changing according to the distance between target and origin.
+                              sc = this.getFireBombScale(bullet.mypos, bullet.targetpos, myBullet.targetDis, myBullet.startPos);
+                              agentNode.node.scaleX=sc;
+                              agentNode.node.scaleY=sc;
+                              myBullet.getComponent(cc.MotionStreak).stroke *= sc;
+          */
+        } //2 fort bullet emit the same time, only display the proper bullet.
+
+
+        if (bullet.updown == "up" && this.mainPlayer == 2) {
+          continue;
+        }
+
+        if (bullet.updown == "down" && this.mainPlayer == 1) {
+          continue;
+        }
+
+        px = bullet.mypos.x * 30;
+        py = bullet.mypos.y * 30;
+        moveTo = cc.v2(px, py);
+        bulletRot = bullet.rot;
+
+        if (this.mainPlayer == 1) {
+          bulletRot += 180;
+        } //1000:agent, 999:this bullet 998:forts;
+        //make bullet display under agent which is at same position.
+
+
+        myBullet.zIndex = 1000 + parseInt(32 - bullet.mypos.y); //if bomb, then shake a little bit;
+
+        if (myBullet.role == "bomb" || myBullet.role == "wizfire") {
+          myBullet.zIndex = 9999; //var randomTime = Math.ceil(Math.random()*40)-10;
+          //bulletRot += randomTime;
+        } //since 2.1.1 setRotation is desperated.
+
+
+        myBullet.angle = -1 * bulletRot; //myBullet.setRotation(bulletRot);
+
+        myBullet.setPosition(moveTo);
+      }
+    }
+  },
   playBullets: function playBullets(bullets) {
     var myBullet;
     var px, py, aid;
@@ -783,12 +852,25 @@ cc.Class({
     myBullet.zIndex = 1000 + parseInt(16 - bullet.mypos.y);
 
     if (myBullet.role == "bullet") {
-      subBullet = cc.instantiate(this.playerPrefab[1]); //subBullet = cc.instantiate(this.playerPrefab[25]);
-      // first convert moveTo(belong to layout node) to world position.
-
-      var pp = this.node.convertToWorldSpaceAR(moveTo); // convert world postion to myBullet position.
-
-      pp = myBullet.convertToNodeSpaceAR(pp);
+      /*
+                  subBullet = cc.instantiate(this.playerPrefab[1]);
+      
+                  // first convert moveTo(belong to layout node) to world position.
+                  var pp = this.node.convertToWorldSpaceAR(moveTo);
+      
+                  // convert world postion to myBullet position.
+                  pp = myBullet.convertToNodeSpaceAR(pp);
+      
+                  if(this.mainPlayer == 1) {
+                      myBullet.angle = 90 - bulletRot;
+                  } else {
+                      myBullet.angle = (90 - bulletRot)*-1;            
+                  }
+      
+                  subBullet.setPosition(pp);
+                  myBullet.addChild(subBullet);
+      */
+      myBullet.zIndex = 9999;
 
       if (this.mainPlayer == 1) {
         myBullet.angle = 90 - bulletRot;
@@ -796,8 +878,7 @@ cc.Class({
         myBullet.angle = (90 - bulletRot) * -1;
       }
 
-      subBullet.setPosition(pp);
-      myBullet.addChild(subBullet);
+      myBullet.setPosition(moveTo);
     } else if (myBullet.role == "bomb") {
       sc = this.getFireBombScale(bullet.mypos, bullet.targetpos, myBullet.targetDis, myBullet.startPos);
       myBullet.scaleX = sc;

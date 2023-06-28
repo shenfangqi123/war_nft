@@ -157,6 +157,10 @@ cc.Class({
             }
 
             for(var i=0;i<message.bullet.length;i++) {
+
+console.log("###########");
+console.log(message.bullet[i]);
+
                 message.bullet[i].mypos = {};
                 message.bullet[i].enemypos = {};
                 message.bullet[i].targetpos = {};

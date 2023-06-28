@@ -45,8 +45,8 @@
     "relativePath": "textures"
   },
   "3d69d4c2-820c-498b-8e20-0069a7a3811a": {
-    "asset": 1649817677134,
-    "meta": 1650529699611,
+    "asset": 1650534333630,
+    "meta": 1653012613469,
     "relativePath": "scripts"
   },
   "06498e10-2613-4e5b-9cc9-facc1c8a9c47": {
@@ -3345,8 +3345,8 @@
     "relativePath": "Cfire.prefab"
   },
   "dfa2e53e-8521-46d7-b902-591d2c0d7257": {
-    "asset": 1644125831000,
-    "meta": 1644808680822,
+    "asset": 1650529768220,
+    "meta": 1653012613468,
     "relativePath": "resources/dragon_bones"
   },
   "257ed685-35d0-4c4e-a9f0-e6474a5ee2bb": {
@@ -3519,11 +3519,6 @@
     "meta": 1648631340449,
     "relativePath": "scripts/Game.js"
   },
-  "040457a8-38fe-4765-ac44-bede1296c6b4": {
-    "asset": 1649640083384,
-    "meta": 1649640090057,
-    "relativePath": "scripts/SocketProvider.js"
-  },
   "ca95d349-7ad9-4ad3-afbd-8548daaacab1": {
     "asset": 1649640083382,
     "meta": 1649640090061,
@@ -3535,8 +3530,8 @@
     "relativePath": "resources/dragon_bones/chr/ske_archer/dr_ske_archer_ske.json"
   },
   "ded7cf53-b20c-42b5-88d2-e0990de76151": {
-    "asset": 1650707397816,
-    "meta": 1650707397821,
+    "asset": 1655975215772,
+    "meta": 1655975215776,
     "relativePath": "welcome.fire"
   },
   "20893a18-5f8b-49e6-9098-bddb882b54ab": {
@@ -3629,14 +3624,9 @@
     "meta": 1650529768240,
     "relativePath": "resources/dragon_bones/weapon_1000/weapon_1000_tex.png"
   },
-  "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
-    "asset": 1650531909819,
-    "meta": 1650533235616,
-    "relativePath": "scripts/GameProvider.js"
-  },
   "0914e1c7-f931-4c30-91da-b3f2bd361827": {
-    "asset": 1650534333625,
-    "meta": 1650534333632,
+    "asset": 1650534358801,
+    "meta": 1653012613470,
     "relativePath": "scripts/dragonbones"
   },
   "56c98dcf-b53b-4de4-9040-545aadf419bd": {
@@ -3663,5 +3653,15 @@
     "asset": 1650707453687,
     "meta": 1650707455551,
     "relativePath": "scripts/dragonbones/DragonBonesCtrl.js"
+  },
+  "fbdd545e-c85c-478a-85d5-35c4f0a18b79": {
+    "asset": 1653640471173,
+    "meta": 1654322866597,
+    "relativePath": "scripts/GameProvider.js"
+  },
+  "040457a8-38fe-4765-ac44-bede1296c6b4": {
+    "asset": 1655271306081,
+    "meta": 1655791899329,
+    "relativePath": "scripts/SocketProvider.js"
   }
 }

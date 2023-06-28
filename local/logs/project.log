@@ -1,78 +1,79 @@
-2022-04-21T08:28:14.529Z - normal: Load ~/.CocosCreator/settings.json
-2022-04-21T08:28:14.566Z - normal: Initializing Asset Database
-2022-04-21T08:28:14.570Z - normal: checking language setting...
-2022-04-21T08:28:14.570Z - normal: Language: zh
-2022-04-21T08:28:15.238Z - success: protocol editor-framework registered
-2022-04-21T08:28:15.238Z - success: protocol app registered
-2022-04-21T08:28:15.238Z - success: protocol theme registered
-2022-04-21T08:28:15.239Z - success: protocol packages registered
-2022-04-21T08:28:15.239Z - success: protocol uuid registerred
-2022-04-21T08:28:15.239Z - success: protocol db registerred
-2022-04-21T08:28:15.239Z - success: protocol thumbnail registerred
-2022-04-21T08:28:15.239Z - success: protocol unpack registerred
-2022-04-21T08:28:15.239Z - success: protocol disable-commonjs registerred
-2022-04-21T08:28:16.435Z - normal: connected!
-2022-04-21T08:28:16.437Z - normal: Check project /Users/shenfangqi/cocosPrj/war_nft
-2022-04-21T08:28:16.439Z - normal: Initializing project /Users/shenfangqi/cocosPrj/war_nft
-2022-04-21T08:28:16.562Z - success: adapters loaded
-2022-04-21T08:28:16.565Z - success: asset-db-debugger loaded
-2022-04-21T08:28:16.611Z - success: fb-audience-network loaded
-2022-04-21T08:28:16.633Z - success: fb-live-stream loaded
-2022-04-21T08:28:16.635Z - success: google-play-instant loaded
-2022-04-21T08:28:16.635Z - success: jsb-adapter loaded
-2022-04-21T08:28:16.638Z - success: package-manager loaded
-2022-04-21T08:28:16.638Z - success: runtime-adapters loaded
-2022-04-21T08:28:16.640Z - success: runtime-dev-tools loaded
-2022-04-21T08:28:16.642Z - success: ui-kit-preview-extra loaded
-2022-04-21T08:28:16.644Z - success: ui-kit-preview loaded
-2022-04-21T08:28:16.681Z - success: alipay-minigame loaded
-2022-04-21T08:28:16.728Z - success: assets loaded
-2022-04-21T08:28:16.730Z - success: baidugame-opendata loaded
-2022-04-21T08:28:16.731Z - success: baidugame loaded
-2022-04-21T08:28:16.735Z - success: builder loaded
-2022-04-21T08:28:16.737Z - success: bytedance-opendata loaded
-2022-04-21T08:28:16.738Z - success: bytedance loaded
-2022-04-21T08:28:16.740Z - success: channel-upload-tools loaded
-2022-04-21T08:28:16.745Z - success: cloud-function loaded
-2022-04-21T08:28:16.885Z - success: cocos-services loaded
-2022-04-21T08:28:16.889Z - success: console loaded
-2022-04-21T08:28:16.890Z - success: curve-editor loaded
-2022-04-21T08:28:16.898Z - success: fb-instant-games loaded
-2022-04-21T08:28:16.900Z - success: game-window loaded
-2022-04-21T08:28:16.900Z - success: google-instant-games loaded
-2022-04-21T08:28:16.903Z - success: hierarchy loaded
-2022-04-21T08:28:16.905Z - success: huawei-agc loaded
-2022-04-21T08:28:16.907Z - success: huawei-runtime loaded
-2022-04-21T08:28:16.910Z - success: inspector loaded
-2022-04-21T08:28:16.919Z - success: cpk-publish loaded
-2022-04-21T08:28:16.920Z - success: keystore loaded
-2022-04-21T08:28:16.930Z - success: link-sure-runtime loaded
-2022-04-21T08:28:16.940Z - success: node-library loaded
-2022-04-21T08:28:16.941Z - success: open-recent-items loaded
-2022-04-21T08:28:16.943Z - success: oppo-runtime loaded
-2022-04-21T08:28:16.944Z - success: package-asset loaded
-2022-04-21T08:28:16.945Z - success: preferences loaded
-2022-04-21T08:28:16.948Z - success: project-importer loaded
-2022-04-21T08:28:16.951Z - success: project-settings loaded
-2022-04-21T08:28:16.961Z - success: qtt-runtime loaded
-2022-04-21T08:28:16.965Z - success: scene loaded
-2022-04-21T08:28:16.966Z - success: simulator-debugger loaded
-2022-04-21T08:28:16.966Z - success: sprite-editor loaded
-2022-04-21T08:28:16.995Z - success: store loaded
-2022-04-21T08:28:16.998Z - success: timeline loaded
-2022-04-21T08:28:17.001Z - success: vivo-runtime loaded
-2022-04-21T08:28:17.002Z - success: wechatgame-opendata loaded
-2022-04-21T08:28:17.005Z - success: wechatgame loaded
-2022-04-21T08:28:17.007Z - success: xiaomi-runtime loaded
-2022-04-21T08:28:17.117Z - success: im-plugin loaded
-2022-04-21T08:28:17.118Z - success: preview server running at http://localhost:7456
-2022-04-21T08:28:18.368Z - normal: Initializing Cocos2d
-2022-04-21T08:28:18.671Z - normal: Initializing engine extends
-2022-04-21T08:28:19.405Z - info: Cocos Service load base data!
-2022-04-21T08:28:20.984Z - normal: Loading packages
-2022-04-21T08:28:20.986Z - normal: Watching packages
-2022-04-21T08:28:21.044Z - normal: Run Application
-2022-04-21T08:28:25.680Z - error: 9 already defined in Enum.
+2022-12-23T05:32:03.783Z - normal: Load ~/.CocosCreator/settings.json
+2022-12-23T05:32:03.821Z - normal: Initializing Asset Database
+2022-12-23T05:32:03.825Z - normal: checking language setting...
+2022-12-23T05:32:03.825Z - normal: Language: zh
+2022-12-23T05:32:04.567Z - success: protocol editor-framework registered
+2022-12-23T05:32:04.567Z - success: protocol app registered
+2022-12-23T05:32:04.567Z - success: protocol theme registered
+2022-12-23T05:32:04.567Z - success: protocol packages registered
+2022-12-23T05:32:04.567Z - success: protocol uuid registerred
+2022-12-23T05:32:04.568Z - success: protocol db registerred
+2022-12-23T05:32:04.568Z - success: protocol thumbnail registerred
+2022-12-23T05:32:04.568Z - success: protocol unpack registerred
+2022-12-23T05:32:04.568Z - success: protocol disable-commonjs registerred
+2022-12-23T05:32:06.132Z - normal: connected!
+2022-12-23T05:32:06.133Z - normal: Check project /Users/shenfangqi/cocosPrj/war_nft
+2022-12-23T05:32:06.135Z - normal: Initializing project /Users/shenfangqi/cocosPrj/war_nft
+2022-12-23T05:32:06.256Z - success: adapters loaded
+2022-12-23T05:32:06.259Z - success: asset-db-debugger loaded
+2022-12-23T05:32:06.307Z - success: fb-audience-network loaded
+2022-12-23T05:32:06.331Z - success: fb-live-stream loaded
+2022-12-23T05:32:06.332Z - success: google-play-instant loaded
+2022-12-23T05:32:06.333Z - success: jsb-adapter loaded
+2022-12-23T05:32:06.335Z - success: package-manager loaded
+2022-12-23T05:32:06.336Z - success: runtime-adapters loaded
+2022-12-23T05:32:06.337Z - success: runtime-dev-tools loaded
+2022-12-23T05:32:06.339Z - success: ui-kit-preview-extra loaded
+2022-12-23T05:32:06.340Z - success: ui-kit-preview loaded
+2022-12-23T05:32:06.373Z - success: alipay-minigame loaded
+2022-12-23T05:32:06.409Z - success: assets loaded
+2022-12-23T05:32:06.411Z - success: baidugame-opendata loaded
+2022-12-23T05:32:06.411Z - success: baidugame loaded
+2022-12-23T05:32:06.414Z - success: builder loaded
+2022-12-23T05:32:06.415Z - success: bytedance-opendata loaded
+2022-12-23T05:32:06.416Z - success: bytedance loaded
+2022-12-23T05:32:06.417Z - success: channel-upload-tools loaded
+2022-12-23T05:32:06.421Z - success: cloud-function loaded
+2022-12-23T05:32:06.551Z - success: cocos-services loaded
+2022-12-23T05:32:06.554Z - success: console loaded
+2022-12-23T05:32:06.557Z - success: curve-editor loaded
+2022-12-23T05:32:06.564Z - success: fb-instant-games loaded
+2022-12-23T05:32:06.566Z - success: game-window loaded
+2022-12-23T05:32:06.567Z - success: google-instant-games loaded
+2022-12-23T05:32:06.569Z - success: hierarchy loaded
+2022-12-23T05:32:06.571Z - success: huawei-agc loaded
+2022-12-23T05:32:06.574Z - success: huawei-runtime loaded
+2022-12-23T05:32:06.576Z - success: inspector loaded
+2022-12-23T05:32:06.587Z - success: cpk-publish loaded
+2022-12-23T05:32:06.587Z - success: keystore loaded
+2022-12-23T05:32:06.598Z - success: link-sure-runtime loaded
+2022-12-23T05:32:06.607Z - success: node-library loaded
+2022-12-23T05:32:06.607Z - success: open-recent-items loaded
+2022-12-23T05:32:06.610Z - success: oppo-runtime loaded
+2022-12-23T05:32:06.612Z - success: package-asset loaded
+2022-12-23T05:32:06.613Z - success: preferences loaded
+2022-12-23T05:32:06.616Z - success: project-importer loaded
+2022-12-23T05:32:06.618Z - success: project-settings loaded
+2022-12-23T05:32:06.628Z - success: qtt-runtime loaded
+2022-12-23T05:32:06.631Z - success: scene loaded
+2022-12-23T05:32:06.632Z - success: simulator-debugger loaded
+2022-12-23T05:32:06.632Z - success: sprite-editor loaded
+2022-12-23T05:32:06.667Z - success: store loaded
+2022-12-23T05:32:06.672Z - success: timeline loaded
+2022-12-23T05:32:06.676Z - success: vivo-runtime loaded
+2022-12-23T05:32:06.678Z - success: wechatgame-opendata loaded
+2022-12-23T05:32:06.682Z - success: wechatgame loaded
+2022-12-23T05:32:06.686Z - success: xiaomi-runtime loaded
+2022-12-23T05:32:06.829Z - success: im-plugin loaded
+2022-12-23T05:32:06.830Z - warn: The current '7456' preview port is already occupied, the port is automatically incremented
+2022-12-23T05:32:06.831Z - success: preview server running at http://localhost:7457
+2022-12-23T05:32:09.108Z - info: Cocos Service load base data!
+2022-12-23T05:32:09.718Z - normal: Initializing Cocos2d
+2022-12-23T05:32:10.014Z - normal: Initializing engine extends
+2022-12-23T05:32:12.534Z - normal: Loading packages
+2022-12-23T05:32:12.536Z - normal: Watching packages
+2022-12-23T05:32:12.612Z - normal: Run Application
+2022-12-23T05:32:18.845Z - error: 9 already defined in Enum.
     at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
     at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
     at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
@@ -82,302 +83,4 @@
     at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
     at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
     at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T09:27:16.894Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T09:45:34.981Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T10:02:12.279Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T10:02:32.563Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T10:04:57.117Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T10:05:24.919Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T10:05:55.731Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-21T10:07:06.923Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:07:07.256Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:09:15.986Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:09:43.716Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:12:46.840Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:13:20.338Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:14:29.184Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:16:39.696Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:17:59.692Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:19:14.931Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:20:16.721Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:24:34.746Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-22T02:31:40.419Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:45:41.862Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:46:50.443Z - failed: [db-task][sync-changes] Failed to import asset /Users/shenfangqi/cocosPrj/war_nft/assets/scripts/dragonbones/DragonBonesCtrl.js, message: Compile error: SyntaxError: /Users/shenfangqi/cocosPrj/war_nft/assets/scripts/dragonbones/DragonBonesCtrl.js: Identifier 'factory' has already been declared (117:4)
-
-  115 | 
-  116 | var newWeaponName = WEAPON_L_LIST[this._weaponLIndex];
-> 117 | let factory = dragonBones.CCFactory.getInstance();
-      |     ^
-  118 | this._weaponL = factory.buildArmature(newWeaponName);
-  119 | this._armature.getSlot('weapon_l').childArmature = this._weaponL;
-  120 | 
-    at Parser._raise (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:757:17)
-    at Parser.raiseWithData (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:750:17)
-    at Parser.raise (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:744:17)
-    at ScopeHandler.checkRedeclarationInScope (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:4803:12)
-    at ScopeHandler.declareName (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:4769:12)
-    at Parser.checkLVal (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:9288:22)
-    at Parser.parseVarId (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:11891:10)
-    at Parser.parseVar (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:11866:12)
-    at Parser.parseVarStatement (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:11678:10)
-    at Parser.parseStatementContent (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/app.asar/node_modules/@babel/parser/lib/index.js:11277:21)
-2022-04-23T09:48:46.706Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:49:08.256Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:49:33.823Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:49:58.384Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:50:21.769Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:50:42.446Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
-2022-04-23T09:50:56.642Z - error: 9 already defined in Enum.
-    at Object.cc.errorID (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/CCDebug.js:257:6)
-    at Object.Enum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/platform/CCEnum.js:87:12)
-    at dragonBones_DragonBonesAsset.cc.Class.getAnimsEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/DragonBonesAsset.js:192:17)
-    at dragonBones_ArmatureDisplay.cc.Class._updateAnimEnum (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:809:35)
-    at dragonBones_ArmatureDisplay._refresh (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:790:12)
-    at dragonBones_ArmatureDisplay._init (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:504:10)
-    at dragonBones_ArmatureDisplay.__preload (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/extensions/dragonbones/ArmatureDisplay.js:492:10)
-    at eval (eval at createInvokeImpl (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:236:53), <anonymous>:3:65)
-    at CCClass._invoke (/Applications/CocosCreator/Creator/2.4.3/CocosCreator.app/Contents/Resources/engine/bin/.cache/dev/cocos2d/core/component-scheduler.js:242:7)
+2022-12-23T05:33:12.798Z - info: shutdown preview server
